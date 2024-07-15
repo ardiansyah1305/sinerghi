@@ -2120,6 +2120,7 @@ DEBUG - 2024-07-15 03:53:00 --> User Data: Array
     [updated_at] => 2024-07-15 00:58:59
 )
 
+<<<<<<< HEAD
 INFO - 2024-07-15 04:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 ERROR - 2024-07-15 04:23:50 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'hellodesk' in C:\laragon\www\SINERGHI\SINERGHI\system\Database\MySQLi\Connection.php:186
 Stack trace:
@@ -2425,5 +2426,170 @@ DEBUG - 2024-07-15 04:40:03 --> User Data: Array
     [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
     [created_at] => 2024-07-09 04:59:40
     [updated_at] => 2024-07-09 04:59:40
+=======
+INFO - 2024-07-15 04:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:12:35 --> User ID: 2
+DEBUG - 2024-07-15 04:12:36 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:12:42 --> User ID: 2
+DEBUG - 2024-07-15 04:12:42 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:12:56 --> User ID: 2
+DEBUG - 2024-07-15 04:12:56 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:12:57 --> User ID: 2
+DEBUG - 2024-07-15 04:12:57 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:13:04 --> User ID: 2
+DEBUG - 2024-07-15 04:13:04 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:13:05 --> User ID: 2
+DEBUG - 2024-07-15 04:13:05 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:13:07 --> User ID: 2
+DEBUG - 2024-07-15 04:13:07 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:13:08 --> User ID: 2
+DEBUG - 2024-07-15 04:13:08 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:13:10 --> User ID: 2
+DEBUG - 2024-07-15 04:13:10 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:19:35 --> User ID: 2
+DEBUG - 2024-07-15 04:19:35 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:19:37 --> User ID: 2
+DEBUG - 2024-07-15 04:19:37 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:38:55 --> User ID: 2
+DEBUG - 2024-07-15 04:38:55 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:38:57 --> User ID: 2
+DEBUG - 2024-07-15 04:38:57 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:38:58 --> User ID: 2
+DEBUG - 2024-07-15 04:38:58 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+)
+
+INFO - 2024-07-15 04:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:38:59 --> User ID: 2
+DEBUG - 2024-07-15 04:38:59 --> User Data: Array
+(
+    [id] => 2
+    [username] => horas@gmail.com
+    [password] => $2y$10$ybwTvS1MAORv6zSDFMMareDG81vby.SNprn/LdTxJPIaM135Ew8Fm
+    [created_at] => 2024-07-15 00:58:59
+    [updated_at] => 2024-07-15 00:58:59
+>>>>>>> 4b58c3c9ddc80d493d058a63dd4ea4a89b23b9fe
 )
 

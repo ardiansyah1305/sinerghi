@@ -71,8 +71,8 @@
     <span class="close-btn" id="closePopup">&times;</span>
     <div class="carousel">
         <div class="carousel-image-wrapper">
-            <img src="images/figure1.png" class="carousel-slide" alt="Logo 1">
-            <img src="images/figure2.png" class="carousel-slide" alt="Logo 2">
+            <img src="images/popup1.png" class="carousel-slide" alt="Logo 1">
+            <img src="images/popup2.png" class="carousel-slide" alt="Logo 2">
         </div>
         <a class="prev" id="prevSlide">&#10094;</a>
         <a class="next" id="nextSlide">&#10095;</a>
