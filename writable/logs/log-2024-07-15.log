@@ -2593,3 +2593,201 @@ DEBUG - 2024-07-15 04:38:59 --> User Data: Array
 >>>>>>> 4b58c3c9ddc80d493d058a63dd4ea4a89b23b9fe
 )
 
+INFO - 2024-07-15 04:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:56:35 --> User ID: 13
+DEBUG - 2024-07-15 04:56:35 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 04:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 04:56:37 --> User ID: 13
+DEBUG - 2024-07-15 04:56:37 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:18:18 --> User ID: 13
+DEBUG - 2024-07-15 06:18:18 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:18:20 --> User ID: 13
+DEBUG - 2024-07-15 06:18:20 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:18:54 --> User ID: 13
+DEBUG - 2024-07-15 06:18:54 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:18:55 --> User ID: 13
+DEBUG - 2024-07-15 06:18:55 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:19:11 --> User ID: 13
+DEBUG - 2024-07-15 06:19:11 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:19:12 --> User ID: 13
+DEBUG - 2024-07-15 06:19:12 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:19:55 --> User ID: 13
+DEBUG - 2024-07-15 06:19:55 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:19:57 --> User ID: 13
+DEBUG - 2024-07-15 06:19:57 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:26:29 --> User ID: 13
+DEBUG - 2024-07-15 06:26:29 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:26:32 --> User ID: 13
+DEBUG - 2024-07-15 06:26:32 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:27:45 --> User ID: 13
+DEBUG - 2024-07-15 06:27:45 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:27:46 --> User ID: 13
+DEBUG - 2024-07-15 06:27:46 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:27:50 --> User ID: 13
+DEBUG - 2024-07-15 06:27:50 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:27:51 --> User ID: 13
+DEBUG - 2024-07-15 06:27:51 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:29:28 --> User ID: 13
+DEBUG - 2024-07-15 06:29:28 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-15 06:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-15 06:29:30 --> User ID: 13
+DEBUG - 2024-07-15 06:29:30 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
