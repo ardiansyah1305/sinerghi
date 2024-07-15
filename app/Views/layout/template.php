@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-md-6 offset-md-3">
                     <ul class="sociel">
-                        <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.facebook.com/KemenkopmkRI"><i class="fa fa-facebook-f"></i></a></li>
+                        <li><a href="https://x.com/kemenkopmk"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/kemenko_pmk"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCS_4jzQs7bywNQrJ-AmoWVg/channels"><i class="fa fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
