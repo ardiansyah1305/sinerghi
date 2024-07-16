@@ -16,9 +16,22 @@
                 <?php
                 $cards = [
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "KEPEGAWAIAN", "links" => [
-                        ["name" => "SIPK", "url" => "https://sipkv2.kemenkopmk.go.id"],
-                        ["name" => "SIAP", "url" => "https://example.com/siiii"],
-                        ["name" => "REALTEAM", "url" => "https://example.com/siof"],
+                        ["name" => "Siasn", "url" => "https://sipkv2.kemenkopmk.go.id"],
+                        ["name" => "myASN ", "url" => "https://example.com/siiii"],
+                        ["name" => "Kinerja ASN ", "url" => "https://example.com/siof"],
+                        ["name" => "jafungbps", "url" => "https://example.com/siof"],
+                        ["name" => "jafungperencana-sikeren", "url" => "https://example.com/siof"],
+                        ["name" => "jafungAK", "url" => "https://example.com/siof"],
+                        ["name" => "pengadaanASN-SSCASN", "url" => "https://example.com/siof"],
+                        ["name" => "pengadaanJPT", "url" => "https://example.com/siof"],
+                        ["name" => "Formasi Hukdis-Idis ", "url" => "https://example.com/siof"],
+                        ["name" => "NSPK SIAPP-setneg  ", "url" => "https://example.com/siof"],
+                        ["name" => "Pemberhentian-Kanjenk", "url" => "https://example.com/siof"],
+                        ["name" => "Smartgov", "url" => "https://smartgov.id/"],
+                        ["name" => "SIPINTER-merit", "url" => "https://example.com/siof"],
+                        ["name" => "SISDMK Renbut", "url" => "https://example.com/siof"],
+                        ["name" => "LHKPN", "url" => "https://elhkpn.kpk.go.id/portal/user/login#"],
+                        ["name" => "Pajak-efin", "url" => "https://example.com/siof"]
                     ]],
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "ABSENSI", "links" => [
                         ["name" => "SIPK", "url" => "https://sipkv2.kemenkopmk.go.id/"],
@@ -30,7 +43,7 @@
                         ["name" => "FORM CUTI", "url" => "https://siasn.bkn.go.id/"]
                     ]],
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "CATATAN HARIAN", "links" => [
-                        ["name" => "Ekin", "url" => "#"],
+                        ["name" => "Ekin", "url" => "https://kinerja.bkn.go.id/login"],
                         ["name" => "Catatan Kegiatan", "url" => "#"]
                     ]]
                 ];
@@ -93,7 +106,7 @@
                         ["name" => "Jdih", "url" => "https://jdih.kemenkopmk.go.id/"]
                     ]],
                     ["color" => "#0000FF", "icon" => "fa-book", "title" => "KESEHATAN", "links" => [
-                        ["name" => "Klinik", "url" => "#"]
+                        ["name" => "Klinik", "url" => "http://192.168.10.171/apps/SIMpel"]
                     ]],
                     ["color" => "#0000FF", "icon" => "fa-book", "title" => "RUANG RAPAT", "links" => [
                         ["name" => "BOOKING RUANG RAPAT", "url" => "http://rapat.kemenkopmk.go.id/"]
@@ -185,7 +198,7 @@
                         ["name" => "Arsip Dinamis-SRIKANDI", "url" => "https://srikandi.arsip.go.id"],
                         ["name" => "Arsip Statis-SIKN", "url" => "https://sikn.anri.go.id/"],
                         ["name" => "BMN-SAKTI", "url" => "#"],
-                        ["name" => "Pengelolaan BMN-SIMAN", "url" => "#"]
+                        ["name" => "Pengelolaan BMN-SIMAN", "url" => "https://www.djkn.kemenkeu.go.id/websiman/"]
                     ]],
                     ["color" => "#e88504", "icon" => "fa-leaf", "title" => "PENGAWASAN", "links" => [
                         ["name" => "Option 1", "url" => "#"]

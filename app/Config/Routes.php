@@ -15,3 +15,4 @@ $routes->get('/dashboard', 'DashboardControllers::index');
 $routes->get('/layanan', 'LayananController::index');
 $routes->get('/referensi', 'ReferensiController::index');
 $routes->get('/organisasi', 'OrganisasiController::index');
+$routes->get('/pengumuman', 'PengumumanController::index');

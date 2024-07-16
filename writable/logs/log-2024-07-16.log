@@ -1487,3 +1487,424 @@ DEBUG - 2024-07-16 07:38:51 --> User Data: Array
     [updated_at] => 2024-07-16 01:48:46
 )
 
+INFO - 2024-07-16 08:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:16:19 --> User ID: 13
+DEBUG - 2024-07-16 08:16:19 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:16:28 --> User ID: 13
+DEBUG - 2024-07-16 08:16:28 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:16:30 --> User ID: 13
+DEBUG - 2024-07-16 08:16:30 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:16:47 --> User ID: 13
+DEBUG - 2024-07-16 08:16:47 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-16 08:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:18:30 --> User ID: 13
+DEBUG - 2024-07-16 08:18:31 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:18:47 --> User ID: 13
+DEBUG - 2024-07-16 08:18:47 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:18:48 --> User ID: 13
+DEBUG - 2024-07-16 08:18:48 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:18:49 --> User ID: 13
+DEBUG - 2024-07-16 08:18:49 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:26:13 --> User ID: 13
+DEBUG - 2024-07-16 08:26:13 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+CRITICAL - 2024-07-16 08:40:04 --> Error: Call to undefined method CodeIgniter\Autoloader\Autoloader::extend()
+[Method: GET, Route: layanan]
+in APPPATH\Controllers\LayananController.php on line 1.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\SINERGHI\\SINERGHI\\app\\Controllers\\LayananController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LayananController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LayananController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\LayananController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\SINERGHI\\public\\index.php')
+CRITICAL - 2024-07-16 08:40:25 --> Error: Call to undefined method CodeIgniter\Autoloader\Autoloader::extend()
+[Method: GET, Route: layanan]
+in APPPATH\Controllers\LayananController.php on line 1.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\SINERGHI\\SINERGHI\\app\\Controllers\\LayananController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LayananController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LayananController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\LayananController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\SINERGHI\\public\\index.php')
+CRITICAL - 2024-07-16 08:40:26 --> Error: Call to undefined method CodeIgniter\Autoloader\Autoloader::extend()
+[Method: GET, Route: layanan]
+in APPPATH\Controllers\LayananController.php on line 1.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\SINERGHI\\SINERGHI\\app\\Controllers\\LayananController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LayananController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LayananController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\LayananController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\SINERGHI\\public\\index.php')
+CRITICAL - 2024-07-16 08:40:31 --> Error: Call to undefined method CodeIgniter\Autoloader\Autoloader::extend()
+[Method: GET, Route: layanan]
+in APPPATH\Controllers\LayananController.php on line 1.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\SINERGHI\\SINERGHI\\app\\Controllers\\LayananController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LayananController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LayananController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\LayananController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\SINERGHI\\public\\index.php')
+INFO - 2024-07-16 08:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:40:45 --> User ID: 13
+DEBUG - 2024-07-16 08:40:45 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:40:57 --> User ID: 13
+DEBUG - 2024-07-16 08:40:57 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:42:50 --> User ID: 13
+DEBUG - 2024-07-16 08:42:50 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:56:11 --> User ID: 13
+DEBUG - 2024-07-16 08:56:11 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:56:13 --> User ID: 13
+DEBUG - 2024-07-16 08:56:13 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:57:32 --> User ID: 13
+DEBUG - 2024-07-16 08:57:32 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:57:35 --> User ID: 13
+DEBUG - 2024-07-16 08:57:35 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+CRITICAL - 2024-07-16 08:57:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "pengumuman class="
+[Method: GET, Route: pengumuman%20class=]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('pengumuman class=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('pengumuman class=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\SINERGHI\\public\\index.php')
+INFO - 2024-07-16 08:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:57:45 --> User ID: 13
+DEBUG - 2024-07-16 08:57:45 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:58:28 --> User ID: 13
+DEBUG - 2024-07-16 08:58:28 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:58:34 --> User ID: 13
+DEBUG - 2024-07-16 08:58:34 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:58:47 --> User ID: 13
+DEBUG - 2024-07-16 08:58:47 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:58:52 --> User ID: 13
+DEBUG - 2024-07-16 08:58:52 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:59:24 --> User ID: 13
+DEBUG - 2024-07-16 08:59:24 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 08:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 08:59:25 --> User ID: 13
+DEBUG - 2024-07-16 08:59:25 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+CRITICAL - 2024-07-16 08:59:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pengumuman/pengumuman.php"
+[Method: GET, Route: pengumuman]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pengumuman/pengumuman.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('pengumuman/pengumuman', [], true)
+ 3 APPPATH\Controllers\PengumumanController.php(45): view('pengumuman/pengumuman', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PengumumanController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengumumanController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\SINERGHI\\public\\index.php')
+INFO - 2024-07-16 09:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:00:37 --> User ID: 13
+DEBUG - 2024-07-16 09:00:37 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 09:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:00:39 --> User ID: 13
+DEBUG - 2024-07-16 09:00:39 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 09:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:01:01 --> User ID: 13
+DEBUG - 2024-07-16 09:01:01 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 09:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:01:02 --> User ID: 13
+DEBUG - 2024-07-16 09:01:02 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 09:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:01:04 --> User ID: 13
+DEBUG - 2024-07-16 09:01:04 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 09:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:01:05 --> User ID: 13
+DEBUG - 2024-07-16 09:01:05 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
+INFO - 2024-07-16 09:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:01:07 --> User ID: 13
+DEBUG - 2024-07-16 09:01:07 --> User Data: Array
+(
+    [id] => 13
+    [username] => hadid@gmail.com
+    [password] => $2y$10$P/92B76.qm0cYlnrcQE7pOLj/AUcdcSf3XMZ9rV.xeZd09jvBgcZa
+    [created_at] => 2024-07-09 04:59:40
+    [updated_at] => 2024-07-09 04:59:40
+)
+
