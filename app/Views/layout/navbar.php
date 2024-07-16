@@ -6,8 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- mobile metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- site metas -->
     <title>PMK</title>
     <meta name="keywords" content="">
@@ -32,18 +31,40 @@
 
     <style>
         .user-box {
-            padding-top: 29px;
-            padding-left: 29px;
             text-align: right;
             font-size: 16px;
             color: #114c7;
-            /* Adjust color as needed */
         }
 
         .user-box a {
             color: #114c7;
-            /* Adjust color as needed */
             text-decoration: none;
+        }
+
+        @media (max-width: 767px) {
+            .user-box {
+                text-align: center;
+                padding-top: 10px;
+            }
+
+            .user-box a {
+                font-size: 14px;
+            }
+
+            .logo_section {
+                text-align: center;
+                margin-bottom: 15px;
+            }
+
+            .menu-area-main {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .menu-area-main li {
+                margin-bottom: 10px;
+            }
         }
     </style>
 </head>
@@ -72,14 +93,14 @@
             </div>
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 logo_section">
                         <div class="full">
                             <div class="center-desk">
                                 <div class="logo"><a href="index.php"><img src="images/logokmk.png" alt="logo" /></a></div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-8 col-sm-8">
+                    <div class="col-xl-6 col-lg-6 col-md-8 col-sm-12">
                         <div class="menu-area">
                             <div class="limit-box">
                                 <nav class="main-menu">
@@ -93,10 +114,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12">
+                    <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
                         <div class="user-box">
                             <a href="#">Holaa, <?= esc(explode('@', $username)[0]) ?></a>
-
                         </div>
                     </div>
                 </div>

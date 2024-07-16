@@ -6,10 +6,10 @@
     <div id="main_slider" class="carousel slide banner-main" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="img-fluid d-block w-100" src="images/slider2.png" alt="First slide">
+                <img class="img-fluid d-block w-100" src="images/announ1.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-                <img class="img-fluid d-block w-100" src="images/slider1.png" alt="Second slide">
+                <img class="img-fluid d-block w-100" src="images/announ2.jpg" alt="Second slide">
             </div>
         </div>
         <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
@@ -30,33 +30,33 @@
         <div class="row justify-content-center">
             <div class="col-md-3 mb-4">
                 <a href="halaman1.html" class="card-link">
-                    <div class="card custom-card">
+                    <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure1.png" alt="Announcement Image">
-                        <div class="card-body">
+                        <div class="card-body text-left">
                             <h5 class="card-title">Pengumuman</h5>
-                            <p class="card-text">Ini adalah keterangan teks yang berisi informasi penting.......</p>
+                            <p class="card-text keterangan">Ini adalah keterangan teks yang berisi informasi penting.......</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 mb-4">
                 <a href="halaman2.html" class="card-link">
-                    <div class="card custom-card">
+                    <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure2.png" alt="Announcement Image">
-                        <div class="card-body">
-                            <h5 class="card-title">Pengumuman</h5>Ini adalah keterangan teks yang berisi informasi penting........</p>
+                        <div class="card-body text-left">
+                            <h5 class="card-title">Pengumuman</h5>
+                            <p class="card-text keterangan">Ini adalah keterangan teks yang berisi informasi penting.......</p>
                         </div>
-                            <p class="card-text">
                     </div>
                 </a>
             </div>
             <div class="col-md-3 mb-4">
                 <a href="halaman3.html" class="card-link">
-                    <div class="card custom-card">
+                    <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure2.png" alt="Announcement Image">
-                        <div class="card-body">
+                        <div class="card-body text-left">
                             <h5 class="card-title">Pengumuman</h5>
-                            <p class="card-text">Ini adalah keterangan teks yang berisi informasi penting.......</p>
+                            <p class="card-text keterangan">Ini adalah keterangan teks yang berisi informasi penting.......</p>
                         </div>
                     </div>
                 </a>
@@ -80,5 +80,3 @@
 </div>
 
 <?= $this->endSection(); ?>
-
-

@@ -33,7 +33,7 @@
                 foreach ($cards as $index => $card) {
                     $delay = ($index % 4 == 0) ? "0.1s" : (($index % 4 == 1) ? "0.3s" : (($index % 4 == 2) ? "0.5s" : "0.7s"));
                 ?>
-                    <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-delay="<?= $delay ?>">
+                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="<?= $delay ?>">
                         <div class="service-item rounded overflow-hidden" data-toggle="modal" data-target="#serviceModal<?= $index ?>" style="height: 210px;">
                             <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
                                 <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
@@ -95,7 +95,7 @@
                 foreach ($cards as $index => $card) {
                     $delay = ($index % 4 == 0) ? "0.1s" : (($index % 4 == 1) ? "0.3s" : (($index % 4 == 2) ? "0.5s" : "0.7s"));
                 ?>
-                    <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-delay="<?= $delay ?>">
+                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="<?= $delay ?>">
                         <div class="service-item rounded overflow-hidden" data-toggle="modal" data-target="#serviceModal<?= $index + 4 ?>" style="height: 210px;">
                             <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
                                 <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
@@ -166,7 +166,7 @@
                 foreach ($cards as $index => $card) {
                     $delay = ($index % 3 == 0) ? "0.1s" : (($index % 3 == 1) ? "0.3s" : "0.5s");
                 ?>
-                    <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-delay="<?= $delay ?>">
+                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="<?= $delay ?>">
                         <div class="service-item rounded overflow-hidden" data-toggle="modal" data-target="#serviceModal<?= $index + 7 ?>" style="height: 210px;">
                             <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
                                 <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
@@ -265,6 +265,12 @@
         color: #000000 !important;
         font-weight: bold;
         font-size: 24px;
+    }
+
+    @media (max-width: 767px) {
+        .service-item {
+            margin-bottom: 20px;
+        }
     }
 </style>
 
