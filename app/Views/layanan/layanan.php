@@ -13,7 +13,7 @@
 
             <!-- Layanan ASN -->
             <div class="row g-4 justify-content-center">
-                <?php 
+                <?php
                 $cards = [
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "KEPEGAWAIAN", "links" => [
                         ["name" => "SIPK", "url" => "https://sipkv2.kemenkopmk.go.id"],
@@ -21,13 +21,17 @@
                         ["name" => "REALTEAM", "url" => "https://example.com/siof"],
                     ]],
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "ABSENSI", "links" => [
-                        ["name" => "Financial Management", "url" => "https://example.com/keuangan"]
+                        ["name" => "SIPK", "url" => "https://sipkv2.kemenkopmk.go.id/"],
+                        ["name" => "SIAPP", "url" => "http://siapp.kemenkopmk.go.id/login.php"],
+                        ["name" => "REALTEAM", "url" => "http://realtime.kemenkopmk.go.id/"],
+                        ["name" => "FormAbsen", "url" => "#"]
                     ]],
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "CUTI", "links" => [
-                        ["name" => "HR Development", "url" => "https://example.com/sdm"]
+                        ["name" => "FORM CUTI", "url" => "https://siasn.bkn.go.id/"]
                     ]],
                     ["color" => "#8B0000", "icon" => "fa-users", "title" => "CATATAN HARIAN", "links" => [
-                        ["name" => "Health Services", "url" => "https://example.com/kesehatan"]
+                        ["name" => "Ekin", "url" => "#"],
+                        ["name" => "Catatan Kegiatan", "url" => "#"]
                     ]]
                 ];
                 foreach ($cards as $index => $card) {
@@ -57,7 +61,7 @@
                                 <div class="modal-body">
                                     <h5 class="modal-text">Link Terkait</h5>
                                     <ul class="modal-text">
-                                        <?php foreach($card['links'] as $link): ?>
+                                        <?php foreach ($card['links'] as $link) : ?>
                                             <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="Tooltip"><?= $link['name'] ?></a></li>
                                         <?php endforeach; ?>
                                     </ul>
@@ -80,16 +84,19 @@
 
             <!-- Administrasi Layanan ASN -->
             <div class="row g-4 justify-content-center">
-                <?php 
+                <?php
                 $cards = [
-                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "Layanan Pendidikan", "links" => [
-                        ["name" => "Educational Services", "url" => "https://example.com/pendidikan"]
+                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "PENGETAHUAN", "links" => [
+                        ["name" => "Perpustakaan", "url" => "http://perpustakaan.kemenkopmk.go.id/perpus/"],
+                        ["name" => "Knowledge manajemen", "url" => "https://sipkv2.kemenkopmk.go.id/"],
+                        ["name" => "Jurnal", "url" => "http://jurnal.kemenkopmk.go.id/"],
+                        ["name" => "Jdih", "url" => "https://jdih.kemenkopmk.go.id/"]
                     ]],
-                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "Pelayanan Sosial", "links" => [
-                        ["name" => "Social Services", "url" => "https://example.com/sosial"]
+                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "KESEHATAN", "links" => [
+                        ["name" => "Klinik", "url" => "#"]
                     ]],
-                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "Layanan Kebudayaan", "links" => [
-                        ["name" => "Cultural Services", "url" => "https://example.com/kebudayaan"]
+                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "RUANG RAPAT", "links" => [
+                        ["name" => "BOOKING RUANG RAPAT", "url" => "http://rapat.kemenkopmk.go.id/"]
                     ]]
                 ];
                 foreach ($cards as $index => $card) {
@@ -119,7 +126,7 @@
                                 <div class="modal-body">
                                     <h5 class="modal-text">Link Terkait</h5>
                                     <ul class="modal-text">
-                                        <?php foreach($card['links'] as $link): ?>
+                                        <?php foreach ($card['links'] as $link) : ?>
                                             <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="Tooltip"><?= $link['name'] ?></a></li>
                                         <?php endforeach; ?>
                                     </ul>
@@ -142,27 +149,49 @@
 
             <!-- Layanan IT -->
             <div class="row g-4 justify-content-center">
-                <?php 
+                <?php
                 $cards = [
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "Lingkungan Hidup", "links" => [
-                        ["name" => "Environmental Services", "url" => "https://example.com/lingkungan"]
+                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "lAYANAN IT", "links" => [
+                        ["name" => "Option 1", "url" => "#"]
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "Transportasi", "links" => [
-                        ["name" => "Transportation Services", "url" => "https://example.com/transportasi"]
+                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "LAPORAN KINERJA", "links" => [
+                        ["name" => "Kinerja Unit-SIPP", "url" => "http://sippv3.kemenkopmk.go.id/"],
+                        ["name" => "E-sakip reviu", "url" => "http://esr.menpan.go.id/"],
+                        ["name" => "Monitor KerjaAnggaran-SMARTs", "url" => "http://smart.kemenkeu.go.id/"],
+                        ["name" => "E-Monev Bapena", "url" => "http://e-monev.bappenas.go.id/"],
+                        ["name" => "Serambi", "url" => "http://serambi.ksp.go.id/"],
+                        ["name" => "Simonsikat-terorisme", "url" => "http://simonsikat.bnpt.go.id/"],
+                        ["name" => "Renaksi inpres", "url" => "http://inpresp4gn.bnn.go.id/"],
+                        ["name" => "Renaksi HAM", "url" => "http://serambi.ksp.go.id/"],
+                        ["name" => "Kepuasan", "url" => "http://surveikspk.kemenkopmk.go.id/"]
+
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "Komunikasi dan Informasi", "links" => [
-                        ["name" => "Communication Services", "url" => "https://example.com/komunikasi"]
+                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "TATA KELOLA", "links" => [
+                        ["name" => "Option 1", "url" => "#"]
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "Sistem Informasi", "links" => [
-                        ["name" => "Information Systems", "url" => "https://example.com/informasi"]
+
+
+                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "KEUANGAN", "links" => [
+                        ["name" => "SAKTI", "url" => "http://sakti.kemenkeu.go.id/"],
+                        ["name" => "Monitor-Omspan", "url" => "#"],
+                        ["name" => "Gaji", "url" => "#"],
+                        ["name" => "Kembali Kas-Simponi", "url" => "https://www.simponi.kemenkeu.go.id/"],
+                        ["name" => "Potong Pajak-ebupot", "url" => "#"],
+                        ["name" => "Pengadaan BJ-LPSE", "url" => "https://www.lpse.kemenkeu.go.id/eproc4"],
+                        ["name" => "Pengadaan RUP-SIRUP", "url" => "https://sirup.lkpp.go.id/"],
+                        ["name" => "PAPBJ", "url" => "#"],
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "Pengolahan Data", "links" => [
-                        ["name" => "Data Processing", "url" => "https://example.com/pengolahan"]
+                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "ADMINISTRASI", "links" => [
+                        ["name" => "Arsip Dinamis-SRIKANDI", "url" => "https://srikandi.arsip.go.id"],
+                        ["name" => "Arsip Statis-SIKN", "url" => "https://sikn.anri.go.id/"],
+                        ["name" => "BMN-SAKTI", "url" => "#"],
+                        ["name" => "Pengelolaan BMN-SIMAN", "url" => "#"]
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "Pengelolaan IT", "links" => [
-                        ["name" => "IT Management", "url" => "https://example.com/management"]
+                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "PENGAWASAN", "links" => [
+                        ["name" => "Option 1", "url" => "#"]
                     ]]
                 ];
+
                 foreach ($cards as $index => $card) {
                     $delay = ($index % 3 == 0) ? "0.1s" : (($index % 3 == 1) ? "0.3s" : "0.5s");
                 ?>
@@ -190,7 +219,7 @@
                                 <div class="modal-body">
                                     <h5 class="modal-text">Link Terkait</h5>
                                     <ul class="modal-text">
-                                        <?php foreach($card['links'] as $link): ?>
+                                        <?php foreach ($card['links'] as $link) : ?>
                                             <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="Tooltip"><?= $link['name'] ?></a></li>
                                         <?php endforeach; ?>
                                     </ul>
@@ -246,11 +275,13 @@
     }
 
     .modal-body h5 {
-        font-size: 18px; /* Ukuran teks heading dalam modal */
+        font-size: 18px;
+        /* Ukuran teks heading dalam modal */
     }
 
     .modal-body a {
-        font-size: 25px; /* Ukuran teks link */
+        font-size: 25px;
+        /* Ukuran teks link */
     }
 
     .fa-3x {

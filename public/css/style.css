@@ -2043,3 +2043,73 @@ ul.lik li a:hover {
 .card-link:hover .keterangan {
     text-decoration: underline;
 }
+
+
+/** Css Refrensi **/
+.card-header {
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bg-custom {
+    background-color: #32C2B8;
+}
+
+.list-group-item {
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.list-group-item:hover {
+    background-color: #f0f0f0;
+    color: #007bff;
+}
+
+.content-section {
+    display: none;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.content-section.active {
+    display: block;
+}
+
+.input-group {
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.shadow-sm {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
