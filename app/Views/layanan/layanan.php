@@ -15,7 +15,7 @@
             <div class="row g-4 justify-content-center">
                 <?php
                 $cards = [
-                    ["color" => "#8B0000", "icon" => "fa-users", "title" => "KEPEGAWAIAN", "links" => [
+                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "KEPEGAWAIAN", "links" => [
                         ["name" => "Siasn", "url" => "https://sipkv2.kemenkopmk.go.id"],
                         ["name" => "myASN ", "url" => "https://example.com/siiii"],
                         ["name" => "Kinerja ASN ", "url" => "https://example.com/siof"],
@@ -33,16 +33,16 @@
                         ["name" => "LHKPN", "url" => "https://elhkpn.kpk.go.id/portal/user/login#"],
                         ["name" => "Pajak-efin", "url" => "https://example.com/siof"]
                     ]],
-                    ["color" => "#8B0000", "icon" => "fa-users", "title" => "ABSENSI", "links" => [
+                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "ABSENSI", "links" => [
                         ["name" => "SIPK", "url" => "https://sipkv2.kemenkopmk.go.id/"],
                         ["name" => "SIAPP", "url" => "http://siapp.kemenkopmk.go.id/login.php"],
                         ["name" => "REALTEAM", "url" => "http://realtime.kemenkopmk.go.id/"],
                         ["name" => "FormAbsen", "url" => "#"]
                     ]],
-                    ["color" => "#8B0000", "icon" => "fa-users", "title" => "CUTI", "links" => [
+                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "CUTI", "links" => [
                         ["name" => "FORM CUTI", "url" => "https://siasn.bkn.go.id/"]
                     ]],
-                    ["color" => "#8B0000", "icon" => "fa-users", "title" => "CATATAN HARIAN", "links" => [
+                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "CATATAN HARIAN", "links" => [
                         ["name" => "Ekin", "url" => "https://kinerja.bkn.go.id/login"],
                         ["name" => "Catatan Kegiatan", "url" => "#"]
                     ]]
@@ -99,16 +99,16 @@
             <div class="row g-4 justify-content-center">
                 <?php
                 $cards = [
-                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "PENGETAHUAN", "links" => [
+                    ["color" => "#7BA9A9", "icon" => "fa-book", "title" => "PENGETAHUAN", "links" => [
                         ["name" => "Perpustakaan", "url" => "http://perpustakaan.kemenkopmk.go.id/perpus/"],
                         ["name" => "Knowledge manajemen", "url" => "https://sipkv2.kemenkopmk.go.id/"],
                         ["name" => "Jurnal", "url" => "http://jurnal.kemenkopmk.go.id/"],
                         ["name" => "Jdih", "url" => "https://jdih.kemenkopmk.go.id/"]
                     ]],
-                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "KESEHATAN", "links" => [
+                    ["color" => "#7BA9A9", "icon" => "fa-book", "title" => "KESEHATAN", "links" => [
                         ["name" => "Klinik", "url" => "http://192.168.10.171/apps/SIMpel"]
                     ]],
-                    ["color" => "#0000FF", "icon" => "fa-book", "title" => "RUANG RAPAT", "links" => [
+                    ["color" => "#7BA9A9", "icon" => "fa-book", "title" => "RUANG RAPAT", "links" => [
                         ["name" => "BOOKING RUANG RAPAT", "url" => "http://rapat.kemenkopmk.go.id/"]
                     ]]
                 ];
@@ -164,10 +164,10 @@
             <div class="row g-4 justify-content-center">
                 <?php
                 $cards = [
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "lAYANAN IT", "links" => [
+                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "lAYANAN IT", "links" => [
                         ["name" => "Option 1", "url" => "#"]
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "LAPORAN KINERJA", "links" => [
+                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "LAPORAN KINERJA", "links" => [
                         ["name" => "Kinerja Unit-SIPP", "url" => "http://sippv3.kemenkopmk.go.id/"],
                         ["name" => "E-sakip reviu", "url" => "http://esr.menpan.go.id/"],
                         ["name" => "Monitor KerjaAnggaran-SMARTs", "url" => "http://smart.kemenkeu.go.id/"],
@@ -179,12 +179,12 @@
                         ["name" => "Kepuasan", "url" => "http://surveikspk.kemenkopmk.go.id/"]
 
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "TATA KELOLA", "links" => [
+                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "TATA KELOLA", "links" => [
                         ["name" => "Option 1", "url" => "#"]
                     ]],
 
 
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "KEUANGAN", "links" => [
+                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "KEUANGAN", "links" => [
                         ["name" => "SAKTI", "url" => "http://sakti.kemenkeu.go.id/"],
                         ["name" => "Monitor-Omspan", "url" => "#"],
                         ["name" => "Gaji", "url" => "#"],
@@ -194,13 +194,13 @@
                         ["name" => "Pengadaan RUP-SIRUP", "url" => "https://sirup.lkpp.go.id/"],
                         ["name" => "PAPBJ", "url" => "#"],
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "ADMINISTRASI", "links" => [
+                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "ADMINISTRASI", "links" => [
                         ["name" => "Arsip Dinamis-SRIKANDI", "url" => "https://srikandi.arsip.go.id"],
                         ["name" => "Arsip Statis-SIKN", "url" => "https://sikn.anri.go.id/"],
                         ["name" => "BMN-SAKTI", "url" => "#"],
                         ["name" => "Pengelolaan BMN-SIMAN", "url" => "https://www.djkn.kemenkeu.go.id/websiman/"]
                     ]],
-                    ["color" => "#e88504", "icon" => "fa-leaf", "title" => "PENGAWASAN", "links" => [
+                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "PENGAWASAN", "links" => [
                         ["name" => "Option 1", "url" => "#"]
                     ]]
                 ];

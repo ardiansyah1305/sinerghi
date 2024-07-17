@@ -1,6 +1,6 @@
 <!-- footer -->
 <footer>
-    <div class="footer" style="background-color: #2c2c2c; color: white;">
+    <div class="footer" style="background-color: #192E2F; color: white;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-6 text-center mb-4">
@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-        <div class="copyright" style="background-color: #32C2B8; color: black; padding: 10px 0;">
+        <div class="copyright" style="background-color: #EDEEF0; color: black; padding: 10px 0;">
             <div class="container text-center">
                 <p style="margin: 0; font-size: 12px;">&copy; Kemenko PMK</p>
             </div>
@@ -40,25 +40,32 @@
     .footer {
         padding: 40px 0;
     }
+
     .footer .sociel li {
         display: inline-block;
         margin: 0 10px;
     }
+
     .footer .sociel li a {
         font-size: 20px;
         transition: color 0.3s;
     }
+
     .footer .sociel li a:hover {
-        color: #32C2B8; /* Theme color for hover effect */
+        color: #32C2B8;
+        /* Theme color for hover effect */
     }
+
     .footer .contact h3 {
         font-size: 20px;
         margin-bottom: 15px;
     }
+
     .footer .contact span {
         display: block;
         line-height: 1.5;
     }
+
     .footer .copyright p {
         margin: 0;
         font-size: 12px;

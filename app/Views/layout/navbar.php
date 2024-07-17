@@ -17,11 +17,11 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-     
+
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
 
- 
+
 
     <!-- Additional CSS for Custom Scrollbar and Font Awesome -->
     <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
@@ -48,7 +48,7 @@
         }
 
         .top-bar {
-            background-color: #32C2B8;
+            background-color: #3A595C;
             color: white;
             padding: 10px 0;
         }
@@ -68,7 +68,8 @@
 
         .main-navbar {
             background-color: #ffffff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Menambahkan shadow pada navbar */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            /* Menambahkan shadow pada navbar */
         }
 
         .main-navbar .nav-link {
@@ -87,18 +88,18 @@
             display: block;
             margin-top: 5px;
             right: 0;
-            background: #32C2B8;
+            background: #7BA9A9;
             transition: width 0.2s ease, background-color 0.2s ease;
         }
 
         .main-navbar .nav-link:hover::after {
             width: 100%;
             left: 0;
-            background: #32C2B8;
+            background: #7BA9A9;
         }
 
         .main-navbar .nav-link:hover {
-            color: #32C2B8;
+            color: #7BA9A9;
             background: none;
         }
 
@@ -108,14 +109,14 @@
         }
 
         .btn-outline-danger {
-            background-color: #32C2B8;
+            background-color: #DC3545;
             color: #000;
-            border-color: #32C2B8;
+            border-color: #DC3545;
             font-weight: bold;
         }
 
         .btn-outline-danger:hover {
-            background-color: #32C2B8;
+            background-color: #DC3545;
             color: white;
         }
 
@@ -125,6 +126,7 @@
         }
 
         @media (max-width: 991.98px) {
+
             .top-bar .contact-info,
             .top-bar .social-icons {
                 text-align: center;
@@ -179,7 +181,7 @@
     <nav class="navbar navbar-expand-lg navbar-light main-navbar">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-            <img src="<?= base_url('images/logokmk.png'); ?>" alt="logo">
+                <img src="<?= base_url('images/logokmk.png'); ?>" alt="logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

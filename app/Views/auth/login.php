@@ -19,7 +19,7 @@
 
     <style>
         body {
-            background: linear-gradient(135deg, #32C2B8 0%, #ACE1E1 100%);
+            background: linear-gradient(135deg, #7BA9A9 0%, #3A595C 100%);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -90,9 +90,11 @@
             0% {
                 transform: translateY(0) translateX(0);
             }
+
             50% {
                 transform: translateY(50px) translateX(50px);
             }
+
             100% {
                 transform: translateY(0) translateX(0);
             }
@@ -125,29 +127,29 @@
         }
 
         .text-primary {
-            color: #32C2B8 !important;
+            color: #7BA9A9 !important;
         }
 
         .btn-primary {
-            background-color: #32C2B8 !important;
-            border-color: #32C2B8 !important;
+            background-color: #7BA9A9 !important;
+            border-color: #7BA9A9 !important;
             border-radius: 50px;
             padding: 10px 20px;
             transition: all 0.3s ease;
         }
 
         .btn-primary:hover {
-            background-color: #287c7c !important;
-            border-color: #287c7c !important;
+            background-color: #3A595C !important;
+            border-color: #3A595C !important;
             transform: scale(1.05);
         }
 
         .small a {
-            color: #32C2B8 !important;
+            color: #7BA9A9 !important;
         }
 
         .text-center a {
-            color: #32C2B8 !important;
+            color: #7BA9A9 !important;
         }
 
         .text-center .black-text {
@@ -162,18 +164,19 @@
         .form-control-user {
             border-radius: 50px;
             padding: 10px 20px;
-            border: 1px solid #32C2B8;
+            border: 1px solid #7BA9A9;
             transition: all 0.3s ease;
         }
 
         .form-control-user:focus {
-            box-shadow: 0 0 10px rgba(50, 194, 184, 0.5);
+            box-shadow: 0 0 10px rgba(123, 169, 169, 0.5);
         }
 
         @keyframes fadeIn {
             from {
                 opacity: 0;
             }
+
             to {
                 opacity: 1;
             }
@@ -183,6 +186,7 @@
             from {
                 transform: translateY(-50px);
             }
+
             to {
                 transform: translateY(0);
             }
