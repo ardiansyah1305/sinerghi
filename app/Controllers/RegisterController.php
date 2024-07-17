@@ -3,25 +3,29 @@
 namespace App\Controllers;
 
 use App\Models\UserModel;
-use CodeIgniter\Controller;
 
-class RegisterController extends Controller
+class RegisterController extends BaseController
 {
     public function index()
     {
+        // Load form helper
         helper(['form']);
         echo view('auth/register');
     }
 
     public function store()
     {
+        // Load form helper
         helper(['form']);
+
+        // Define validation rules
         $rules = [
             'username' => 'required|min_length[3]|max_length[20]',
             'password' => 'required|min_length[8]|max_length[255]',
             'confpassword' => 'matches[password]'
         ];
 
+        // Validate the form data
         if ($this->validate($rules)) {
             $model = new UserModel();
             $data = [
@@ -36,3 +40,4 @@ class RegisterController extends Controller
         }
     }
 }
+

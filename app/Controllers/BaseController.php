@@ -8,6 +8,7 @@ use CodeIgniter\HTTP\IncomingRequest;
 use CodeIgniter\HTTP\RequestInterface;
 use CodeIgniter\HTTP\ResponseInterface;
 use Psr\Log\LoggerInterface;
+use App\Models\UserModel;
 
 /**
  * Class BaseController
@@ -35,13 +36,20 @@ abstract class BaseController extends Controller
      *
      * @var list<string>
      */
-    protected $helpers = [];
+    protected $helpers = ['url', 'form'];
+
+    /**
+     * Data user yang diambil dari database.
+     * 
+     * @var array|null
+     */
+    protected $userData;
 
     /**
      * Be sure to declare properties for any property fetch you initialized.
      * The creation of dynamic property is deprecated in PHP 8.2.
      */
-    // protected $session;
+    protected $session;
 
     /**
      * @return void
@@ -52,7 +60,29 @@ abstract class BaseController extends Controller
         parent::initController($request, $response, $logger);
 
         // Preload any models, libraries, etc, here.
+        $this->session = \Config\Services::session();
 
-        // E.g.: $this->session = \Config\Services::session();
+        // Pastikan pengguna sudah login
+        if (!$this->session->get('logged_in')) {
+            return redirect()->to('/login');
+        }
+
+        // Ambil user_id dari session
+        $userId = $this->session->get('id');
+        if (!$userId) {
+            log_message('error', 'User ID not found in session.');
+            return redirect()->to('/login'); // Arahkan ke halaman login jika user_id tidak ditemukan
+        }
+
+        // Debugging: Periksa userId
+        log_message('debug', 'User ID: ' . $userId);
+
+        // Ambil data user dari database
+        $userModel = new UserModel();
+        $this->userData = $userModel->find($userId);
+        if (!$this->userData) {
+            log_message('error', 'User not found in database for user ID: ' . $userId);
+            return redirect()->to('/login')->with('error', 'User not found'); // Arahkan ke halaman login jika user tidak ditemukan
+        }
     }
 }

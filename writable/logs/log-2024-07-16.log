@@ -1908,3 +1908,128 @@ DEBUG - 2024-07-16 09:01:07 --> User Data: Array
     [updated_at] => 2024-07-09 04:59:40
 )
 
+INFO - 2024-07-16 09:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:04:15 --> User ID: 4
+ERROR - 2024-07-16 09:04:15 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'studydb' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('127.0.0.1', 'root', '', 'studydb', 3306, '', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\SINERGHI\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\SINERGHI\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\SINERGHI\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\SINERGHI\app\Models\UserModel.php(18): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\SINERGHI\app\Controllers\DashboardControllers.php(30): App\Models\UserModel->getUserById('4')
+#8 C:\laragon\www\SINERGHI\system\CodeIgniter.php(933): App\Controllers\DashboardControllers->index()
+#9 C:\laragon\www\SINERGHI\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+#10 C:\laragon\www\SINERGHI\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\SINERGHI\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\SINERGHI\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\SINERGHI\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\SINERGHI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'studydb' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\SINERGHI\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\SINERGHI\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\SINERGHI\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\SINERGHI\app\Models\UserModel.php(18): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\SINERGHI\app\Controllers\DashboardControllers.php(30): App\Models\UserModel->getUserById('4')
+#7 C:\laragon\www\SINERGHI\system\CodeIgniter.php(933): App\Controllers\DashboardControllers->index()
+#8 C:\laragon\www\SINERGHI\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+#9 C:\laragon\www\SINERGHI\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\SINERGHI\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\SINERGHI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-07-16 09:04:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'studydb'
+[Method: GET, Route: dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Models\UserModel.php(18): CodeIgniter\BaseModel->first()
+ 6 APPPATH\Controllers\DashboardControllers.php(30): App\Models\UserModel->getUserById('4')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardControllers->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-16 09:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:04:41 --> User ID: 4
+DEBUG - 2024-07-16 09:04:41 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-16 09:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:04:54 --> User ID: 4
+DEBUG - 2024-07-16 09:04:54 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-16 09:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:04:59 --> User ID: 4
+DEBUG - 2024-07-16 09:04:59 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-16 09:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:05:01 --> User ID: 4
+DEBUG - 2024-07-16 09:05:01 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-16 09:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:05:03 --> User ID: 4
+DEBUG - 2024-07-16 09:05:03 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-16 09:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-16 09:05:35 --> User ID: 4
+DEBUG - 2024-07-16 09:05:35 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-16 09:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

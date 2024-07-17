@@ -1,0 +1,553 @@
+INFO - 2024-07-17 00:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 00:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 00:44:30 --> User ID: 4
+DEBUG - 2024-07-17 00:44:30 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:04:52 --> User ID: 4
+DEBUG - 2024-07-17 01:04:53 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:18:48 --> User ID: 4
+DEBUG - 2024-07-17 01:18:48 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:19:03 --> User ID: 4
+DEBUG - 2024-07-17 01:19:03 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:19:04 --> User ID: 4
+DEBUG - 2024-07-17 01:19:05 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:19:06 --> User ID: 4
+DEBUG - 2024-07-17 01:19:06 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:19:09 --> User ID: 4
+DEBUG - 2024-07-17 01:19:10 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:30:32 --> User ID: 4
+DEBUG - 2024-07-17 01:30:32 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:31:43 --> User ID: 6
+DEBUG - 2024-07-17 01:31:43 --> User Data: Array
+(
+    [id] => 6
+    [username] => anggiath@gmail.com
+    [password] => $2y$10$SqjO4fwyVkLIhEwtjQfC0ujzbmHZwY6o4fGDZtBQ4bd6Ph34xxsBy
+    [created_at] => 2024-07-17 01:31:31
+    [updated_at] => 2024-07-17 01:31:31
+)
+
+INFO - 2024-07-17 01:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:33:18 --> User ID: 4
+DEBUG - 2024-07-17 01:33:18 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:33:49 --> User ID: 4
+DEBUG - 2024-07-17 01:33:49 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:33:51 --> User ID: 4
+DEBUG - 2024-07-17 01:33:51 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:34:08 --> User ID: 4
+DEBUG - 2024-07-17 01:34:08 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:34:29 --> User ID: 4
+DEBUG - 2024-07-17 01:34:29 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:34:57 --> User ID: 4
+DEBUG - 2024-07-17 01:34:57 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:35:10 --> User ID: 4
+DEBUG - 2024-07-17 01:35:10 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:56:28 --> User ID: 4
+DEBUG - 2024-07-17 01:56:28 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:56:34 --> User ID: 4
+DEBUG - 2024-07-17 01:56:34 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:56:38 --> User ID: 4
+DEBUG - 2024-07-17 01:56:38 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:56:47 --> User ID: 4
+DEBUG - 2024-07-17 01:56:47 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:56:54 --> User ID: 4
+DEBUG - 2024-07-17 01:56:54 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:57:13 --> User ID: 4
+DEBUG - 2024-07-17 01:57:13 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:57:17 --> User ID: 4
+DEBUG - 2024-07-17 01:57:17 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 01:58:01 --> ErrorException: Undefined variable $username
+[Method: GET, Route: dashboard/detail_pengumuman1]
+in APPPATH\Views\layout\navbar.php on line 190.
+ 1 APPPATH\Views\layout\navbar.php(190): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $username', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\navbar.php', 190)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(487): CodeIgniter\View\View->render('layout/navbar', null, true)
+ 5 APPPATH\Views\layout\template.php(15): CodeIgniter\View\View->include('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\template.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/template', [], true)
+ 9 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard/detail_pengumuman1', [], true)
+10 APPPATH\Controllers\DashboardControllers.php(57): view('dashboard/detail_pengumuman1')
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardControllers->detail_pengumuman1()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-17 01:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:58:06 --> User ID: 4
+DEBUG - 2024-07-17 01:58:06 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 01:58:08 --> ErrorException: Undefined variable $username
+[Method: GET, Route: dashboard/detail_pengumuman1]
+in APPPATH\Views\layout\navbar.php on line 190.
+ 1 APPPATH\Views\layout\navbar.php(190): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $username', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\navbar.php', 190)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(487): CodeIgniter\View\View->render('layout/navbar', null, true)
+ 5 APPPATH\Views\layout\template.php(15): CodeIgniter\View\View->include('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\template.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/template', [], true)
+ 9 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard/detail_pengumuman1', [], true)
+10 APPPATH\Controllers\DashboardControllers.php(57): view('dashboard/detail_pengumuman1')
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardControllers->detail_pengumuman1()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-17 01:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:59:47 --> User ID: 4
+DEBUG - 2024-07-17 01:59:47 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 01:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 01:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 01:59:53 --> User ID: 4
+DEBUG - 2024-07-17 01:59:53 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 02:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:00:01 --> User ID: 4
+DEBUG - 2024-07-17 02:00:01 --> User Data: Array
+(
+    [id] => 4
+    [username] => anggiat@gmail.com
+    [password] => $2y$10$l0nv.GgDwblAm89Gu4t0Gug65vF7AVvYKxlGPkfoAWWyjnewq68YO
+    [created_at] => 2024-07-16 01:48:46
+    [updated_at] => 2024-07-16 01:48:46
+)
+
+INFO - 2024-07-17 02:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 02:00:02 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: dashboard/detail_pengumuman1]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\dashboard\detail_pengumuman1.php(21): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\dashboard\\detail_pengumuman1.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard/detail_pengumuman1', [], true)
+ 5 APPPATH\Controllers\DashboardControllers.php(57): view('dashboard/detail_pengumuman1')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardControllers->detail_pengumuman1()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-17 02:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-17 02:00:27 --> ErrorException: Undefined variable $username
+[Method: GET, Route: dashboard/detail_pengumuman1]
+in APPPATH\Views\layout\navbar.php on line 190.
+ 1 APPPATH\Views\layout\navbar.php(190): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $username', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\navbar.php', 190)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(487): CodeIgniter\View\View->render('layout/navbar', null, true)
+ 5 APPPATH\Views\layout\template.php(15): CodeIgniter\View\View->include('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layout\\template.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/template', [], true)
+ 9 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard/detail_pengumuman1', [], true)
+10 APPPATH\Controllers\DashboardControllers.php(57): view('dashboard/detail_pengumuman1')
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardControllers->detail_pengumuman1()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardControllers))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-17 02:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:22:26 --> User ID: 4
+INFO - 2024-07-17 02:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:23:06 --> User ID: 4
+INFO - 2024-07-17 02:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:28:26 --> User ID: 4
+INFO - 2024-07-17 02:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:29:39 --> User ID: 4
+INFO - 2024-07-17 02:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:29:43 --> User ID: 4
+INFO - 2024-07-17 02:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:29:44 --> User ID: 4
+INFO - 2024-07-17 02:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:29:46 --> User ID: 4
+INFO - 2024-07-17 02:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:40:00 --> User ID: 7
+INFO - 2024-07-17 02:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:40:08 --> User ID: 7
+INFO - 2024-07-17 02:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:40:24 --> User ID: 7
+INFO - 2024-07-17 02:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:40:28 --> User ID: 7
+INFO - 2024-07-17 02:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:03 --> User ID: 7
+INFO - 2024-07-17 02:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:07 --> User ID: 7
+INFO - 2024-07-17 02:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:12 --> User ID: 7
+INFO - 2024-07-17 02:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:14 --> User ID: 7
+INFO - 2024-07-17 02:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:15 --> User ID: 7
+INFO - 2024-07-17 02:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:18 --> User ID: 7
+INFO - 2024-07-17 02:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:19 --> User ID: 7
+INFO - 2024-07-17 02:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:20 --> User ID: 7
+INFO - 2024-07-17 02:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:21 --> User ID: 7
+INFO - 2024-07-17 02:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:28 --> User ID: 7
+INFO - 2024-07-17 02:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:29 --> User ID: 7
+INFO - 2024-07-17 02:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:35 --> User ID: 7
+INFO - 2024-07-17 02:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:41:43 --> User ID: 7
+INFO - 2024-07-17 02:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:43:27 --> User ID: 7
+INFO - 2024-07-17 02:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:45:45 --> User ID: 7
+INFO - 2024-07-17 02:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:45:47 --> User ID: 7
+INFO - 2024-07-17 02:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:46:01 --> User ID: 7
+INFO - 2024-07-17 02:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:46:04 --> User ID: 7
+INFO - 2024-07-17 02:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:46:06 --> User ID: 7
+INFO - 2024-07-17 02:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:46:08 --> User ID: 7
+INFO - 2024-07-17 02:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:46:16 --> User ID: 7
+INFO - 2024-07-17 02:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:48:10 --> User ID: 7
+INFO - 2024-07-17 02:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:48:14 --> User ID: 7
+INFO - 2024-07-17 02:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:48:19 --> User ID: 7
+INFO - 2024-07-17 02:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:48:21 --> User ID: 7
+INFO - 2024-07-17 02:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-17 02:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:48:39 --> User ID: 7
+INFO - 2024-07-17 02:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:49:43 --> User ID: 7
+INFO - 2024-07-17 02:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:50:33 --> User ID: 7
+INFO - 2024-07-17 02:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:51:18 --> User ID: 7
+INFO - 2024-07-17 02:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:51:59 --> User ID: 7
+INFO - 2024-07-17 02:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:52:13 --> User ID: 7
+INFO - 2024-07-17 02:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:54:27 --> User ID: 7
+INFO - 2024-07-17 02:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:54:49 --> User ID: 7
+INFO - 2024-07-17 02:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:54:51 --> User ID: 7
+INFO - 2024-07-17 02:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:54:52 --> User ID: 7
+INFO - 2024-07-17 02:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:55:22 --> User ID: 7
+INFO - 2024-07-17 02:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:56:48 --> User ID: 7
+INFO - 2024-07-17 02:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:57:13 --> User ID: 7
+INFO - 2024-07-17 02:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:57:23 --> User ID: 7
+INFO - 2024-07-17 02:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:57:32 --> User ID: 7
+INFO - 2024-07-17 02:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:57:47 --> User ID: 7
+INFO - 2024-07-17 02:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 02:58:16 --> User ID: 7
+INFO - 2024-07-17 03:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:00:30 --> User ID: 7
+INFO - 2024-07-17 03:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:00:32 --> User ID: 7
+INFO - 2024-07-17 03:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:00:36 --> User ID: 7
+INFO - 2024-07-17 03:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:00:39 --> User ID: 7
+INFO - 2024-07-17 03:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:17 --> User ID: 7
+INFO - 2024-07-17 03:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:24 --> User ID: 7
+INFO - 2024-07-17 03:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:27 --> User ID: 7
+INFO - 2024-07-17 03:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:29 --> User ID: 7
+INFO - 2024-07-17 03:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:32 --> User ID: 7
+INFO - 2024-07-17 03:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:33 --> User ID: 7
+INFO - 2024-07-17 03:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:35 --> User ID: 7
+INFO - 2024-07-17 03:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:01:41 --> User ID: 7
+INFO - 2024-07-17 03:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:07:45 --> User ID: 7
+INFO - 2024-07-17 03:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:08:08 --> User ID: 7
+INFO - 2024-07-17 03:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:11:07 --> User ID: 7
+INFO - 2024-07-17 03:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:11:14 --> User ID: 7
+INFO - 2024-07-17 03:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:11:22 --> User ID: 7
+INFO - 2024-07-17 03:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:11:28 --> User ID: 7
+INFO - 2024-07-17 03:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:16:14 --> User ID: 7
+INFO - 2024-07-17 03:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:16:21 --> User ID: 7
+INFO - 2024-07-17 03:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:16:23 --> User ID: 7
+INFO - 2024-07-17 03:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:17:32 --> User ID: 7
+INFO - 2024-07-17 03:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:17:42 --> User ID: 7
+INFO - 2024-07-17 03:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-17 03:17:54 --> User ID: 7

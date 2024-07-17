@@ -17,11 +17,11 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
+     
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
 
-    <!-- Favicon -->
-    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+ 
 
     <!-- Additional CSS for Custom Scrollbar and Font Awesome -->
     <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
@@ -179,7 +179,7 @@
     <nav class="navbar navbar-expand-lg navbar-light main-navbar">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="images/logokmk.png" alt="logo" />
+            <img src="<?= base_url('images/logokmk.png'); ?>" alt="logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

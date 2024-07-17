@@ -29,7 +29,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-3 mb-4">
-                <a class="small register-link" href="<?= site_url('pengumuman'); ?>">
+                <a class="small register-link" href="<?= site_url('dashboard/detail_pengumuman1'); ?>">
                     <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure1.png" alt="Announcement Image">
                         <div class="card-body text-left">
@@ -40,7 +40,7 @@
                 </a>
             </div>
             <div class="col-md-3 mb-4">
-                <a class="small register-link" href="<?= site_url('pengumuman'); ?>">
+                <a class="small register-link" href="<?= site_url('dashboard/detail_pengumuman2'); ?>">
                     <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure2.png" alt="Announcement Image">
                         <div class="card-body text-left">
@@ -51,7 +51,7 @@
                 </a>
             </div>
             <div class="col-md-3 mb-4">
-                <a class="small register-link" href="<?= site_url('pengumuman'); ?>">
+                <a class="small register-link" href="<?= site_url('dashboard/detail_pengumuman3'); ?>">
                     <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure2.png" alt="Announcement Image">
                         <div class="card-body text-left">

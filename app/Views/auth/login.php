@@ -19,8 +19,83 @@
 
     <style>
         body {
-            background: url('/images/bg.png') no-repeat center center fixed;
-            background-size: cover;
+            background: linear-gradient(135deg, #32C2B8 0%, #ACE1E1 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            font-family: 'Nunito', sans-serif;
+        }
+
+        .moving-background {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .circle {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            animation: move 20s infinite linear;
+        }
+
+        .circle:nth-child(1) {
+            width: 100px;
+            height: 100px;
+            top: 10%;
+            left: 10%;
+            animation-duration: 15s;
+        }
+
+        .circle:nth-child(2) {
+            width: 150px;
+            height: 150px;
+            top: 40%;
+            left: 20%;
+            animation-duration: 20s;
+        }
+
+        .circle:nth-child(3) {
+            width: 200px;
+            height: 200px;
+            top: 60%;
+            left: 70%;
+            animation-duration: 25s;
+        }
+
+        .circle:nth-child(4) {
+            width: 250px;
+            height: 250px;
+            top: 20%;
+            left: 80%;
+            animation-duration: 30s;
+        }
+
+        .circle:nth-child(5) {
+            width: 300px;
+            height: 300px;
+            top: 80%;
+            left: 30%;
+            animation-duration: 35s;
+        }
+
+        @keyframes move {
+            0% {
+                transform: translateY(0) translateX(0);
+            }
+            50% {
+                transform: translateY(50px) translateX(50px);
+            }
+            100% {
+                transform: translateY(0) translateX(0);
+            }
         }
 
         .login-container {
@@ -28,41 +103,51 @@
             align-items: center;
             justify-content: center;
             height: 100vh;
+            z-index: 1;
+            animation: fadeIn 1.5s ease-in-out;
         }
 
         .login-box {
-            background-color: rgba(255, 255, 255, 0.8);
+            background-color: rgba(255, 255, 255, 0.9);
             padding: 40px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 20px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
             width: 100%;
             max-width: 400px;
+            backdrop-filter: blur(10px);
+            transform: translateY(-50px);
+            animation: slideIn 1s ease-out forwards;
         }
 
         .login-box img {
             margin-bottom: 20px;
+            width: 80px;
         }
 
         .text-primary {
-            color: #e88504 !important;
+            color: #32C2B8 !important;
         }
 
         .btn-primary {
-            background-color: #e88504 !important;
-            border-color: #e88504 !important;
+            background-color: #32C2B8 !important;
+            border-color: #32C2B8 !important;
+            border-radius: 50px;
+            padding: 10px 20px;
+            transition: all 0.3s ease;
         }
 
         .btn-primary:hover {
-            background-color: #b8860b !important;
-            border-color: #b8860b !important;
+            background-color: #287c7c !important;
+            border-color: #287c7c !important;
+            transform: scale(1.05);
         }
 
         .small a {
-            color: #e88504 !important;
+            color: #32C2B8 !important;
         }
 
         .text-center a {
-            color: #e88504 !important;
+            color: #32C2B8 !important;
         }
 
         .text-center .black-text {
@@ -73,15 +158,58 @@
             display: inline-block;
             margin-left: 5px;
         }
+
+        .form-control-user {
+            border-radius: 50px;
+            padding: 10px 20px;
+            border: 1px solid #32C2B8;
+            transition: all 0.3s ease;
+        }
+
+        .form-control-user:focus {
+            box-shadow: 0 0 10px rgba(50, 194, 184, 0.5);
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateY(-50px);
+            }
+            to {
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .login-box {
+                padding: 20px;
+            }
+        }
     </style>
 </head>
 
 <body>
 
+    <div class="moving-background">
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+    </div>
+
     <div class="login-container">
         <div class="login-box">
             <div class="text-center">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Coordinating_Ministry_for_Human_Development_and_Culture_of_the_Republic_of_Indonesia.png" alt="Logo" width="100">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Coordinating_Ministry_for_Human_Development_and_Culture_of_the_Republic_of_Indonesia.png" alt="Logo">
                 <h1 class="h4 text-primary mb-4">ASN Kemenko PMK</h1>
             </div>
             <form class="user" action="<?= site_url('loginAuth'); ?>" method="post">
@@ -90,12 +218,6 @@
                 </div>
                 <div class="form-group">
                     <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password">
-                </div>
-                <div class="form-group">
-                    <div class="custom-control custom-checkbox small">
-                        <input type="checkbox" class="custom-control-input" id="customCheck" name="remember">
-                        <label class="custom-control-label" for="customCheck">Remember Me</label>
-                    </div>
                 </div>
                 <button type="submit" class="btn btn-primary btn-user btn-block">Login</button>
                 <hr>
