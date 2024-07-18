@@ -68,3 +68,24 @@ INFO - 2024-07-18 09:35:37 --> Session: Class initialized using 'CodeIgniter\Ses
 DEBUG - 2024-07-18 09:35:37 --> User ID: 2
 INFO - 2024-07-18 09:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2024-07-18 09:35:40 --> User ID: 2
+INFO - 2024-07-18 09:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 09:39:22 --> User ID: 2
+INFO - 2024-07-18 09:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 09:39:38 --> User ID: 2
+INFO - 2024-07-18 09:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 09:40:25 --> User ID: 2
+CRITICAL - 2024-07-18 09:40:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "welcome_message.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\Home.php(9): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-18 09:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-18 09:40:52 --> User ID: 2

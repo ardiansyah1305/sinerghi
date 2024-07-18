@@ -5,10 +5,9 @@ use CodeIgniter\Router\RouteCollection;
 /**
  * @var RouteCollection $routes
  */
-$routes->get('/', 'Home::index');
 $routes->get('/register', 'RegisterController::index');
 $routes->post('/register/store', 'RegisterController::store');
-$routes->get('/login', 'AuthController::login');
+$routes->get('/', 'AuthController::login');
 $routes->post('/loginAuth', 'AuthController::loginAuth');
 $routes->get('/logout', 'AuthController::logout');
 $routes->get('/dashboard', 'DashboardController::index');
