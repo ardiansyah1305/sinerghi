@@ -28,35 +28,24 @@
             <p>Berita terkini berkaitan dengan Produk Hukum dari Kemenko PMK.</p>
         </div>
         <div class="row justify-content-center">
-            <div class="col-md-3 mb-4">
+            <div class="col-md-4 mb-5">
                 <a class="small register-link" href="<?= site_url('dashboard/detail_pengumuman1'); ?>">
                     <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure1.png" alt="Announcement Image">
                         <div class="card-body text-left">
                             <h5 class="card-title">Pengumuman</h5>
-                            <p class="card-text keterangan">Ini adalah keterangan teks yang berisi informasi penting.......</p>
+                            <p class="card-text keterangan">Pengumuman APEL PEGAWAI Kemenko PMK....</p>
                         </div>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3 mb-4">
+            <div class="col-md-4 mb-5">
                 <a class="small register-link" href="<?= site_url('dashboard/detail_pengumuman2'); ?>">
                     <div class="card custom-card shadow">
                         <img class="card-img-top" src="images/figure2.png" alt="Announcement Image">
                         <div class="card-body text-left">
                             <h5 class="card-title">Pengumuman</h5>
-                            <p class="card-text keterangan">Ini adalah keterangan teks yang berisi informasi penting.......</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-3 mb-4">
-                <a class="small register-link" href="<?= site_url('dashboard/detail_pengumuman3'); ?>">
-                    <div class="card custom-card shadow">
-                        <img class="card-img-top" src="images/figure2.png" alt="Announcement Image">
-                        <div class="card-body text-left">
-                            <h5 class="card-title">Pengumuman</h5>
-                            <p class="card-text keterangan">Ini adalah keterangan teks yang berisi informasi penting.......</p>
+                            <p class="card-text keterangan">Pawai Budaya Kemenko PMK.......</p>
                         </div>
                     </div>
                 </a>

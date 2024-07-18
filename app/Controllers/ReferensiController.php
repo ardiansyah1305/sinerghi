@@ -21,18 +21,18 @@ class ReferensiController extends BaseController
         return [
             'content1' => [
                 [
-                    'title' => 'Surat Keputusan Bersama Nomor 236, 1, 2 Tahun 2024',
-                    'description' => 'SKB Perubahan tentang Hari Libur Nasional dan Cuti Bersama 2024',
-                    'meta' => 'PMK Lainnya',
+                    'title' => 'Surat Kepmenko PMK No. 7 Tahun 2024 - Tim Evaluator RB',
+                    'description' => 'Berisikan Perpres Grand Design',
+                    'meta' => 'KemenPANRB dan KPMK',
                     'date' => '2024-02-26',
-                    'file' => 'path_to_pdf1.pdf'
+                    'file' => 'uploads/pdf/Kepmenko PMK No. 7 Tahun 2024 - Tim Evaluator RB.pdf'
                 ],
                 [
                     'title' => 'Surat Keputusan Bersama Nomor 237, 3, 4 Tahun 2024',
                     'description' => 'SKB Perubahan tentang Hari Libur Nasional dan Cuti Bersama 2024',
                     'meta' => 'PMK Lainnya',
                     'date' => '2024-03-26',
-                    'file' => 'path_to_pdf2.pdf'
+                    'file' => 'uploads/pdf/Kepmenko PMK No. 7 Tahun 2024 - Tim Evaluator RB.pdf'
                 ],
                 [
                     'title' => 'Surat Keputusan Bersama Nomor 238, 5, 6 Tahun 2024',

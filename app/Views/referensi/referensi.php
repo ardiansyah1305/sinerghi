@@ -19,7 +19,7 @@
                         <h4 class="card-title mb-0">Daftar Referensi</h4>
                     </div>
                     <div class="list-group list-group-flush" id="temaList">
-                        <a class="list-group-item list-group-item-action" data-target="#content1">Peningkatan Kesejahteraan Nasional</a>
+                        <a class="list-group-item list-group-item-action" data-target="#content1">Dasar Hukum</a>
                         <a class="list-group-item list-group-item-action" data-target="#content2">Pemerataan Pembangunan Wilayah Dan Penanggulangan Bencana</a>
                         <a class="list-group-item list-group-item-action" data-target="#content3">Peningkatan Kualitas Kesehatan Dan Pembangunan Kependudukan</a>
                         <a class="list-group-item list-group-item-action" data-target="#content4">Pengembangan Infrastruktur dan Teknologi</a>
@@ -37,8 +37,10 @@
                                             <p class="card-text"><?= $card['description'] ?></p>
                                             <p class="card-text"><small class="text-muted"><?= $card['meta'] ?></small></p>
                                             <p class="card-text"><small class="text-muted"><?= $card['date'] ?></small></p>
-                                            <a href="<?= $card['file'] ?>" class="btn btn-primary" target="_blank">Lihat</a>
-                                            <a href="<?= $card['file'] ?>" class="btn btn-danger" download>Download</a>
+                                            <div class="d-flex">
+                                                <a href="<?= $card['file'] ?>" class="btn btn-primary me-2" target="_blank">Lihat</a>
+                                                <a href="<?= $card['file'] ?>" class="btn btn-danger" download>Download</a>
+                                            </div>
                                         </div>
                                     </div>
                                 <?php endforeach; ?>
