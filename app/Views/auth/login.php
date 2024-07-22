@@ -198,6 +198,7 @@
             }
         }
     </style>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 
 <body>
@@ -223,6 +224,7 @@
                 <div class="form-group">
                     <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password">
                 </div>
+                <div class="g-recaptcha" data-sitekey="6LdghBUqAAAAAIM4dh9Iyy6h8_t4qW96tsEjfIga"></div>
                 <button type="submit" class="btn btn-primary btn-user btn-block">Login</button>
                 <hr>
             </form>

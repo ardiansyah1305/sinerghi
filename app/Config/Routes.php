@@ -16,11 +16,12 @@ $routes->get('/layanan', 'LayananController::index');
 $routes->get('/referensi', 'ReferensiController::index');
 $routes->get('/organisasi', 'OrganisasiController::index');
 
-$routes->get('/admin', 'AdminController::index');
-$routes->get('/admin/create', 'AdminController::create');
-$routes->post('/admin/store', 'AdminController::store');
-$routes->get('/admin/edit/(:segment)', 'AdminController::edit/$1');
-$routes->post('/admin/update/(:segment)', 'AdminController::update/$1');
-$routes->get('/admin/delete/(:segment)', 'AdminController::delete/$1');
-$routes->post('/admin/addCategory', 'AdminController::addCategory');
+$routes->get('/admin/referensi/', 'Admin\ReferensiController::index');
+$routes->get('/admin/referensi/create', 'Admin\ReferensiController::create');
+$routes->post('/admin/referensi/store', 'Admin\ReferensiController::store');
+$routes->get('/admin/referensi/edit/(:segment)', 'Admin\ReferensiController::edit/$1');
+$routes->post('/admin/referensi/update/(:segment)', 'Admin\ReferensiController::update/$1');
+$routes->get('/admin/referensi/delete/(:segment)', 'Admin\ReferensiController::delete/$1');
+$routes->post('/admin/referensi/addCategory', 'Admin\referensi\ReferensiController::addCategory');
 
+$routes->get('/admin/adminreferensi', 'Admin\ReferensiController::index');
