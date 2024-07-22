@@ -3,6 +3,7 @@
 namespace App\Controllers;
 
 use App\Models\ContentModel;
+use App\Models\CategoryModel;
 use CodeIgniter\Controller;
 
 class AdminController extends Controller
@@ -10,8 +11,9 @@ class AdminController extends Controller
     public function index()
     {
         $contentModel = new ContentModel();
+        $categoryModel = new CategoryModel();
         $contents = $contentModel->findAll();
-        $categories = $contentModel->where('parent_id', 0)->findAll();
+        $categories = $categoryModel->findAll();
         $categoryMap = [];
         foreach ($categories as $category) {
             $categoryMap[$category['id']] = $category['judul'];
@@ -27,8 +29,8 @@ class AdminController extends Controller
 
     public function create()
     {
-        $contentModel = new ContentModel();
-        $data['categories'] = $contentModel->where('parent_id', 0)->findAll();
+        $categoryModel = new CategoryModel();
+        $data['categories'] = $categoryModel->findAll();
         return view('admin/create', $data);
     }
 
@@ -56,8 +58,9 @@ class AdminController extends Controller
     public function edit($id)
     {
         $contentModel = new ContentModel();
+        $categoryModel = new CategoryModel();
         $data['content'] = $contentModel->find($id);
-        $data['categories'] = $contentModel->where('parent_id', 0)->findAll();
+        $data['categories'] = $categoryModel->findAll();
         return view('admin/edit', $data);
     }
 
@@ -93,16 +96,11 @@ class AdminController extends Controller
 
     public function addCategory()
     {
-        $contentModel = new ContentModel();
+        $categoryModel = new CategoryModel();
         $data = [
-            'judul' => $this->request->getPost('judul'),
-            'deskripsi' => '',
-            'unit_terkait' => '',
-            'tanggal' => date('Y-m-d'),
-            'file_upload' => '',
-            'parent_id' => 0
+            'judul' => $this->request->getPost('judul')
         ];
-        $contentModel->save($data);
+        $categoryModel->save($data);
         return redirect()->to('/admin');
     }
 }

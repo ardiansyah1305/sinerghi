@@ -23,3 +23,4 @@ $routes->get('/admin/edit/(:segment)', 'AdminController::edit/$1');
 $routes->post('/admin/update/(:segment)', 'AdminController::update/$1');
 $routes->get('/admin/delete/(:segment)', 'AdminController::delete/$1');
 $routes->post('/admin/addCategory', 'AdminController::addCategory');
+

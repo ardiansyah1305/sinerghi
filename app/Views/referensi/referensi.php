@@ -1,5 +1,4 @@
 <?= $this->extend('layout/template'); ?>
-
 <?= $this->section('content'); ?>
 
 <div class="container mt-4">
@@ -19,35 +18,31 @@
                         <h4 class="card-title mb-0">Daftar Referensi</h4>
                     </div>
                     <div class="list-group list-group-flush" id="temaList">
-                        <?php foreach ($contents as $key => $group): ?>
-                            <?php if (!empty($group)): ?>
-                                <a class="list-group-item list-group-item-action" data-target="#<?= $key ?>"><?= $group[0]['judul'] ?></a>
-                            <?php endif; ?>
+                        <?php foreach ($categories as $category): ?>
+                            <a class="list-group-item list-group-item-action" data-target="#content<?= $category['id'] ?>"><?= $category['judul'] ?></a>
                         <?php endforeach; ?>
                     </div>
                 </div>
                 <!-- Konten Kanan -->
                 <div class="flex-grow-1">
                     <div class="content-wrapper">
-                        <?php foreach ($contents as $key => $group): ?>
-                            <?php if (!empty($group)): ?>
-                                <div id="<?= $key ?>" class="content-section <?= $key == 'content1' ? 'active' : '' ?>">
-                                    <?php foreach ($group as $card): ?>
-                                        <div class="card mb-3 shadow-sm content-card" data-title="<?= strtolower($card['judul']) ?>" data-description="<?= strtolower($card['deskripsi']) ?>">
-                                            <div class="card-body">
-                                                <h5 class="card-title"><?= $card['judul'] ?></h5>
-                                                <p class="card-text"><?= $card['deskripsi'] ?></p>
-                                                <p class="card-text"><small class="text-muted"><?= $card['unit_terkait'] ?></small></p>
-                                                <p class="card-text"><small class="text-muted"><?= $card['tanggal'] ?></small></p>
-                                                <div class="d-flex">
-                                                    <a href="<?= base_url('uploads/pdf/' . $card['file_upload']) ?>" class="btn btn-primary me-2" target="_blank">Lihat</a>
-                                                    <a href="<?= base_url('uploads/pdf/' . $card['file_upload']) ?>" class="btn btn-danger" download>Download</a>
-                                                </div>
+                        <?php foreach ($groupedContents as $key => $group): ?>
+                            <div id="content<?= $key ?>" class="content-section <?= $key == 0 ? 'active' : '' ?>">
+                                <?php foreach ($group as $card): ?>
+                                    <div class="card mb-3 shadow-sm content-card" data-title="<?= strtolower($card['judul']) ?>" data-description="<?= strtolower($card['deskripsi']) ?>">
+                                        <div class="card-body">
+                                            <h5 class="card-title"><?= $card['judul'] ?></h5>
+                                            <p class="card-text"><?= $card['deskripsi'] ?></p>
+                                            <p class="card-text"><small class="text-muted"><?= $card['unit_terkait'] ?></small></p>
+                                            <p class="card-text"><small class="text-muted"><?= $card['tanggal'] ?></small></p>
+                                            <div class="d-flex">
+                                                <a href="<?= base_url('uploads/pdf/' . $card['file_upload']); ?>" class="btn btn-primary me-2" target="_blank">Lihat</a>
+                                                <a href="<?= base_url('uploads/pdf/' . $card['file_upload']); ?>" class="btn btn-danger" download>Download</a>
                                             </div>
                                         </div>
-                                    <?php endforeach; ?>
-                                </div>
-                            <?php endif; ?>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
                         <?php endforeach; ?>
                     </div>
                 </div>

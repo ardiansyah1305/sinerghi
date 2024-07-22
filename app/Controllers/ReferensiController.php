@@ -3,30 +3,30 @@
 namespace App\Controllers;
 
 use App\Models\ContentModel;
+use App\Models\CategoryModel;
 
 class ReferensiController extends BaseController
 {
     public function index()
     {
         $contentModel = new ContentModel();
+        $categoryModel = new CategoryModel();
+
         $contents = $contentModel->findAll();
+        $categories = $categoryModel->findAll();
 
         $groupedContents = [];
         foreach ($contents as $content) {
-            if ($content['parent_id'] == 0) {
-                $groupedContents['content' . $content['id']] = [];
+            if (!isset($groupedContents[$content['parent_id']])) {
+                $groupedContents[$content['parent_id']] = [];
             }
-        }
-
-        foreach ($contents as $content) {
-            if ($content['parent_id'] != 0) {
-                $groupedContents['content' . $content['parent_id']][] = $content;
-            }
+            $groupedContents[$content['parent_id']][] = $content;
         }
 
         $data = [
-            'username' => 'Guest', // atau ambil dari sesi jika ada
-            'contents' => $groupedContents
+            'username' => $this->username,
+            'categories' => $categories,
+            'groupedContents' => $groupedContents
         ];
 
         return view('referensi/referensi', $data);

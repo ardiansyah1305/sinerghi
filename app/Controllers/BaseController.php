@@ -84,5 +84,8 @@ abstract class BaseController extends Controller
             log_message('error', 'User not found in database for user ID: ' . $userId);
             return redirect()->to('/login')->with('error', 'User not found'); // Arahkan ke halaman login jika user tidak ditemukan
         }
+
+        // Set the username for use in views
+        $this->username = $this->userData['username'];
     }
 }
