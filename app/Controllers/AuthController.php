@@ -10,24 +10,23 @@ class AuthController extends Controller
     public function login()
     {
         helper(['form']);
-        $data = [];
-        echo view('auth/login', $data);
+        echo view('auth/login');
     }
 
     public function loginAuth()
     {
         $session = session();
         $model = new UserModel();
-        $username = $this->request->getVar('username');
+        $nip = $this->request->getVar('nip');
         $password = $this->request->getVar('password');
         $recaptchaResponse = $this->request->getVar('g-recaptcha-response');
 
         // Verify reCAPTCHA
         $secretKey = '6LdghBUqAAAAALcB56rq_oyTXV_e1L7LDYbWdOAk';
-        $credential = array(
+        $credential = [
             'secret' => $secretKey,
             'response' => $recaptchaResponse
-        );
+        ];
 
         $verify = curl_init();
         curl_setopt($verify, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
@@ -39,11 +38,11 @@ class AuthController extends Controller
         $status = json_decode($response, true);
 
         if (!$status['success']) {
-            $session->setFlashdata('msg', 'CAPTCHA verification failed');
+            $session->setFlashdata('captcha_error', 'CAPTCHA verification failed');
             return redirect()->to('/login');
         }
 
-        $data = $model->where('username', $username)->first();
+        $data = $model->where('nip', $nip)->first();
 
         if ($data) {
             $pass = $data['password'];
@@ -51,8 +50,9 @@ class AuthController extends Controller
             if ($verify_pass) {
                 $ses_data = [
                     'id'       => $data['id'],
-                    'username' => $data['username'],
-                    'role'     => $data['role'], // Tambahkan role ke data sesi
+                    'nip'      => $data['nip'],
+
+                    'role'     => $data['role'],
                     'logged_in' => TRUE
                 ];
                 $session->set($ses_data);
@@ -64,11 +64,11 @@ class AuthController extends Controller
                     return redirect()->to('/dashboard');
                 }
             } else {
-                $session->setFlashdata('msg', 'Wrong Password');
+                $session->setFlashdata('password_error', 'Wrong Password');
                 return redirect()->to('/login');
             }
         } else {
-            $session->setFlashdata('msg', 'Username not Found');
+            $session->setFlashdata('nip_error', 'NIP not Found');
             return redirect()->to('/login');
         }
     }

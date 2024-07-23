@@ -217,12 +217,25 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Coordinating_Ministry_for_Human_Development_and_Culture_of_the_Republic_of_Indonesia.png" alt="Logo">
                 <h1 class="h4 text-primary mb-4">ASN Kemenko PMK</h1>
             </div>
+            <!-- Menampilkan pesan kesalahan -->
+            <?php if (session()->getFlashdata('nip_error')) : ?>
+                <div class="alert alert-danger"><?= session()->getFlashdata('nip_error') ?></div>
+            <?php endif; ?>
+
+            <?php if (session()->getFlashdata('password_error')) : ?>
+                <div class="alert alert-danger"><?= session()->getFlashdata('password_error') ?></div>
+            <?php endif; ?>
+
+            <?php if (session()->getFlashdata('captcha_error')) : ?>
+                <div class="alert alert-danger"><?= session()->getFlashdata('captcha_error') ?></div>
+            <?php endif; ?>
+
             <form class="user" action="<?= site_url('loginAuth'); ?>" method="post">
                 <div class="form-group">
-                    <input type="text" class="form-control form-control-user" id="exampleInputUsername" aria-describedby="usernameHelp" placeholder="Username" name="username">
+                    <input type="text" class="form-control form-control-user" id="exampleInputNIP" aria-describedby="nipHelp" placeholder="NIP" name="nip" required>
                 </div>
                 <div class="form-group">
-                    <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password">
+                    <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password" required>
                 </div>
                 <div class="g-recaptcha" data-sitekey="6LdghBUqAAAAAIM4dh9Iyy6h8_t4qW96tsEjfIga"></div>
                 <button type="submit" class="btn btn-primary btn-user btn-block">Login</button>

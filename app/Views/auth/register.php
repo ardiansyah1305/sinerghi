@@ -90,9 +90,11 @@
             0% {
                 transform: translateY(0) translateX(0);
             }
+
             50% {
                 transform: translateY(50px) translateX(50px);
             }
+
             100% {
                 transform: translateY(0) translateX(0);
             }
@@ -174,6 +176,7 @@
             from {
                 opacity: 0;
             }
+
             to {
                 opacity: 1;
             }
@@ -183,6 +186,7 @@
             from {
                 transform: translateY(-50px);
             }
+
             to {
                 transform: translateY(0);
             }
@@ -212,12 +216,18 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_the_Coordinating_Ministry_for_Human_Development_and_Culture_of_the_Republic_of_Indonesia.png" alt="Logo">
                 <h1 class="h4 text-primary mb-4">ASN Kemenko PMK</h1>
             </div>
+            <?php if (session()->getFlashdata('error')) : ?>
+                <div class="alert alert-danger"><?= session()->getFlashdata('error') ?></div>
+            <?php endif; ?>
+            <?php if (session()->getFlashdata('success')) : ?>
+                <div class="alert alert-success"><?= session()->getFlashdata('success') ?></div>
+            <?php endif; ?>
             <?php if (isset($validation)) : ?>
                 <div><?= $validation->listErrors() ?></div>
             <?php endif; ?>
             <form class="user" action="/register/store" method="post">
                 <div class="form-group">
-                    <input type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Email" name="username" required value="<?= set_value('username') ?>">
+                    <input type="text" class="form-control form-control-user" id="exampleInputNIP" aria-describedby="nipHelp" placeholder="NIP" name="nip" required value="<?= set_value('nip') ?>">
                 </div>
                 <div class="form-group">
                     <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password" required value="<?= set_value('password') ?>">
@@ -225,7 +235,7 @@
                 <div class="form-group">
                     <input type="password" class="form-control form-control-user" id="exampleInputConfirmPassword" placeholder="Confirm Password" name="confpassword" required>
                 </div>
-                <button type="submit" class="btn btn-primary btn-user btn-block">Register</button>
+                <button type="submit" class="btn btn-primary btn-user btn-block">Set Password</button>
                 <hr>
             </form>
             <hr>

@@ -189,7 +189,7 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item d-lg-none">
-                        <span class="nav-link">Holaa, <?= esc(explode('@', $username)[0]) ?></span>
+                        <span class="nav-link">Holaa, <?= esc(session()->get('nama')) ?></span>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="<?= site_url('dashboard'); ?>">Dashboard</a>
@@ -210,7 +210,7 @@
             </div>
             <div class="d-none d-lg-flex align-items-center">
                 <div class="user-box me-3">
-                    <span>Holaa, <?= esc(explode('@', $username)[0]) ?></span>
+                    <span>Holaa, <?= esc(session()->get('nama')) ?></span>
                 </div>
                 <a href="<?= site_url('logout'); ?>" class="btn btn-outline-danger ms-3">Logout</a>
             </div>

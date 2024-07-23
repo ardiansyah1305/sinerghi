@@ -86,6 +86,6 @@ abstract class BaseController extends Controller
         }
 
         // Set the username for use in views
-        $this->username = $this->userData['username'];
+        $this->nip = $this->userData['nip'];
     }
 }

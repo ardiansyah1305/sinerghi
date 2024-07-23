@@ -8,7 +8,7 @@ class DashboardController extends BaseController
     {
         $session = session();
         $data = [
-            'username' => $session->get('username'),
+            'nip' => $session->get('nip'),
         ];
 
         echo view('dashboard/dashboard', $data);
