@@ -85,7 +85,8 @@ abstract class BaseController extends Controller
             return redirect()->to('/login')->with('error', 'User not found'); // Arahkan ke halaman login jika user tidak ditemukan
         }
 
-        // Set the username for use in views
-        $this->nip = $this->userData['nip'];
+        // Set the user data for use in views
+        $this->session->set('nama', $this->userData['nama']);
     }
 }
+

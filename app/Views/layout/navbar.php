@@ -18,13 +18,11 @@
 
     <!-- Custom CSS -->
 
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-
-
+    <link rel="stylesheet" href="<?= base_url('css/style.css'); ?>">
+    <link rel="stylesheet" href="<?= base_url('css/responsive.css'); ?>">
 
     <!-- Additional CSS for Custom Scrollbar and Font Awesome -->
-    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="<?= base_url('css/jquery.mCustomScrollbar.min.css'); ?>">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
 
@@ -192,7 +190,7 @@
                         <span class="nav-link">Holaa, <?= esc(session()->get('nama')) ?></span>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="<?= site_url('dashboard'); ?>">Dashboard</a>
+                        <a class="nav-link" href="<?= site_url('dashboard'); ?>">Dashboard</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?= site_url('organisasi'); ?>">Organisasi</a>

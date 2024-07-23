@@ -1,7 +1,7 @@
 
 <div class="container mt-4">
     <h1>Edit Konten</h1>
-    <form action="<?= site_url('admin/update/' . $content['id']); ?>" method="post" enctype="multipart/form-data">
+    <form action="<?= site_url('admin/referensi/update/' . $content['id']); ?>" method="post" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="judul" class="form-label">Judul</label>
             <input type="text" class="form-control" id="judul" name="judul" value="<?= $content['judul']; ?>" required>

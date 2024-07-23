@@ -8,13 +8,11 @@ class UserModel extends Model
 {
     protected $table = 'users';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['nip', 'password', 'role', 'created_at', 'updated_at'];
+    protected $allowedFields = [
+        'nip', 'gelar_depan', 'nama', 'gelar_belakang', 'password', 
+        'role', 'kode_bidang', 'status', 'jabatan_struktural'
+    ];
     protected $useTimestamps = true;
     protected $createdField  = 'created_at';
     protected $updatedField  = 'updated_at';
-
-    public function getUserById($id)
-    {
-        return $this->where('id', $id)->first();
-    }
 }

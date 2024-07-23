@@ -1,6 +1,6 @@
 <div class="container mt-4">
     <h1>Tambah Konten</h1>
-    <form action="<?= site_url('admin/store'); ?>" method="post" enctype="multipart/form-data">
+    <form action="<?= site_url('admin/referensi/store'); ?>" method="post" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="judul" class="form-label">Judul</label>
             <input type="text" class="form-control" id="judul" name="judul" required>

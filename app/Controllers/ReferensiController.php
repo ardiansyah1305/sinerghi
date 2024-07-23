@@ -24,7 +24,7 @@ class ReferensiController extends BaseController
         }
 
         $data = [
-            'username' => $this->username,
+            'nip' => $this->userData['nip'],
             'categories' => $categories,
             'groupedContents' => $groupedContents
         ];

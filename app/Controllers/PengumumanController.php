@@ -7,7 +7,7 @@ class PengumumanController extends BaseController
     public function detail_pengumuman1()
     {
         $data = [
-            'username' => $this->userData['username']
+            'nip' => $this->userData['nip']
         ];
 
         echo view('dashboard/detail_pengumuman1', $data);
@@ -16,7 +16,7 @@ class PengumumanController extends BaseController
     public function detail_pengumuman2()
     {
         $data = [
-            'username' => $this->userData['username']
+            'nip' => $this->userData['nip']
         ];
 
         echo view('dashboard/detail_pengumuman2', $data);
@@ -25,7 +25,7 @@ class PengumumanController extends BaseController
     public function detail_pengumuman3()
     {
         $data = [
-            'username' => $this->userData['username']
+            'nip' => $this->userData['nip']
         ];
 
         echo view('dashboard/detail_pengumuman3', $data);

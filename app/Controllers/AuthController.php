@@ -51,7 +51,7 @@ class AuthController extends Controller
                 $ses_data = [
                     'id'       => $data['id'],
                     'nip'      => $data['nip'],
-
+                    'nama'     => $data['nama'],
                     'role'     => $data['role'],
                     'logged_in' => TRUE
                 ];

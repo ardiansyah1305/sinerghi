@@ -8,7 +8,7 @@ class OrganisasiController extends BaseController
     {
         // Pass data username ke view
         $data = [
-            'username' => $this->userData['username']
+            'nip' => $this->userData['nip']
         ];
 
         echo view('organisasi/organisasi', $data);
