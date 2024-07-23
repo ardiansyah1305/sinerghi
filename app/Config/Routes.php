@@ -11,7 +11,7 @@ $routes->post('/register/store', 'RegisterController::store');
 $routes->get('/login', 'AuthController::login');
 $routes->post('/loginAuth', 'AuthController::loginAuth');
 $routes->get('/logout', 'AuthController::logout');
-$routes->get('/dashboard', 'DashboardController::index');
+$routes->get('/dashboard', 'DashboardController::index', ['filter' => 'auth']);
 $routes->get('/layanan', 'LayananController::index');
 $routes->get('/referensi', 'ReferensiController::index');
 $routes->get('/organisasi', 'OrganisasiController::index');

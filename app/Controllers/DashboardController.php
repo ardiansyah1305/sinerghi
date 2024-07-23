@@ -6,15 +6,11 @@ class DashboardController extends BaseController
 {
     public function index()
     {
-        
+        $session = session();
         $data = [
-            'username' => $this->userData['username']
+            'username' => $session->get('username'),
         ];
 
         echo view('dashboard/dashboard', $data);
     }
 }
-
-
-
-
