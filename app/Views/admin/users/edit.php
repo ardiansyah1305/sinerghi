@@ -1,3 +1,7 @@
+<?= $this->extend('admin/layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
 <div class="container mt-4">
     <h2>Edit User</h2>
     <form action="<?= site_url('admin/users/update/' . $user['id']); ?>" method="post">
@@ -44,3 +48,5 @@
         <button type="submit" class="btn btn-primary">Save</button>
     </form>
 </div>
+
+<?= $this->endSection(); ?>

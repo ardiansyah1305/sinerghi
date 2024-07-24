@@ -1,3 +1,6 @@
+<?= $this->extend('admin/layout/template'); ?>
+
+<?= $this->section('content'); ?>
 <div class="container mt-4">
     <h2>Add User</h2>
     <form action="<?= site_url('admin/users/store'); ?>" method="post">
@@ -44,3 +47,5 @@
         <button type="submit" class="btn btn-primary">Save</button>
     </form>
 </div>
+
+<?= $this->endSection(); ?>

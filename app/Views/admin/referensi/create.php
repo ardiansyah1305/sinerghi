@@ -1,3 +1,7 @@
+<?= $this->extend('admin/layout/template'); ?>
+
+<?= $this->section('content'); ?>
+
 <div class="container mt-4">
     <h1>Tambah Konten</h1>
     <form action="<?= site_url('admin/referensi/store'); ?>" method="post" enctype="multipart/form-data">
@@ -33,3 +37,5 @@
         <button type="submit" class="btn btn-primary">Simpan</button>
     </form>
 </div>
+
+<?= $this->endSection(); ?>
