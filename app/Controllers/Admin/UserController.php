@@ -10,7 +10,22 @@ class UserController extends Controller
     public function index()
     {
         $userModel = new UserModel();
-        $data['users'] = $userModel->findAll();
+        $search = $this->request->getGet('search');
+        $currentPage = $this->request->getVar('page') ? $this->request->getVar('page') : 1;
+
+        if ($search) {
+            $users = $userModel->like('nama', $search)->paginate(20, 'default');
+        } else {
+            $users = $userModel->paginate(20, 'default');
+        }
+
+        $data = [
+            'users' => $users,
+            'pager' => $userModel->pager,
+            'currentPage' => $currentPage,
+            'search' => $search
+        ];
+
         return view('admin/users/index', $data);
     }
 

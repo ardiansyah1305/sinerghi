@@ -190,7 +190,7 @@
                         <span class="nav-link">Holaa, <?= esc(session()->get('nama')) ?></span>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= site_url('dashboard'); ?>">Dashboard</a>
+                        <a class="nav-link" href="<?= site_url('dashboard'); ?>">Beranda</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?= site_url('organisasi'); ?>">Organisasi</a>
@@ -199,7 +199,7 @@
                         <a class="nav-link" href="<?= site_url('layanan'); ?>">Layanan</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= site_url('referensi'); ?>">Referensi</a>
+                        <a class="nav-link" href="<?= site_url('referensi'); ?>">Pustaka</a>
                     </li>
                     <li class="nav-item d-lg-none">
                         <a class="nav-link" href="<?= site_url('logout'); ?>">Logout</a>

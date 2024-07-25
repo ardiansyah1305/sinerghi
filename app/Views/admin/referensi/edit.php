@@ -1,3 +1,6 @@
+<?= $this->extend('admin/layout/template'); ?>
+
+<?= $this->section('content'); ?>
 
 <div class="container mt-4">
     <h1>Edit Konten</h1>
@@ -36,3 +39,4 @@
     </form>
 </div>
 
+<?= $this->endSection(); ?>

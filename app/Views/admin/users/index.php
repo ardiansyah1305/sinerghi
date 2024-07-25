@@ -2,154 +2,123 @@
 
 <?= $this->section('content'); ?>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Management</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom CSS -->
-    <style>
-        body {
-            background-color: #f8f9fa;
-        }
-        .container {
-            margin-top: 50px;
-        }
-        .table-responsive {
-            margin-top: 20px;
-        }
-        .btn-custom {
-            background-color: #007bff;
-            color: white;
-        }
-        .btn-custom:hover {
-            background-color: #0056b3;
-        }
-        .modal-header {
-            background-color: #007bff;
-            color: white;
-        }
-        .modal-footer .btn-custom {
-            background-color: #007bff;
-            color: white;
-        }
-        .modal-footer .btn-custom:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <h2 class="text-center">User Management</h2>
-        <div class="d-flex justify-content-end mb-3">
-            <button class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#addUserModal">Add User</button>
-        </div>
-        <div class="table-responsive">
-            <table class="table table-striped table-bordered">
-                <thead class="table-dark">
+<div class="container-fluid mt-4">
+    <h2 class="text-center mb-4">User Management</h2>
+    <div class="d-flex justify-content-between mb-3">
+        <form action="<?= site_url('admin/users'); ?>" method="get" class="d-flex">
+            <input type="text" name="search" class="form-control" placeholder="Search by name" value="<?= esc($search) ?>">
+            <button type="submit" class="btn btn-primary ml-2">Search</button>
+        </form>
+        <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addUserModal">Add User</button>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered table-sm w-100">
+            <thead class="table-dark">
+                <tr>
+                    <th class="text-center">No</th>
+                    <th class="text-center">NIP</th>
+                    <th class="text-center">Gelar Depan</th>
+                    <th class="text-center">Nama</th>
+                    <th class="text-center">Gelar Belakang</th>
+                    <th class="text-center">Role</th>
+                    <th class="text-center">Kode Bidang</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Jabatan Struktural</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php $no = 1 + (20 * ($currentPage - 1)); ?>
+                <?php foreach ($users as $user): ?>
                     <tr>
-                        <th>NIP</th>
-                        <th>Gelar Depan</th>
-                        <th>Nama</th>
-                        <th>Gelar Belakang</th>
-                        <th>Role</th>
-                        <th>Kode Bidang</th>
-                        <th>Status</th>
-                        <th>Jabatan Struktural</th>
-                        <th>Actions</th>
+                        <td class="text-center"><?= $no++; ?></td>
+                        <td class="text-center"><?= esc($user['nip']); ?></td>
+                        <td class="text-center"><?= esc($user['gelar_depan']); ?></td>
+                        <td class="text-center"><?= esc($user['nama']); ?></td>
+                        <td class="text-center"><?= esc($user['gelar_belakang']); ?></td>
+                        <td class="text-center"><?= $user['role'] == '1' ? 'Admin' : 'User'; ?></td>
+                        <td class="text-center"><?= esc($user['kode_bidang']); ?></td>
+                        <td class="text-center"><?= esc($user['status']); ?></td>
+                        <td class="text-center"><?= esc($user['jabatan_struktural']); ?></td>
+                        <td class="text-center">
+                            <div class="d-flex justify-content-center gap-2">
+                                <button class="btn btn-warning btn-sm" data-bs-toggle="modal" data-bs-target="#editUserModal<?= $user['id']; ?>">
+                                    <i class="bi bi-pencil-square"></i>
+                                </button>
+                                <button onclick="confirmDelete(<?= $user['id']; ?>)" class="btn btn-danger btn-sm">
+                                    <i class="bi bi-trash"></i>
+                                </button>
+                            </div>
+                        </td>
                     </tr>
-                </thead>
-                <tbody>
-                    <?php foreach ($users as $user): ?>
-                        <tr>
-                            <td><?= esc($user['nip']); ?></td>
-                            <td><?= esc($user['gelar_depan']); ?></td>
-                            <td><?= esc($user['nama']); ?></td>
-                            <td><?= esc($user['gelar_belakang']); ?></td>
-                            <td><?= $user['role'] == '1' ? 'Admin' : 'User'; ?></td>
-                            <td><?= esc($user['kode_bidang']); ?></td>
-                            <td><?= esc($user['status']); ?></td>
-                            <td><?= esc($user['jabatan_struktural']); ?></td>
-                            <td>
-                                <a href="<?= site_url('admin/users/edit/' . $user['id']); ?>" class="btn btn-warning btn-sm">Edit</a>
-                                <a href="<?= site_url('admin/users/delete/' . $user['id']); ?>" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this user?');">Delete</a>
-                            </td>
-                        </tr>
-                    <?php endforeach; ?>
-                </tbody>
-            </table>
-        </div>
+
+                    <!-- Edit User Modal -->
+                    <div class="modal fade" id="editUserModal<?= $user['id']; ?>" tabindex="-1" aria-labelledby="editUserModalLabel<?= $user['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header bg-warning text-white">
+                                    <h5 class="modal-title" id="editUserModalLabel<?= $user['id']; ?>">Edit User</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <?= view('admin/users/edit', ['user' => $user]); ?>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Edit User Modal -->
+                <?php endforeach; ?>
+            </tbody>
+        </table>
     </div>
 
-    <!-- Add User Modal -->
-    <div class="modal fade" id="addUserModal" tabindex="-1" aria-labelledby="addUserModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="addUserModalLabel">Add User</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <form action="<?= site_url('admin/users/store'); ?>" method="post">
-                        <?= csrf_field(); ?>
-                        <div class="form-group mb-3">
-                            <label for="nip">NIP</label>
-                            <input type="text" name="nip" class="form-control" required>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="gelar_depan">Gelar Depan</label>
-                            <input type="text" name="gelar_depan" class="form-control" required>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="nama">Nama</label>
-                            <input type="text" name="nama" class="form-control" required>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="gelar_belakang">Gelar Belakang</label>
-                            <input type="text" name="gelar_belakang" class="form-control">
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="password">Password</label>
-                            <input type="password" name="password" class="form-control" required>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="role">Role</label>
-                            <select name="role" class="form-control" required>
-                                <option value="0">User</option>
-                                <option value="1">Admin</option>
-                            </select>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="kode_bidang">Kode Bidang</label>
-                            <input type="text" name="kode_bidang" class="form-control" required>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="status">Status</label>
-                            <input type="text" name="status" class="form-control" required>
-                        </div>
-                        <div class="form-group mb-3">
-                            <label for="jabatan_struktural">Jabatan Struktural</label>
-                            <input type="text" name="jabatan_struktural" class="form-control" required>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            <button type="submit" class="btn btn-custom">Save</button>
-                        </div>
-                    </form>
-                </div>
+    <!-- Pagination -->
+    <div class="d-flex justify-content-end">
+        <nav>
+            <?= $pager->links('default', 'bootstrap_full'); ?>
+        </nav>
+    </div>
+</div>
+
+<!-- Add User Modal -->
+<div class="modal fade" id="addUserModal" tabindex="-1" aria-labelledby="addUserModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title" id="addUserModalLabel">Add User</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <?= view('admin/users/create'); ?>
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Bootstrap Icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+<!-- SweetAlert JS -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert/dist/sweetalert.min.js"></script>
 
-</html>
+<script>
+    function confirmDelete(userId) {
+        swal({
+            title: "Are you sure?",
+            text: "Once deleted, you will not be able to recover this user!",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true,
+        })
+        .then((willDelete) => {
+            if (willDelete) {
+                window.location.href = "<?= site_url('admin/users/delete/'); ?>" + userId;
+            } else {
+                swal("Your user is safe!");
+            }
+        });
+    }
+</script>
 
 <?= $this->endSection(); ?>
