@@ -1,4 +1,3 @@
-<!-- Navbar.php -->
 <!-- Sidebar -->
 <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
@@ -35,6 +34,12 @@
             <span>User Management</span></a>
     </li>
 
+    <li class="nav-item">
+        <a class="nav-link" href="<?= site_url('admin/beranda'); ?>">
+            <i class="fas fa-fw fa-desktop"></i>
+            <span>Beranda</span></a>
+    </li>
+
     <!-- Nav Item - Referensi -->
     <li class="nav-item">
         <a class="nav-link" href="<?= site_url('admin/referensi'); ?>">
@@ -55,6 +60,9 @@
             <i class="fas fa-fw fa-sitemap"></i>
             <span>Organisasi</span></a>
     </li>
+
+    <!-- Nav Item - Beranda -->
+    
 
     <!-- Divider -->
     <hr class="sidebar-divider d-none d-md-block">
