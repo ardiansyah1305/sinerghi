@@ -25,19 +25,8 @@ class Filters extends BaseFilters
         'forcehttps'    => ForceHTTPS::class,
         'pagecache'     => PageCache::class,
         'performance'   => PerformanceMetrics::class,
-        'auth'          => \App\Filters\AuthFilter::class, // Tambahkan ini
-    ];
-
-    public array $required = [
-        'before' => [
-            'forcehttps', // Force Global Secure Requests
-            'pagecache',  // Web Page Caching
-        ],
-        'after' => [
-            'pagecache',   // Web Page Caching
-            'performance', // Performance Metrics
-            'toolbar',     // Debug Toolbar
-        ],
+        'auth'          => \App\Filters\AuthFilter::class, // Filter untuk autentikasi
+        'admin'         => \App\Filters\AdminFilter::class, // Filter untuk admin
     ];
 
     public array $globals = [
@@ -56,5 +45,6 @@ class Filters extends BaseFilters
 
     public array $filters = [
         'auth' => ['before' => ['admin/*', 'dashboard', 'referensi', 'organisasi', 'layanan']],
+        'admin' => ['before' => ['admin/*']], // Menambahkan ini untuk memastikan rute admin menggunakan filter admin
     ];
 }
