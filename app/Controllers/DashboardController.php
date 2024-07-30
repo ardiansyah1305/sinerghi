@@ -1,6 +1,5 @@
 <?php
 
-
 namespace App\Controllers;
 
 use App\Models\SliderBerandaModel;
@@ -27,12 +26,12 @@ class DashboardController extends BaseController
     public function detail_pengumuman($id)
     {
         $cardModel = new CardBerandaModel();
-        $announcement = $cardModel->find($id);
+        $data['announcement'] = $cardModel->find($id);
 
-        if (!$announcement) {
-            throw new \CodeIgniter\Exceptions\PageNotFoundException('Pengumuman tidak ditemukan');
+        if (!$data['announcement']) {
+            throw new \CodeIgniter\Exceptions\PageNotFoundException('Announcement with ID ' . $id . ' not found.');
         }
 
-        return view('dashboard/detail_pengumuman', ['announcement' => $announcement]);
+        return view('dashboard/detail_pengumuman', $data);
     }
 }

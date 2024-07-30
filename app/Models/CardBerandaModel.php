@@ -6,8 +6,17 @@ use CodeIgniter\Model;
 
 class CardBerandaModel extends Model
 {
-    protected $table = 'cards';
+    protected $table      = 'cards';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['title', 'description', 'image', 'date'];
+
+    protected $useAutoIncrement = true;
+
+    protected $returnType     = 'array';
+    protected $useSoftDeletes = false;
+
+    protected $allowedFields = ['title', 'short_description', 'description', 'image'];
+
     protected $useTimestamps = true;
+    protected $createdField  = 'created_at';
+    protected $updatedField  = 'updated_at';
 }

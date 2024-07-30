@@ -1,3 +1,4 @@
+<!-- app/Views/admin/beranda/index.php -->
 <?= $this->extend('admin/layout/template'); ?>
 
 <?= $this->section('content'); ?>
@@ -79,7 +80,7 @@
                 <tr>
                     <td><?= $card['id']; ?></td>
                     <td><?= $card['title']; ?></td>
-                    <td><?= $card['description']; ?></td>
+                    <td><?= $card['short_description']; ?></td>
                     <td><img src="<?= base_url('img/' . $card['image']); ?>" alt="Card Image" width="100"></td>
                     <td>
                         <a href="<?= site_url('admin/beranda/detail_pengumuman/' . $card['id']); ?>" class="btn btn-info">View</a>

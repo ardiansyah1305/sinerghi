@@ -81,14 +81,15 @@ class BerandaController extends Controller
     public function storeCard()
     {
         $cardModel = new CardBerandaModel();
-        $file = $this->request->getFile('image'); // Asumsi card juga memiliki gambar
+        $file = $this->request->getFile('image');
         if ($file->isValid() && !$file->hasMoved()) {
             $newName = $file->getRandomName();
-            $file->move(FCPATH . 'img', $newName); // Simpan di folder public/uploads
+            $file->move(FCPATH . 'img', $newName);
             $data = [
-                'image' => $newName,
                 'title' => $this->request->getPost('title'),
+                'short_description' => $this->request->getPost('short_description'),
                 'description' => $this->request->getPost('description'),
+                'image' => $newName,
             ];
             $cardModel->save($data);
         }
@@ -98,11 +99,7 @@ class BerandaController extends Controller
     public function deleteCard($id)
     {
         $cardModel = new CardBerandaModel();
-        $card = $cardModel->find($id);
-        if ($card) {
-            @unlink(FCPATH . 'img/' . $card['image']);
-            $cardModel->delete($id);
-        }
+        $cardModel->delete($id);
         return redirect()->to('/admin/beranda');
     }
 
@@ -115,6 +112,6 @@ class BerandaController extends Controller
             throw new \CodeIgniter\Exceptions\PageNotFoundException('Announcement with ID ' . $id . ' not found.');
         }
 
-        return view('admin/beranda/detail_pengumuman', $data);
+        return view('dashboard/detail_pengumuman', $data);
     }
 }
