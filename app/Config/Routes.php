@@ -26,6 +26,7 @@ $routes->group('admin', ['filter' => 'admin'], function ($routes) {
     $routes->post('referensi/update/(:segment)', 'Admin\ReferensiController::update/$1');
     $routes->get('referensi/delete/(:segment)', 'Admin\ReferensiController::delete/$1');
     $routes->post('referensi/addCategory', 'Admin\ReferensiController::addCategory');
+
     // Routes for User Management
     $routes->get('users', 'Admin\UserController::index');
     $routes->get('users/create', 'Admin\UserController::create');
@@ -33,4 +34,18 @@ $routes->group('admin', ['filter' => 'admin'], function ($routes) {
     $routes->get('users/edit/(:segment)', 'Admin\UserController::edit/$1');
     $routes->post('users/update/(:segment)', 'Admin\UserController::update/$1');
     $routes->get('users/delete/(:segment)', 'Admin\UserController::delete/$1');
+
+
+    //Beranda
+    $routes->get('beranda', 'Admin\BerandaController::index');
+    $routes->post('beranda/storeSlider', 'Admin\BerandaController::storeSlider');
+    $routes->get('beranda/deleteSlider/(:segment)', 'Admin\BerandaController::deleteSlider/$1');
+
+    $routes->post('beranda/storePopup', 'Admin\BerandaController::storePopup');
+    $routes->get('/admin/beranda/deletePopup/(:segment)', 'Admin\BerandaController::deletePopup/$1');
+
+    $routes->post('beranda/storeCard', 'Admin\BerandaController::storeCard');
+    $routes->get('beranda/deleteCard/(:segment)', 'Admin\BerandaController::deleteCard/$1');
+    $routes->get('beranda/detail_pengumuman/(:num)', 'Admin\BerandaController::detail_pengumuman/$1');
+
 });
