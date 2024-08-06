@@ -2,253 +2,9 @@
 
 <?= $this->section('content'); ?>
 
-<!-- Service Start -->
-<div class="background-dark-section1">
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h1 class="mb-4">Kementrian Pembudayaan dan Kemanusiaan</h1>
-                <h6 class="custom-text">Layanan ASN</h6>
-            </div>
-
-            <!-- Layanan ASN -->
-            <div class="row g-4 justify-content-center">
-                <?php
-                $cards = [
-                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "KEPEGAWAIAN", "links" => [
-                        ["name" => "Siasn", "url" => "https://sipkv2.kemenkopmk.go.id"],
-                        ["name" => "myASN ", "url" => "https://example.com/siiii"],
-                        ["name" => "Kinerja ASN ", "url" => "https://example.com/siof"],
-                        ["name" => "jafungbps", "url" => "https://example.com/siof"],
-                        ["name" => "jafungperencana-sikeren", "url" => "https://example.com/siof"],
-                        ["name" => "jafungAK", "url" => "https://example.com/siof"],
-                        ["name" => "pengadaanASN-SSCASN", "url" => "https://example.com/siof"],
-                        ["name" => "pengadaanJPT", "url" => "https://example.com/siof"],
-                        ["name" => "Formasi Hukdis-Idis ", "url" => "https://example.com/siof"],
-                        ["name" => "NSPK SIAPP-setneg  ", "url" => "https://example.com/siof"],
-                        ["name" => "Pemberhentian-Kanjenk", "url" => "https://example.com/siof"],
-                        ["name" => "Smartgov", "url" => "https://smartgov.id/"],
-                        ["name" => "SIPINTER-merit", "url" => "https://example.com/siof"],
-                        ["name" => "SISDMK Renbut", "url" => "https://example.com/siof"],
-                        ["name" => "LHKPN", "url" => "https://elhkpn.kpk.go.id/portal/user/login#"],
-                        ["name" => "Pajak-efin", "url" => "https://example.com/siof"]
-                    ]],
-                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "ABSENSI", "links" => [
-                        ["name" => "SIPK", "url" => "https://sipkv2.kemenkopmk.go.id/"],
-                        ["name" => "SIAPP", "url" => "http://siapp.kemenkopmk.go.id/login.php"],
-                        ["name" => "REALTEAM", "url" => "http://realtime.kemenkopmk.go.id/"],
-                        ["name" => "FormAbsen", "url" => "#"]
-                    ]],
-                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "CUTI", "links" => [
-                        ["name" => "FORM CUTI", "url" => "https://siasn.bkn.go.id/"]
-                    ]],
-                    ["color" => "#192E2F", "icon" => "fa-users", "title" => "CATATAN HARIAN", "links" => [
-                        ["name" => "Ekin", "url" => "https://kinerja.bkn.go.id/login"],
-                        ["name" => "Catatan Kegiatan", "url" => "#"]
-                    ]]
-                ];
-                foreach ($cards as $index => $card) {
-                    $delay = ($index % 4 == 0) ? "0.1s" : (($index % 4 == 1) ? "0.3s" : (($index % 4 == 2) ? "0.5s" : "0.7s"));
-                ?>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="<?= $delay ?>">
-                        <div class="service-item rounded overflow-hidden" data-toggle="modal" data-target="#serviceModal<?= $index ?>" style="height: 210px;">
-                            <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
-                                <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
-                            </div>
-                            <div class="position-relative p-4 pt-2 text-center">
-                                <h4 class="mb-0 font-weight-bold"><?= $card['title'] ?></h4>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Modal -->
-                    <div class="modal fade" id="serviceModal<?= $index ?>" tabindex="-1" aria-labelledby="serviceModalLabel<?= $index ?>" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="serviceModalLabel<?= $index ?>"><?= $card['title'] ?></h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <h5 class="modal-text">Link Terkait</h5>
-                                    <ul class="modal-text">
-                                        <?php foreach ($card['links'] as $link) : ?>
-                                            <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="Tooltip"><?= $link['name'] ?></a></li>
-                                        <?php endforeach; ?>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                <?php } ?>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="background-dark-section2">
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h6 class="custom-text">Administrasi Layanan ASN</h6>
-            </div>
-
-            <!-- Administrasi Layanan ASN -->
-            <div class="row g-4 justify-content-center">
-                <?php
-                $cards = [
-                    ["color" => "#7BA9A9", "icon" => "fa-book", "title" => "PENGETAHUAN", "links" => [
-                        ["name" => "Perpustakaan", "url" => "http://perpustakaan.kemenkopmk.go.id/perpus/"],
-                        ["name" => "Knowledge manajemen", "url" => "https://sipkv2.kemenkopmk.go.id/"],
-                        ["name" => "Jurnal", "url" => "http://jurnal.kemenkopmk.go.id/"],
-                        ["name" => "Jdih", "url" => "https://jdih.kemenkopmk.go.id/"]
-                    ]],
-                    ["color" => "#7BA9A9", "icon" => "fa-book", "title" => "KESEHATAN", "links" => [
-                        ["name" => "Klinik", "url" => "http://192.168.10.171/apps/SIMpel"]
-                    ]],
-                    ["color" => "#7BA9A9", "icon" => "fa-book", "title" => "RUANG RAPAT", "links" => [
-                        ["name" => "BOOKING RUANG RAPAT", "url" => "http://rapat.kemenkopmk.go.id/"]
-                    ]]
-                ];
-                foreach ($cards as $index => $card) {
-                    $delay = ($index % 4 == 0) ? "0.1s" : (($index % 4 == 1) ? "0.3s" : (($index % 4 == 2) ? "0.5s" : "0.7s"));
-                ?>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="<?= $delay ?>">
-                        <div class="service-item rounded overflow-hidden" data-toggle="modal" data-target="#serviceModal<?= $index + 4 ?>" style="height: 210px;">
-                            <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
-                                <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
-                            </div>
-                            <div class="position-relative p-4 pt-2 text-center">
-                                <h4 class="mb-0 font-weight-bold"><?= $card['title'] ?></h4>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Modal -->
-                    <div class="modal fade" id="serviceModal<?= $index + 4 ?>" tabindex="-1" aria-labelledby="serviceModalLabel<?= $index + 4 ?>" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="serviceModalLabel<?= $index + 4 ?>"><?= $card['title'] ?></h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <h5 class="modal-text">Link Terkait</h5>
-                                    <ul class="modal-text">
-                                        <?php foreach ($card['links'] as $link) : ?>
-                                            <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="Tooltip"><?= $link['name'] ?></a></li>
-                                        <?php endforeach; ?>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                <?php } ?>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="background-dark-section3">
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h6 class="custom-text">Layanan IT</h6>
-            </div>
-
-            <!-- Layanan IT -->
-            <div class="row g-4 justify-content-center">
-                <?php
-                $cards = [
-                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "lAYANAN IT", "links" => [
-                        ["name" => "Option 1", "url" => "#"]
-                    ]],
-                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "LAPORAN KINERJA", "links" => [
-                        ["name" => "Kinerja Unit-SIPP", "url" => "http://sippv3.kemenkopmk.go.id/"],
-                        ["name" => "E-sakip reviu", "url" => "http://esr.menpan.go.id/"],
-                        ["name" => "Monitor KerjaAnggaran-SMARTs", "url" => "http://smart.kemenkeu.go.id/"],
-                        ["name" => "E-Monev Bapena", "url" => "http://e-monev.bappenas.go.id/"],
-                        ["name" => "Serambi", "url" => "http://serambi.ksp.go.id/"],
-                        ["name" => "Simonsikat-terorisme", "url" => "http://simonsikat.bnpt.go.id/"],
-                        ["name" => "Renaksi inpres", "url" => "http://inpresp4gn.bnn.go.id/"],
-                        ["name" => "Renaksi HAM", "url" => "http://serambi.ksp.go.id/"],
-                        ["name" => "Kepuasan", "url" => "http://surveikspk.kemenkopmk.go.id/"]
-
-                    ]],
-                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "TATA KELOLA", "links" => [
-                        ["name" => "Option 1", "url" => "#"]
-                    ]],
-
-
-                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "KEUANGAN", "links" => [
-                        ["name" => "SAKTI", "url" => "http://sakti.kemenkeu.go.id/"],
-                        ["name" => "Monitor-Omspan", "url" => "#"],
-                        ["name" => "Gaji", "url" => "#"],
-                        ["name" => "Kembali Kas-Simponi", "url" => "https://www.simponi.kemenkeu.go.id/"],
-                        ["name" => "Potong Pajak-ebupot", "url" => "#"],
-                        ["name" => "Pengadaan BJ-LPSE", "url" => "https://www.lpse.kemenkeu.go.id/eproc4"],
-                        ["name" => "Pengadaan RUP-SIRUP", "url" => "https://sirup.lkpp.go.id/"],
-                        ["name" => "PAPBJ", "url" => "#"],
-                    ]],
-                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "ADMINISTRASI", "links" => [
-                        ["name" => "Arsip Dinamis-SRIKANDI", "url" => "https://srikandi.arsip.go.id"],
-                        ["name" => "Arsip Statis-SIKN", "url" => "https://sikn.anri.go.id/"],
-                        ["name" => "BMN-SAKTI", "url" => "#"],
-                        ["name" => "Pengelolaan BMN-SIMAN", "url" => "https://www.djkn.kemenkeu.go.id/websiman/"]
-                    ]],
-                    ["color" => "#BCD9D7", "icon" => "fa-leaf", "title" => "PENGAWASAN", "links" => [
-                        ["name" => "Option 1", "url" => "#"]
-                    ]]
-                ];
-
-                foreach ($cards as $index => $card) {
-                    $delay = ($index % 3 == 0) ? "0.1s" : (($index % 3 == 1) ? "0.3s" : "0.5s");
-                ?>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="<?= $delay ?>">
-                        <div class="service-item rounded overflow-hidden" data-toggle="modal" data-target="#serviceModal<?= $index + 7 ?>" style="height: 210px;">
-                            <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
-                                <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
-                            </div>
-                            <div class="position-relative p-4 pt-2 text-center">
-                                <h4 class="mb-0 font-weight-bold"><?= $card['title'] ?></h4>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Modal -->
-                    <div class="modal fade" id="serviceModal<?= $index + 7 ?>" tabindex="-1" aria-labelledby="serviceModalLabel<?= $index + 7 ?>" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="serviceModalLabel<?= $index + 7 ?>"><?= $card['title'] ?></h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <h5 class="modal-text">Link Terkait</h5>
-                                    <ul class="modal-text">
-                                        <?php foreach ($card['links'] as $link) : ?>
-                                            <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="Tooltip"><?= $link['name'] ?></a></li>
-                                        <?php endforeach; ?>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                <?php } ?>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Service End -->
-
 <style>
-    .background-dark-section1 {
+    /* CSS untuk tampilan halaman layanan */
+    .background-dark-section1, .background-dark-section3 {
         background-color: #f5f5f5;
         padding: 20px;
         border-radius: 10px;
@@ -259,13 +15,6 @@
         background-color: #ffffff;
         padding: 20px;
         border-radius: 10px;
-    }
-
-    .background-dark-section3 {
-        background-color: #f5f5f5;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
     .service-item {
@@ -289,12 +38,10 @@
 
     .modal-body h5 {
         font-size: 18px;
-        /* Ukuran teks heading dalam modal */
     }
 
     .modal-body a {
         font-size: 25px;
-        /* Ukuran teks link */
     }
 
     .fa-3x {
@@ -316,13 +63,211 @@
             margin-bottom: 20px;
         }
     }
+
+    /* CSS untuk tampilan navbar */
+    html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .user-box {
+        font-size: 14px;
+        color: #000;
+        background: none !important;
+        margin-right: 10px;
+    }
+
+    .user-box a {
+        color: #000;
+        text-decoration: none;
+        background: none !important;
+    }
+
+    .navbar-brand img {
+        max-height: 40px;
+    }
+
+    .top-bar {
+        background-color: #000957; /* Warna latar belakang top bar */
+        color: white;
+        padding: 5px 0;
+    }
+
+    .top-bar .contact-info {
+        margin: 0;
+        color: white; /* Warna teks contact info */
+    }
+
+    .top-bar .social-icons {
+        text-align: right;
+    }
+
+    .top-bar .social-icons a {
+        color: #EBE645; /* Warna ikon social media */
+        margin-left: 10px;
+    }
+
+    .main-navbar {
+        background-color: #344CB7; /* Warna latar belakang navbar */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        font-weight: bold;
+        padding: 10px 0;
+    }
+
+    .main-navbar .navbar-nav {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .main-navbar .nav-link {
+        color: #FFFFFF; /* Warna teks link navbar */
+        font-size: 14px;
+        transition: color 0.2s ease-in-out;
+        position: relative;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .main-navbar .nav-link::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        display: block;
+        margin-top: 5px;
+        right: 0;
+        background: #EBE645; /* Warna garis bawah link navbar */
+        transition: width 0.2s ease, background-color 0.2s ease;
+    }
+
+    .main-navbar .nav-link:hover::after {
+        width: 100%;
+        left: 0;
+        background: #EBE645; /* Warna garis bawah link navbar saat hover */
+    }
+
+    .main-navbar .nav-link:hover {
+        color: #EBE645; /* Warna teks link navbar saat hover */
+        background: none;
+    }
+
+    .main-navbar .dropdown-menu {
+        background-color: #f8f9fa;
+        border: none;
+    }
+
+    .btn-outline-danger {
+        background-color: #577BC1; /* Warna tombol logout */
+        color: #fff;
+        border-color: #577BC1;
+        font-weight: bold;
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+
+    .btn-outline-danger:hover {
+        background-color: #344CB7; /* Warna hover tombol logout */
+        color: white;
+    }
+
+    .navbar-brand,
+    .navbar-nav .nav-item {
+        background: none !important;
+    }
+
+    @media (max-width: 991.98px) {
+        .top-bar .contact-info,
+        .top-bar .social-icons {
+            text-align: center;
+            padding-bottom: 5px;
+        }
+
+        .user-box {
+            text-align: center;
+            margin-bottom: 5px;
+        }
+
+        .navbar-collapse {
+            text-align: center;
+        }
+
+        .navbar-collapse .btn-outline-danger {
+            width: 100%;
+            margin-top: 5px;
+        }
+
+        .navbar-collapse .nav-link {
+            font-size: 12px;
+        }
+
+        .navbar-collapse .nav-item {
+            margin-bottom: 5px;
+        }
+    }
 </style>
+
+<?php
+$sections = [
+    'Layanan ASN' => 'background-dark-section1',
+    'Administrasi Layanan ASN' => 'background-dark-section2',
+    'Layanan IT' => 'background-dark-section3',
+];
+foreach ($sections as $sectionName => $sectionClass): 
+    $filteredLayanan = array_filter($layanan, function($item) use ($sectionName) {
+        return $item['kategori_name'] === $sectionName;
+    });
+?>
+    <div class="<?= $sectionClass ?>">
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <h6 class="custom-text"><?= $sectionName ?></h6>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <?php foreach ($filteredLayanan as $index => $card): ?>
+                        <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="0.1s">
+                            <div class="service-item rounded overflow-hidden" data-bs-toggle="modal" data-bs-target="#serviceModal-<?= $card['id'] ?>" style="height: 210px;">
+                                <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
+                                </div>
+                                <div class="position-relative p-4 pt-2 text-center">
+                                    <h4 class="mb-0 font-weight-bold"><?= $card['title'] ?></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal fade" id="serviceModal-<?= $card['id'] ?>" tabindex="-1" aria-labelledby="serviceModalLabel-<?= $card['id'] ?>" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="serviceModalLabel-<?= $card['id'] ?>"><?= $card['title'] ?></h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <h5 class="modal-text">Link Terkait</h5>
+                                        <ul class="modal-text">
+                                            <?php $links = json_decode($card['links'], true); ?>
+                                            <?php if (is_array($links)): ?>
+                                                <?php foreach ($links as $link): ?>
+                                                    <li><a href="<?= $link['url'] ?>" class="tooltip-test modal-text" title="<?= $link['name'] ?>"><?= $link['name'] ?></a></li>
+                                                <?php endforeach; ?>
+                                            <?php endif; ?>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php endforeach; ?>
 
 <script>
     $(document).ready(function() {
-        // Activate tooltips and popovers
         $('.tooltip-test').tooltip();
-        $('.popover-test').popover();
     });
 </script>
 

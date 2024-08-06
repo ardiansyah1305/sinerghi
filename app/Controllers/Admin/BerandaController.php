@@ -5,6 +5,7 @@ namespace App\Controllers\Admin;
 use App\Models\SliderBerandaModel;
 use App\Models\PopupBerandaModel;
 use App\Models\CardBerandaModel;
+use App\Models\CalenderModel;
 use CodeIgniter\Controller;
 
 class BerandaController extends Controller
@@ -14,16 +15,19 @@ class BerandaController extends Controller
         $sliderModel = new SliderBerandaModel();
         $popupModel = new PopupBerandaModel();
         $cardModel = new CardBerandaModel();
+        $calenderModel = new CalenderModel();
 
         $data = [
             'sliders' => $sliderModel->findAll(),
             'popups' => $popupModel->findAll(),
             'cards' => $cardModel->findAll(),
+            'calenders' => $calenderModel->findAll(),
         ];
 
         return view('admin/beranda/index', $data);
     }
 
+    //Slider
     public function storeSlider()
     {
         $sliderModel = new SliderBerandaModel();
@@ -40,7 +44,6 @@ class BerandaController extends Controller
         }
         return redirect()->to('/admin/beranda');
     }
-    
 
     public function deleteSlider($id)
     {
@@ -53,6 +56,7 @@ class BerandaController extends Controller
         return redirect()->to('/admin/beranda');
     }
 
+    //Modal/Popup
     public function storePopup()
     {
         $popupModel = new PopupBerandaModel();
@@ -65,7 +69,6 @@ class BerandaController extends Controller
         }
         return redirect()->to('/admin/beranda');
     }
-    
 
     public function deletePopup($id)
     {
@@ -78,6 +81,7 @@ class BerandaController extends Controller
         return redirect()->to('/admin/beranda');
     }
 
+    //Card/Pengumuman Penting
     public function storeCard()
     {
         $cardModel = new CardBerandaModel();
@@ -93,6 +97,7 @@ class BerandaController extends Controller
             ];
             $cardModel->save($data);
         }
+
         return redirect()->to('/admin/beranda');
     }
 
@@ -102,6 +107,7 @@ class BerandaController extends Controller
         $cardModel->delete($id);
         return redirect()->to('/admin/beranda');
     }
+    
 
     public function detail_pengumuman($id)
     {
@@ -113,5 +119,26 @@ class BerandaController extends Controller
         }
 
         return view('dashboard/detail_pengumuman', $data);
+    }
+
+    //Kalender
+    public function createKalender()
+    {
+        $model = new CalenderModel();
+        $data = [
+            'title' => $this->request->getPost('title'),
+            'description' => $this->request->getPost('description'),
+            'start' => $this->request->getPost('start'),
+            'end' => $this->request->getPost('end')
+        ];
+        $model->insert($data);
+        return redirect()->to('/admin/beranda');
+    }
+
+    public function deleteKalender($id)
+    {
+        $model = new CalenderModel();
+        $model->delete($id);
+        return redirect()->to('/admin/beranda');
     }
 }

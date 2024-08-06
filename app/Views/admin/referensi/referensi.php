@@ -3,7 +3,7 @@
 <?= $this->section('content'); ?>
 
 <div class="container mt-4">
-    <h1>Dashboard Admin</h1>
+    <h1>Referensi Management</h1>
 
     <!-- Form Tambah Kategori -->
     <h2>Tambah Kategori</h2>

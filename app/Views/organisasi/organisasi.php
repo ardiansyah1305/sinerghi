@@ -1,5 +1,4 @@
 <?= $this->extend('layout/template'); ?>
-
 <?= $this->section('content'); ?>
 
 <!DOCTYPE html>
@@ -9,88 +8,158 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Struktur Organisasi Kemenko PMK</title>
-    <link rel="stylesheet" href="<?= base_url('css/style.css'); ?>">
-    <!-- Tambahkan stylesheet OrgChartJS -->
-    <link rel="stylesheet" href="<?= base_url('css/orgchart.css'); ?>">
-    <script src="<?= base_url('js/orgchart.js'); ?>"></script>
+
+    <!-- Include Splide CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css">
     <style>
-        #tree {
-            width: 100%;
-            height: 100%;
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
         }
 
-        .node.red rect {
-            fill: #750000;
-        }
-
-        [data-l-id] path {
-            stroke: grey;
-        }
-
-        [data-l-id='[3][4]'] path {
-            stroke: grey;
-        }
-
-        [data-ctrl-n-menu-id] rect:hover~circle {
-            fill: white;
-        }
-
-        #tree>svg {
-            background-color: #ffffff;
-        }
-
-        [data-id='search'] {
-            display: block !important;
-        }
-
-        /* Modal styling */
-        .modal {
-            display: none;
-            position: fixed;
-            z-index: 1;
-            padding-top: 60px;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            overflow: auto;
-            background-color: rgb(0, 0, 0);
-            background-color: rgba(0, 0, 0, 0.4);
-        }
-
-        .modal-content {
-            background-color: #fefefe;
-            margin: 5% auto;
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
             padding: 20px;
-            border: 1px solid #888;
-            width: 80%;
-            max-width: 600px;
-            box-sizing: border-box;
         }
 
-        .close {
-            color: #aaa;
-            float: right;
+        .org-title {
+            text-align: center;
+            color: #3a595c;
+            font-size: 32px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .org-info {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+
+        .org-info img {
+            width: 200px;
+            height: 200px;
+            margin-right: 40px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .org-info div {
+            max-width: 700px;
+        }
+
+        .org-info h2 {
+            margin: 0;
+            color: #3a595c;
             font-size: 28px;
             font-weight: bold;
         }
 
-        .close:hover,
-        .close:focus {
-            color: black;
-            text-decoration: none;
-            cursor: pointer;
+        .org-info p {
+            color: #2c3e50;
+            font-size: 18px;
+            line-height: 1.6;
+            margin-top: 20px;
+            text-align: justify;
         }
 
-        /* Media queries for responsive modal */
-        @media (max-width: 600px) {
-            .modal-content {
-                width: 90%;
-                padding: 15px;
+        .splide__slide {
+            margin: 0 10px;
+            /* Add margin to create space between cards */
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+
+        .splide__slide img {
+            display: block;
+            margin: 20px auto 10px auto;
+            /* Add margin-top and center the image */
+            width: 100%;
+            max-height: 120px;
+            max-width: 80px;
+            object-fit: cover;
+            border-radius: 8px 8px 0 0;
+        }
+
+        .splide__slide .card-body {
+            padding: 10px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #ffffff;
+            border-radius: 0 0 8px 8px;
+            margin-top: 5px;
+        }
+
+        .splide__slide .card-text {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin: 0;
+            word-wrap: break-word;
+            display: block;
+            text-align: center;
+        }
+
+        .splide__slide:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .org-info {
+                flex-direction: column;
+                text-align: center;
             }
 
-            .close {
+            .org-info img {
+                margin-right: 0;
+                margin-bottom: 20px;
+            }
+
+            .org-info div {
+                max-width: 100%;
+            }
+
+            .org-info h2 {
                 font-size: 24px;
+            }
+
+            .org-info p {
+                font-size: 16px;
+            }
+
+            .splide__slide .card-text {
+                font-size: 18px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .org-title {
+                font-size: 24px;
+            }
+
+            .org-info h2 {
+                font-size: 20px;
+            }
+
+            .org-info p {
+                font-size: 14px;
+            }
+
+            .splide__slide .card-text {
+                font-size: 16px;
             }
         }
     </style>
@@ -99,145 +168,105 @@
 <body>
     <div class="container">
         <h1 class="org-title">Struktur Organisasi Kemenko PMK</h1>
-        <div id="tree"></div>
-    </div>
-
-    <!-- Modal HTML -->
-    <div id="myModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2 id="modalName"></h2>
-            <p id="modalTitle"></p>
-            <img id="modalImg" src="" alt="Profile Image" style="width:100px;height:100px;">
+        <div class="org-info">
+            <img src="images/muhadjir-effendy.jpg" alt="FOTO MENKO PMK">
+            <div>
+                <h2>Menteri Koordinator Bidang Manusia dan Kebudayaan</h2>
+                <p>Prof. Dr. Muhadjir Effendy, M.A.P. adalah Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan sejak 23 Oktober 2019 pada Kabinet Indonesia Maju Jokowi-Ma'ruf Amin. Beliau lahir di Madiun, tanggal 29 Juli 1956.</p>
+            </div>
+        </div>
+        <div id="splide" class="splide">
+            <div class="splide__track">
+                <ul class="splide__list">
+                    <li class="splide__slide">
+                        <!-- <a href="<?= base_url('deputi_empat') ?>" class="card"> -->
+                        <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                        <div class="card-body">
+                            <p class="card-text">Sesmenko PMK</p>
+                        </div>
+                        </a>
+                    </li>
+                    <li class="splide__slide">
+                        <a href="<?= base_url('deputi_satu') ?>" class="card">
+                            <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                            <div class="card-body">
+                                <p class="card-text">Deputi I</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="splide__slide">
+                        <a href="<?= base_url('deputi_dua') ?>" class="card">
+                            <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                            <div class="card-body">
+                                <p class="card-text">Deputi II</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="splide__slide">
+                        <a href="<?= base_url('deputi_tiga') ?>" class="card">
+                            <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                            <div class="card-body">
+                                <p class="card-text">Deputi III</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="splide__slide">
+                        <a href="<?= base_url('deputi_empat') ?>" class="card">
+                            <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                            <div class="card-body">
+                                <p class="card-text">Deputi IV</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="splide__slide">
+                        <a href="<?= base_url('deputi_lima') ?>" class="card">
+                            <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                            <div class="card-body">
+                                <p class="card-text">Deputi V</p>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="splide__slide">
+                        <a href="<?= base_url('deputi_enam') ?>" class="card">
+                            <img src="images/andie_megantara.png" alt="Sekretariat Kementerian Koordinator">
+                            <div class="card-body">
+                                <p class="card-text">Deputi VI</p>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
 
+    <!-- Include Splide JS -->
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/js/splide.min.js"></script>
     <script>
-        // JavaScript untuk OrgChart
-        var chart = new OrgChart(document.getElementById("tree"), {
-            template: "ula",
-            enableSearch: false,
-            mouseScrool: OrgChart.action.none,
-            nodeBinding: {
-                field_0: "name",
-                field_1: "title",
-                img_0: "img"
-            },
-            nodes: [{
-                    id: 1,
-                    name: "Menko PMK",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
+        document.addEventListener('DOMContentLoaded', function() {
+            new Splide('#splide', {
+                type: 'loop',
+                perPage: 5,
+                perMove: 1,
+                autoplay: true,
+                interval: 1500,
+                arrows: true,
+                pagination: false,
+                breakpoints: {
+                    1200: {
+                        perPage: 4,
+                    },
+                    768: {
+                        perPage: 2,
+                    },
+                    480: {
+                        perPage: 1,
+                    },
                 },
-                {
-                    id: 2,
-                    pid: 1,
-                    name: "Seskemenko",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 3,
-                    pid: 2,
-                    name: "Kepala Biro SIPD",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 4,
-                    pid: 2,
-                    name: "Kepala Biro Umum dan SDM",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 5,
-                    pid: 2,
-                    name: "Kepala Biro Perencanaan dan",
-                    title: "Seskemenko",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 6,
-                    pid: 2,
-                    name: "Kepala Biro Hukum, Persidangan, Organisasi, dan Komunikasi",
-                    title: "Seskemenko",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 7,
-                    pid: 1,
-                    name: "Inspektur",
-                    title: "Seskemenko",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 8,
-                    pid: 4,
-                    name: "Kepala Bagian Protokol dan Tata Usaha Pimpinan",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 9,
-                    pid: 4,
-                    name: "Kepala Bagian Protokol dan Tata Usaha Pimpinan",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
-                },
-                {
-                    id: 10,
-                    pid: 4,
-                    name: "Kepala Bagian Protokol dan Tata Usaha Pimpinan",
-                    title: "Lorem ipsum",
-                    img: "images/andie_megantara.jpg"
-                },
-            ]
-        });
-
-        // JavaScript untuk Modal
-        var modal = document.getElementById("myModal");
-        var span = document.getElementsByClassName("close")[0];
-
-        // Ketika user mengklik span (x), tutup modal
-        span.onclick = function() {
-            modal.style.display = "none";
-        }
-
-        // Ketika user mengklik di luar modal, tutup modal
-        window.onclick = function(event) {
-            if (event.target == modal) {
-                modal.style.display = "none";
-            }
-        }
-
-        // Tambahkan event listener untuk klik node
-        chart.on('click', function(sender, args) {
-            var nodeData = sender.get(args.node.id);
-
-            // Update konten modal
-            document.getElementById("modalName").textContent = nodeData.name;
-            document.getElementById("modalTitle").textContent = nodeData.title;
-            document.getElementById("modalImg").src = nodeData.img;
-
-            // Tampilkan modal
-            modal.style.display = "block";
-
-            // Prevent default click behavior
-            return false;
-        });
-
-        // Menyesuaikan lebar node berdasarkan panjang teks
-        chart.on('redraw', function() {
-            chart.nodes.forEach(node => {
-                var el = document.querySelector(`[data-n-id='${node.id}']`);
-                var name = node.data.name;
-                var width = (name.length * 8) + 100; // Adjust multiplier and base value as needed
-                el.style.width = width + 'px';
-            });
+            }).mount();
         });
     </script>
 </body>
 
 </html>
+
 <?= $this->endSection() ?>

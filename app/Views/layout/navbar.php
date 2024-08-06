@@ -4,8 +4,8 @@
 <head>
     <!-- Basic Meta Tags -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- Site Meta Tags -->
     <title>PMK</title>
@@ -16,8 +16,10 @@
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Custom CSS -->
+    <!-- Font Roboto -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="<?= base_url('css/style.css'); ?>">
     <link rel="stylesheet" href="<?= base_url('css/responsive.css'); ?>">
 
@@ -26,10 +28,21 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
 
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
     <style>
+        html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Roboto', sans-serif;
+        }
+
+       
+
         .user-box {
-            text-align: right;
-            font-size: 16px;
+            font-size: 14px;
             color: #000;
             background: none !important;
             margin-right: 10px;
@@ -42,17 +55,18 @@
         }
 
         .navbar-brand img {
-            max-height: 50px;
+            max-height: 40px;
         }
 
         .top-bar {
-            background-color: #3A595C;
+            background-color: #000957; /* Warna latar belakang top bar */
             color: white;
-            padding: 10px 0;
+            padding: 5px 0;
         }
 
         .top-bar .contact-info {
             margin: 0;
+            color: white; /* Warna teks contact info */
         }
 
         .top-bar .social-icons {
@@ -60,22 +74,29 @@
         }
 
         .top-bar .social-icons a {
-            color: white;
+            color: #EBE645; /* Warna ikon social media */
             margin-left: 10px;
         }
 
         .main-navbar {
-            background-color: #ffffff;
+            background-color: #344CB7; /* Warna latar belakang navbar */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            /* Menambahkan shadow pada navbar */
+            font-weight: bold;
+            padding: 10px 0;
+        }
+
+        .main-navbar .navbar-nav {
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .main-navbar .nav-link {
-            color: #000;
-            font-size: 18px;
-            font-weight: bold;
+            color: #FFFFFF; /* Warna teks link navbar */
+            font-size: 14px;
             transition: color 0.2s ease-in-out;
             position: relative;
+            margin-left: 15px;
+            margin-right: 15px;
         }
 
         .main-navbar .nav-link::after {
@@ -86,18 +107,18 @@
             display: block;
             margin-top: 5px;
             right: 0;
-            background: #7BA9A9;
+            background: #EBE645; /* Warna garis bawah link navbar */
             transition: width 0.2s ease, background-color 0.2s ease;
         }
 
         .main-navbar .nav-link:hover::after {
             width: 100%;
             left: 0;
-            background: #7BA9A9;
+            background: #EBE645; /* Warna garis bawah link navbar saat hover */
         }
 
         .main-navbar .nav-link:hover {
-            color: #7BA9A9;
+            color: #EBE645; /* Warna teks link navbar saat hover */
             background: none;
         }
 
@@ -107,14 +128,16 @@
         }
 
         .btn-outline-danger {
-            background-color: #DC3545;
-            color: #000;
-            border-color: #DC3545;
+            background-color: #577BC1; /* Warna tombol logout */
+            color: #fff;
+            border-color: #577BC1;
             font-weight: bold;
+            font-size: 14px;
+            padding: 5px 10px;
         }
 
         .btn-outline-danger:hover {
-            background-color: #DC3545;
+            background-color: #344CB7; /* Warna hover tombol logout */
             color: white;
         }
 
@@ -124,16 +147,15 @@
         }
 
         @media (max-width: 991.98px) {
-
             .top-bar .contact-info,
             .top-bar .social-icons {
                 text-align: center;
-                padding-bottom: 10px;
+                padding-bottom: 5px;
             }
 
             .user-box {
                 text-align: center;
-                margin-bottom: 10px;
+                margin-bottom: 5px;
             }
 
             .navbar-collapse {
@@ -142,21 +164,21 @@
 
             .navbar-collapse .btn-outline-danger {
                 width: 100%;
-                margin-top: 10px;
+                margin-top: 5px;
             }
 
             .navbar-collapse .nav-link {
-                font-size: 16px;
+                font-size: 12px;
             }
 
             .navbar-collapse .nav-item {
-                margin-bottom: 10px;
+                margin-bottom: 5px;
             }
         }
     </style>
 </head>
 
-<body class="main-layout">
+<main>
     <!-- Top Bar -->
     <div class="top-bar">
         <div class="container">
@@ -184,11 +206,8 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item d-lg-none">
-                        <span class="nav-link">Holaa, <?= esc(session()->get('nama')) ?></span>
-                    </li>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="<?= site_url('dashboard'); ?>">Beranda</a>
                     </li>
@@ -201,24 +220,19 @@
                     <li class="nav-item">
                         <a class="nav-link" href="<?= site_url('referensi'); ?>">Pustaka</a>
                     </li>
-                    <li class="nav-item d-lg-none">
-                        <a class="nav-link" href="<?= site_url('logout'); ?>">Logout</a>
-                    </li>
                 </ul>
-            </div>
-            <div class="d-none d-lg-flex align-items-center">
-                <div class="user-box me-3">
-                    <span>Holaa, <?= esc(session()->get('nama')) ?></span>
+                <div class="d-none d-lg-flex align-items-center ms-auto">
+                    <div class="user-box me-3">
+                        <span>Holaa, <?= esc(session()->get('nama')) ?></span>
+                    </div>
+                    <a href="<?= site_url('logout'); ?>" class="btn btn-outline-danger ms-3">Logout</a>
                 </div>
-                <a href="<?= site_url('logout'); ?>" class="btn btn-outline-danger ms-3">Logout</a>
             </div>
         </div>
     </nav>
+</main>
 
-    <!-- Bootstrap JS and dependencies -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.min.js"></script>
-</body>
+<!-- Additional Scripts -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/js/bootstrap.min.js"></script>
 
 </html>

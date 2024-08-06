@@ -1,0 +1,616 @@
+INFO - 2024-07-31 00:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 01:00:08 --> User ID: 16
+INFO - 2024-07-31 01:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 01:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 01:10:37 --> User ID: 16
+INFO - 2024-07-31 01:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 01:13:16 --> User ID: 16
+INFO - 2024-07-31 01:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 01:43:58 --> User ID: 16
+INFO - 2024-07-31 01:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 01:44:57 --> User ID: 16
+INFO - 2024-07-31 01:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 01:45:03 --> User ID: 16
+INFO - 2024-07-31 02:15:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:15:11 --> User ID: 16
+INFO - 2024-07-31 02:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:16:26 --> User ID: 16
+INFO - 2024-07-31 02:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:22:21 --> User ID: 16
+INFO - 2024-07-31 02:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:22:48 --> User ID: 16
+INFO - 2024-07-31 02:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:31:09 --> User ID: 16
+INFO - 2024-07-31 02:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:31:28 --> User ID: 16
+INFO - 2024-07-31 02:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:33:26 --> User ID: 16
+INFO - 2024-07-31 02:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:33:32 --> User ID: 16
+INFO - 2024-07-31 02:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:33:35 --> User ID: 16
+INFO - 2024-07-31 02:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:33:43 --> User ID: 16
+INFO - 2024-07-31 02:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:33:46 --> User ID: 16
+INFO - 2024-07-31 02:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:35:03 --> User ID: 16
+INFO - 2024-07-31 02:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:35:07 --> User ID: 16
+INFO - 2024-07-31 02:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:35:10 --> User ID: 16
+INFO - 2024-07-31 02:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:35:13 --> User ID: 16
+INFO - 2024-07-31 02:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:35:42 --> User ID: 16
+INFO - 2024-07-31 02:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:37:50 --> User ID: 16
+INFO - 2024-07-31 02:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:37:54 --> User ID: 16
+INFO - 2024-07-31 02:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:37:56 --> User ID: 16
+INFO - 2024-07-31 02:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:38:01 --> User ID: 16
+INFO - 2024-07-31 02:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:38:03 --> User ID: 16
+INFO - 2024-07-31 02:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:39:22 --> User ID: 16
+INFO - 2024-07-31 02:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:42:10 --> User ID: 16
+INFO - 2024-07-31 02:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:42:24 --> User ID: 16
+INFO - 2024-07-31 02:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:42:33 --> User ID: 16
+INFO - 2024-07-31 02:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:42:46 --> User ID: 16
+INFO - 2024-07-31 02:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 02:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:56:43 --> User ID: 16
+INFO - 2024-07-31 02:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:56:49 --> User ID: 16
+INFO - 2024-07-31 02:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:56:52 --> User ID: 16
+INFO - 2024-07-31 02:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 02:56:54 --> User ID: 16
+INFO - 2024-07-31 03:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:30:41 --> User ID: 16
+INFO - 2024-07-31 03:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:34:28 --> User ID: 16
+INFO - 2024-07-31 03:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:34:37 --> User ID: 16
+INFO - 2024-07-31 03:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:34:51 --> User ID: 16
+INFO - 2024-07-31 03:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:35:08 --> User ID: 16
+INFO - 2024-07-31 03:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:35:10 --> User ID: 16
+INFO - 2024-07-31 03:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:35:39 --> User ID: 16
+INFO - 2024-07-31 03:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:37:13 --> User ID: 16
+INFO - 2024-07-31 03:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:37:36 --> User ID: 16
+INFO - 2024-07-31 03:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:37:42 --> User ID: 16
+INFO - 2024-07-31 03:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:37:53 --> User ID: 16
+INFO - 2024-07-31 03:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:37:57 --> User ID: 16
+INFO - 2024-07-31 03:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:38:02 --> User ID: 16
+INFO - 2024-07-31 03:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:38:04 --> User ID: 16
+INFO - 2024-07-31 03:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:51:21 --> User ID: 16
+INFO - 2024-07-31 03:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:51:26 --> User ID: 16
+INFO - 2024-07-31 03:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:51:42 --> User ID: 16
+INFO - 2024-07-31 03:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 03:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:53:43 --> User ID: 16
+CRITICAL - 2024-07-31 03:53:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/admin_template.php"
+[Method: GET, Route: admin/layanan]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/admin_template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/admin_template', [], true)
+ 3 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('admin/layanan/index', [], true)
+ 4 APPPATH\Controllers\Admin\LayananController.php(20): view('admin/layanan/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\LayananController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 03:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 03:54:37 --> User ID: 16
+INFO - 2024-07-31 04:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:02:45 --> User ID: 16
+INFO - 2024-07-31 04:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:03:03 --> User ID: 16
+INFO - 2024-07-31 04:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:03:11 --> User ID: 16
+INFO - 2024-07-31 04:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:03:19 --> User ID: 16
+INFO - 2024-07-31 04:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:04:30 --> User ID: 16
+INFO - 2024-07-31 04:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 04:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:04:38 --> User ID: 16
+INFO - 2024-07-31 04:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:04:45 --> User ID: 16
+INFO - 2024-07-31 04:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:04:45 --> User ID: 16
+INFO - 2024-07-31 04:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:05:08 --> User ID: 16
+INFO - 2024-07-31 04:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:05:26 --> User ID: 16
+INFO - 2024-07-31 04:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:05:26 --> User ID: 16
+INFO - 2024-07-31 04:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:05:32 --> User ID: 16
+INFO - 2024-07-31 04:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:05:43 --> User ID: 16
+INFO - 2024-07-31 04:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:05:47 --> User ID: 16
+INFO - 2024-07-31 04:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:08:03 --> User ID: 16
+INFO - 2024-07-31 04:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:42:55 --> User ID: 16
+CRITICAL - 2024-07-31 04:42:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/admin_template.php"
+[Method: GET, Route: admin/layanan/create]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/admin_template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/admin_template', [], true)
+ 3 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('admin/layanan/create', [], true)
+ 4 APPPATH\Controllers\Admin\LayananController.php(33): view('admin/layanan/create', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\LayananController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 04:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:42:58 --> User ID: 16
+CRITICAL - 2024-07-31 04:42:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/admin_template.php"
+[Method: GET, Route: admin/layanan]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/admin_template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/admin_template', [], true)
+ 3 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('admin/layanan/index', [], true)
+ 4 APPPATH\Controllers\Admin\LayananController.php(27): view('admin/layanan/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\LayananController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 04:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:44:03 --> User ID: 16
+INFO - 2024-07-31 04:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:44:16 --> User ID: 16
+INFO - 2024-07-31 04:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:44:59 --> User ID: 16
+INFO - 2024-07-31 04:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:45:39 --> User ID: 16
+INFO - 2024-07-31 04:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 04:46:53 --> User ID: 16
+INFO - 2024-07-31 05:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 05:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 05:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 05:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:00:49 --> User ID: 16
+INFO - 2024-07-31 05:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 05:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:00 --> User ID: 16
+INFO - 2024-07-31 05:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:04 --> User ID: 16
+INFO - 2024-07-31 05:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:41 --> User ID: 16
+INFO - 2024-07-31 05:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:44 --> User ID: 16
+INFO - 2024-07-31 05:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:48 --> User ID: 16
+INFO - 2024-07-31 05:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:52 --> User ID: 16
+INFO - 2024-07-31 05:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 05:01:57 --> User ID: 16
+INFO - 2024-07-31 06:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 06:06:36 --> User ID: 16
+INFO - 2024-07-31 06:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 06:13:07 --> User ID: 16
+INFO - 2024-07-31 07:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:29:44 --> User ID: 16
+INFO - 2024-07-31 07:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:29:46 --> User ID: 16
+INFO - 2024-07-31 07:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:29:49 --> User ID: 16
+INFO - 2024-07-31 07:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:30:03 --> User ID: 16
+INFO - 2024-07-31 07:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:30:07 --> User ID: 16
+INFO - 2024-07-31 07:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:30:10 --> User ID: 16
+INFO - 2024-07-31 07:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:30:14 --> User ID: 16
+INFO - 2024-07-31 07:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:30:26 --> User ID: 16
+INFO - 2024-07-31 07:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 07:30:31 --> User ID: 16
+ERROR - 2024-07-31 07:50:39 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+ERROR - 2024-07-31 07:54:05 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+ERROR - 2024-07-31 07:55:04 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+ERROR - 2024-07-31 07:57:13 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+ERROR - 2024-07-31 07:57:22 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+ERROR - 2024-07-31 07:57:39 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\BaseCommand.php(119): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Commands\Database\MigrateRefresh.php(87): CodeIgniter\CLI\BaseCommand->call('migrate', Array)
+#11 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\MigrateRefresh->run(Array)
+#12 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate:refresh', Array)
+#13 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#14 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#15 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#16 {main}
+ERROR - 2024-07-31 07:59:32 --> mysqli_sql_exception: Failed to open the referenced table 'layanan_kategori' in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `l...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `l...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `l...')
+#3 C:\laragon\www\SINERGHI\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `l...')
+#4 C:\laragon\www\SINERGHI\app\Database\Migrations\2024-07-31-074947_CreateLayananTable.php(48): CodeIgniter\Database\Forge->createTable('layanan')
+#5 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateLayananTable->up()
+#6 C:\laragon\www\SINERGHI\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\SINERGHI\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\SINERGHI\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\SINERGHI\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\SINERGHI\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\laragon\www\SINERGHI\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\laragon\www\SINERGHI\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+INFO - 2024-07-31 08:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:05:50 --> User ID: 16
+INFO - 2024-07-31 08:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:05:58 --> User ID: 16
+INFO - 2024-07-31 08:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:19 --> User ID: 16
+INFO - 2024-07-31 08:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:21 --> User ID: 16
+INFO - 2024-07-31 08:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:24 --> User ID: 16
+INFO - 2024-07-31 08:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:25 --> User ID: 16
+INFO - 2024-07-31 08:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:30 --> User ID: 16
+INFO - 2024-07-31 08:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:33 --> User ID: 16
+INFO - 2024-07-31 08:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:07:41 --> User ID: 16
+INFO - 2024-07-31 08:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:08:25 --> User ID: 16
+INFO - 2024-07-31 08:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:08:27 --> User ID: 16
+INFO - 2024-07-31 08:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:08:41 --> User ID: 16
+INFO - 2024-07-31 08:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:09:13 --> User ID: 16
+INFO - 2024-07-31 08:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:09:21 --> User ID: 16
+INFO - 2024-07-31 08:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:09:23 --> User ID: 16
+INFO - 2024-07-31 08:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:09:25 --> User ID: 16
+INFO - 2024-07-31 08:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:09:36 --> User ID: 16
+ERROR - 2024-07-31 08:09:37 --> mysqli_sql_exception: Column 'color' cannot be null in C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\SINERGHI\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `la...', 0)
+#1 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 C:\laragon\www\SINERGHI\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 C:\laragon\www\SINERGHI\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 C:\laragon\www\SINERGHI\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\SINERGHI\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\SINERGHI\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\SINERGHI\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\SINERGHI\app\Controllers\Admin\LayananController.php(43): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\SINERGHI\system\CodeIgniter.php(933): App\Controllers\Admin\LayananController->store()
+#10 C:\laragon\www\SINERGHI\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+#11 C:\laragon\www\SINERGHI\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\SINERGHI\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\SINERGHI\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\laragon\www\SINERGHI\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\laragon\www\SINERGHI\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2024-07-31 08:09:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'color' cannot be null
+[Method: POST, Route: admin/layanan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (:kategori_id:, :title:, :links:, :color:, :icon:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin\LayananController.php(43): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\LayananController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+CRITICAL - 2024-07-31 08:09:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'color' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (\'1\', \'Manaek\', \'\\"https:\\\\/\\\\/www.colorhunt.co\\\\/palettes\\\\/light\\"\', NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (\'1\', \'Manaek\', \'\\"https:\\\\/\\\\/www.colorhunt.co\\\\/palettes\\\\/light\\"\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (:kategori_id:, :title:, :links:, :color:, :icon:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Admin\LayananController.php(43): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\LayananController->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+CRITICAL - 2024-07-31 08:09:37 --> [Caused by] mysqli_sql_exception: Column 'color' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (\'1\', \'Manaek\', \'\\"https:\\\\/\\\\/www.colorhunt.co\\\\/palettes\\\\/light\\"\', NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (\'1\', \'Manaek\', \'\\"https:\\\\/\\\\/www.colorhunt.co\\\\/palettes\\\\/light\\"\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (\'1\', \'Manaek\', \'\\"https:\\\\/\\\\/www.colorhunt.co\\\\/palettes\\\\/light\\"\', NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `layanan` (`kategori_id`, `title`, `links`, `color`, `icon`) VALUES (:kategori_id:, :title:, :links:, :color:, :icon:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Admin\LayananController.php(43): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\LayananController->store()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\LayananController))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 08:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:09:43 --> User ID: 16
+INFO - 2024-07-31 08:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:10:36 --> User ID: 16
+INFO - 2024-07-31 08:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:11:49 --> User ID: 16
+INFO - 2024-07-31 08:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 08:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-31 08:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:07 --> User ID: 16
+INFO - 2024-07-31 08:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:11 --> User ID: 16
+INFO - 2024-07-31 08:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:24 --> User ID: 16
+INFO - 2024-07-31 08:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:26 --> User ID: 16
+INFO - 2024-07-31 08:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:49 --> User ID: 16
+INFO - 2024-07-31 08:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:55 --> User ID: 16
+INFO - 2024-07-31 08:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:32:56 --> User ID: 16
+INFO - 2024-07-31 08:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:33:05 --> User ID: 16
+CRITICAL - 2024-07-31 08:33:05 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: GET, Route: layanan]
+in APPPATH\Views\layanan\layanan.php on line 113.
+ 1 APPPATH\Views\layanan\layanan.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php', 113)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layanan/layanan', [], true)
+ 5 APPPATH\Controllers\LayananController.php(32): view('layanan/layanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LayananController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayananController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 08:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:35:31 --> User ID: 16
+INFO - 2024-07-31 08:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:35:35 --> User ID: 16
+INFO - 2024-07-31 08:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:38:47 --> User ID: 16
+INFO - 2024-07-31 08:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:01 --> User ID: 16
+INFO - 2024-07-31 08:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:02 --> User ID: 16
+INFO - 2024-07-31 08:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:06 --> User ID: 16
+INFO - 2024-07-31 08:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:15 --> User ID: 16
+INFO - 2024-07-31 08:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:19 --> User ID: 16
+INFO - 2024-07-31 08:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:19 --> User ID: 16
+INFO - 2024-07-31 08:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 08:39:23 --> User ID: 16
+INFO - 2024-07-31 09:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 09:45:49 --> User ID: 16
+CRITICAL - 2024-07-31 09:45:49 --> ErrorException: Undefined array key "kategori_name"
+[Method: GET, Route: layanan]
+in APPPATH\Views\layanan\layanan.php on line 85.
+ 1 APPPATH\Views\layanan\layanan.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori_name"', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php', 85)
+ 2 [internal function]: CodeIgniter\View\View->{closure}([...])
+ 3 APPPATH\Views\layanan\layanan.php(86): array_filter([...], Object(Closure))
+ 4 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php')
+ 5 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layanan/layanan', [], true)
+ 7 APPPATH\Controllers\LayananController.php(32): view('layanan/layanan', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LayananController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayananController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 09:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 09:45:50 --> User ID: 16
+INFO - 2024-07-31 09:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 09:55:36 --> User ID: 16
+INFO - 2024-07-31 09:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 09:55:43 --> User ID: 16
+CRITICAL - 2024-07-31 09:55:43 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: GET, Route: layanan]
+in APPPATH\Views\layanan\layanan.php on line 120.
+ 1 APPPATH\Views\layanan\layanan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php', 120)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layanan/layanan', [], true)
+ 5 APPPATH\Controllers\LayananController.php(33): view('layanan/layanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LayananController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayananController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 10:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:02:57 --> User ID: 16
+CRITICAL - 2024-07-31 10:02:57 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: GET, Route: layanan]
+in APPPATH\Views\layanan\layanan.php on line 120.
+ 1 APPPATH\Views\layanan\layanan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php', 120)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layanan/layanan', [], true)
+ 5 APPPATH\Controllers\LayananController.php(33): view('layanan/layanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LayananController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayananController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-07-31 10:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:02:59 --> User ID: 16
+INFO - 2024-07-31 10:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:03:29 --> User ID: 16
+INFO - 2024-07-31 10:22:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:22:44 --> User ID: 16
+INFO - 2024-07-31 10:22:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:22:44 --> User ID: 16
+INFO - 2024-07-31 10:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:22:56 --> User ID: 16
+INFO - 2024-07-31 10:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-31 10:22:59 --> User ID: 16
+CRITICAL - 2024-07-31 10:22:59 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: GET, Route: layanan]
+in APPPATH\Views\layanan\layanan.php on line 120.
+ 1 APPPATH\Views\layanan\layanan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php', 120)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\layanan\\layanan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layanan/layanan', [], true)
+ 5 APPPATH\Controllers\LayananController.php(33): view('layanan/layanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LayananController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayananController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')

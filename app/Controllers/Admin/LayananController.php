@@ -1,30 +1,134 @@
 <?php
 
-namespace App\Controllers;
+namespace App\Controllers\Admin;
 
-use App\Models\UserModel;
+use App\Controllers\BaseController;
+use App\Models\LayananModel;
+use App\Models\LayananKategoriModel;
 
 class LayananController extends BaseController
 {
+    protected $layananModel;
+    protected $kategoriModel;
+
+    public function __construct()
+    {
+        $this->layananModel = new LayananModel();
+        $this->kategoriModel = new LayananKategoriModel();
+    }
+
     public function index()
     {
-        $session = session();
-        if (!$session->get('logged_in')) {
-            return redirect()->to('/login');
-        }
-
-        // Ambil user_id dari session
-        $userId = $session->get('id');
-        if (!$userId) {
-            log_message('error', 'User ID not found in session.');
-            return redirect()->to('/login'); // Arahkan ke halaman login jika user_id tidak ditemukan
-        }
-
-        // Pass data username ke view
         $data = [
-            'username' => $this->userData['username']
+            'layanan' => $this->layananModel->select('layanan.*, layanan_kategori.name as kategori_name')
+                ->join('layanan_kategori', 'layanan.kategori_id = layanan_kategori.id')
+                ->findAll(),
+            'kategori' => $this->kategoriModel->findAll()
         ];
 
-        echo view('layanan/layanan', $data);
+        return view('admin/layanan/index', $data);
+    }
+
+    public function create()
+    {
+        $data['kategori'] = $this->kategoriModel->findAll();
+        return view('admin/layanan/create', $data);
+    }
+
+    public function store()
+    {
+        $links = [];
+        $names = $this->request->getPost('link_names');
+        $urls = $this->request->getPost('link_urls');
+
+        if ($names && $urls) {
+            foreach ($names as $key => $name) {
+                $links[] = ['name' => $name, 'url' => $urls[$key]];
+            }
+        }
+
+        $this->layananModel->save([
+            'kategori_id' => $this->request->getPost('kategori_id'),
+            'title' => $this->request->getPost('title'),
+            'links' => json_encode($links),
+            'color' => $this->request->getPost('color'),
+            'icon' => $this->request->getPost('icon')
+        ]);
+
+        return redirect()->to('/admin/layanan');
+    }
+
+    public function edit($id)
+    {
+        $data = [
+            'layanan' => $this->layananModel->find($id),
+            'kategori' => $this->kategoriModel->findAll()
+        ];
+
+        return view('admin/layanan/edit', $data);
+    }
+
+    public function update($id)
+    {
+        $links = [];
+        $names = $this->request->getPost('link_names');
+        $urls = $this->request->getPost('link_urls');
+
+        if ($names && $urls) {
+            foreach ($names as $key => $name) {
+                $links[] = ['name' => $name, 'url' => $urls[$key]];
+            }
+        }
+
+        $this->layananModel->update($id, [
+            'kategori_id' => $this->request->getPost('kategori_id'),
+            'title' => $this->request->getPost('title'),
+            'links' => json_encode($links),
+            'color' => $this->request->getPost('color'),
+            'icon' => $this->request->getPost('icon')
+        ]);
+
+        return redirect()->to('/admin/layanan');
+    }
+
+    public function delete($id)
+    {
+        $this->layananModel->delete($id);
+        return redirect()->to('/admin/layanan');
+    }
+
+    public function createKategori()
+    {
+        return view('admin/layanan/createKategori');
+    }
+
+    public function storeKategori()
+    {
+        $this->kategoriModel->save([
+            'name' => $this->request->getPost('name')
+        ]);
+
+        return redirect()->to('/admin/layanan/kategori');
+    }
+
+    public function editKategori($id)
+    {
+        $data['kategori'] = $this->kategoriModel->find($id);
+        return view('admin/layanan/editKategori', $data);
+    }
+
+    public function updateKategori($id)
+    {
+        $this->kategoriModel->update($id, [
+            'name' => $this->request->getPost('name')
+        ]);
+
+        return redirect()->to('/admin/layanan/kategori');
+    }
+
+    public function deleteKategori($id)
+    {
+        $this->kategoriModel->delete($id);
+        return redirect()->to('/admin/layanan/kategori');
     }
 }

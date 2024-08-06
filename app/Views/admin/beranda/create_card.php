@@ -1,4 +1,4 @@
-<form action="<?= site_url('admin/beranda/storeCard'); ?>" method="post" enctype="multipart/form-data" class="mb-4">
+<form action="<?= site_url('admin/beranda/storeCard'); ?>" method="post" enctype="multipart/form-data">
     <?= csrf_field(); ?>
     <div class="form-group">
         <label for="title">Title</label>
@@ -14,7 +14,7 @@
     </div>
     <div class="form-group">
         <label for="image">Image</label>
-        <input type="file" name="image" class="form-control" accept=".jpg,.png" required>
+        <input type="file" name="image" class="form-control" required>
     </div>
     <button type="submit" class="btn btn-primary">Add Card</button>
 </form>
