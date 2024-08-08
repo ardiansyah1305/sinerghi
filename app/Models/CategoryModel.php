@@ -8,6 +8,5 @@ class CategoryModel extends Model
 {
     protected $table = 'categories';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['judul'];
-    public $timestamps = false;
-}
+    protected $allowedFields = ['judul', 'created_at', 'updated_at'];
+}   

@@ -15,7 +15,13 @@ $routes->get('/logout', 'AuthController::logout');
 $routes->get('/dashboard', 'DashboardController::index', ['filter' => 'auth']);
 $routes->get('/dashboard/detail_pengumuman/(:num)', 'DashboardController::detail_pengumuman/$1');
 $routes->get('/layanan', 'LayananController::index');
+
+//referensi/pustaka
 $routes->get('/referensi', 'ReferensiController::index');
+$routes->get('referensi/viewFile/(:segment)', 'ReferensiController::viewFile/$1');
+$routes->get('referensi/downloadFile/(:segment)', 'ReferensiController::downloadFile/$1');
+
+
 
 //organisasi
 $routes->get('/organisasi', 'OrganisasiController::index');
@@ -28,6 +34,8 @@ $routes->get('/deputi_lima', 'OrganisasiController::deputi_lima');
 $routes->get('/deputi_enam', 'OrganisasiController::deputi_enam');
 
 $routes->group('admin', ['filter' => 'admin'], function ($routes) {
+
+    //Referensi
     $routes->get('dashboard', 'Admin\DashboardController::index');
     $routes->get('referensi/', 'Admin\ReferensiController::index');
     $routes->get('referensi/create', 'Admin\ReferensiController::create');
@@ -35,7 +43,15 @@ $routes->group('admin', ['filter' => 'admin'], function ($routes) {
     $routes->get('referensi/edit/(:segment)', 'Admin\ReferensiController::edit/$1');
     $routes->post('referensi/update/(:segment)', 'Admin\ReferensiController::update/$1');
     $routes->get('referensi/delete/(:segment)', 'Admin\ReferensiController::delete/$1');
-    $routes->post('referensi/addCategory', 'Admin\ReferensiController::addCategory');
+    $routes->get('referensi/viewFile/(:segment)', 'Admin\ReferensiController::viewFile/$1');
+    
+
+    // Referensi Category
+    $routes->post('referensi/storeCategory', 'Admin\ReferensiController::storeCategory');
+    $routes->get('referensi/editCategory/(:segment)', 'Admin\ReferensiController::editCategory/$1');
+    $routes->post('referensi/updateCategory/(:segment)', 'Admin\ReferensiController::updateCategory/$1');
+    $routes->get('referensi/deleteCategory/(:segment)', 'Admin\ReferensiController::deleteCategory/$1');
+
 
     // Routes for User Management
     $routes->get('users', 'Admin\UserController::index');
@@ -77,6 +93,13 @@ $routes->group('admin', ['filter' => 'admin'], function ($routes) {
     $routes->get('layanan/editKategori/(:num)', 'Admin\LayananController::editKategori/$1');
     $routes->post('layanan/updateKategori/(:num)', 'Admin\LayananController::updateKategori/$1');
     $routes->post('layanan/deleteKategori/(:num)', 'Admin\LayananController::deleteKategori/$1');
+
+    //edit beranda
+    $routes->post('beranda/updateSlider/(:segment)', 'Admin\BerandaController::updateSlider/$1');
+    $routes->post('beranda/updatePopup/(:segment)', 'Admin\BerandaController::updatePopup/$1');
+    $routes->post('beranda/updateCard/(:segment)', 'Admin\BerandaController::updateCard/$1');
+    $routes->post('beranda/updateCalendar/(:segment)', 'Admin\BerandaController::updateCalendar/$1');
+
 
        
     

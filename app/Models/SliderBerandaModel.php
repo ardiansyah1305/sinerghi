@@ -8,6 +8,6 @@ class SliderBerandaModel extends Model
 {
     protected $table = 'sliders';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['image', 'title', 'description'];
+    protected $allowedFields = ['image'];
     protected $useTimestamps = true;
 }

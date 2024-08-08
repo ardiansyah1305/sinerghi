@@ -13,32 +13,19 @@
     margin-bottom: 40px;
     padding: 20px;
     border-radius: 10px;
+    background-color: #f8f9fa; /* Warna latar belakang netral */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Slider Section */
-.slider-section {
-    background-color: #E8F0FE; /* Warna latar belakang untuk slider */
-}
-
-/* Popup Section */
-.popup-section {
-    background-color: #FFF3CD; /* Warna latar belakang untuk popup */
-}
-
-/* Card Section */
-.card-section {
-    background-color: #D1E7DD; /* Warna latar belakang untuk card */
-}
-
-/* Calendar Section */
-.calendar-section {
-    background-color: #F8D7DA; /* Warna latar belakang untuk kalender */
-}
-
-h2, h3 {
+.slider-section h3,
+.popup-section h3,
+.card-section h3,
+.calendar-section h3 {
     color: #343a40;
     margin-bottom: 20px;
+    border-bottom: 2px solid #e3e3e3; /* Garis bawah untuk judul section */
+    padding-bottom: 10px;
 }
 
 .form-wrapper {
@@ -56,7 +43,7 @@ h2, h3 {
 }
 
 .table thead th {
-    background-color: #007bff;
+    background-color: #343a40;
     color: #fff;
     border: none;
 }
@@ -81,6 +68,19 @@ h2, h3 {
     border-radius: 5px;
 }
 
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    color: #fff;
+}
+
 .btn-danger {
     background-color: #dc3545;
     border-color: #dc3545;
@@ -93,23 +93,10 @@ h2, h3 {
     border-color: #bd2130;
     color: #fff;
 }
-
-.btn-info {
-    background-color: #17a2b8;
-    border-color: #17a2b8;
-    color: #fff;
-    transition: background-color 0.3s ease, border-color 0.3s ease;
-}
-
-.btn-info:hover {
-    background-color: #138496;
-    border-color: #117a8b;
-    color: #fff;
-}
 </style>
 
 <div class="container mt-4">
-    <h2>Manage Beranda</h2>
+    <h2 class="text-center mb-4">Manage Beranda</h2>
 
     <!-- Slider Section -->
     <div class="section-wrapper slider-section">
@@ -121,10 +108,8 @@ h2, h3 {
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th>ID</th>
+                        <th>No</th>
                         <th>Image</th>
-                        <th>Title</th>
-                        <th>Description</th>
                         <th>Actions</th>
                     </tr>
                 </thead>
@@ -133,12 +118,37 @@ h2, h3 {
                     <tr>
                         <td><?= $slider['id']; ?></td>
                         <td><img src="<?= base_url('img/' . $slider['image']); ?>" alt="Slider Image" width="100"></td>
-                        <td><?= $slider['title']; ?></td>
-                        <td><?= $slider['description']; ?></td>
                         <td>
+                            <button class="btn btn-primary" data-toggle="modal" data-target="#editSliderModal<?= $slider['id']; ?>">Edit</button>
                             <a href="<?= site_url('admin/beranda/deleteSlider/' . $slider['id']); ?>" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this slider?');">Delete</a>
                         </td>
                     </tr>
+                    <!-- Edit Slider Modal -->
+                    <div class="modal fade" id="editSliderModal<?= $slider['id']; ?>" tabindex="-1" role="dialog" aria-labelledby="editSliderModalLabel<?= $slider['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="editSliderModalLabel<?= $slider['id']; ?>">Edit Slider</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <form action="<?= site_url('admin/beranda/updateSlider/' . $slider['id']); ?>" method="post" enctype="multipart/form-data">
+                                    <div class="modal-body">
+                                        <div class="form-group">
+                                            <label for="image">Image</label>
+                                            <input type="file" class="form-control" id="image" name="image">
+                                            <img src="<?= base_url('img/' . $slider['image']); ?>" alt="Current Image" style="max-width: 100px;">
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
                     <?php endforeach; ?>
                 </tbody>
             </table>
@@ -155,7 +165,7 @@ h2, h3 {
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th>ID</th>
+                        <th>No</th>
                         <th>Image</th>
                         <th>Actions</th>
                     </tr>
@@ -166,9 +176,36 @@ h2, h3 {
                         <td><?= $popup['id']; ?></td>
                         <td><img src="<?= base_url('img/' . $popup['image']); ?>" alt="Popup Image" width="100"></td>
                         <td>
+                            <button class="btn btn-primary" data-toggle="modal" data-target="#editPopupModal<?= $popup['id']; ?>">Edit</button>
                             <a href="<?= site_url('admin/beranda/deletePopup/' . $popup['id']); ?>" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this popup?');">Delete</a>
                         </td>
                     </tr>
+                    <!-- Edit Popup Modal -->
+                    <div class="modal fade" id="editPopupModal<?= $popup['id']; ?>" tabindex="-1" role="dialog" aria-labelledby="editPopupModalLabel<?= $popup['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="editPopupModalLabel<?= $popup['id']; ?>">Edit Popup</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <form action="<?= site_url('admin/beranda/updatePopup/' . $popup['id']); ?>" method="post" enctype="multipart/form-data">
+                                    <div class="modal-body">
+                                        <div class="form-group">
+                                            <label for="image">Image</label>
+                                            <input type="file" class="form-control" id="image" name="image">
+                                            <img src="<?= base_url('img/' . $popup['image']); ?>" alt="Current Image" style="max-width: 100px;">
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
                     <?php endforeach; ?>
                 </tbody>
             </table>
@@ -185,9 +222,9 @@ h2, h3 {
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th>ID</th>
+                        <th>No</th>
                         <th>Title</th>
-                        <th>Description</th>
+                        <th>Short Description</th>
                         <th>Image</th>
                         <th>Actions</th>
                     </tr>
@@ -200,10 +237,48 @@ h2, h3 {
                         <td><?= $card['short_description']; ?></td>
                         <td><img src="<?= base_url('img/' . $card['image']); ?>" alt="Card Image" width="100"></td>
                         <td>
-                            <a href="<?= site_url('admin/beranda/detail_pengumuman/' . $card['id']); ?>" class="btn btn-info">View</a>
+                            <button class="btn btn-primary" data-toggle="modal" data-target="#editCardModal<?= $card['id']; ?>">Edit</button>
                             <a href="<?= site_url('admin/beranda/deleteCard/' . $card['id']); ?>" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this card?');">Delete</a>
                         </td>
                     </tr>
+                    <!-- Edit Card Modal -->
+                    <div class="modal fade" id="editCardModal<?= $card['id']; ?>" tabindex="-1" role="dialog" aria-labelledby="editCardModalLabel<?= $card['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="editCardModalLabel<?= $card['id']; ?>">Edit Card</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <form action="<?= site_url('admin/beranda/updateCard/' . $card['id']); ?>" method="post" enctype="multipart/form-data">
+                                    <div class="modal-body">
+                                        <div class="form-group">
+                                            <label for="title">Title</label>
+                                            <input type="text" class="form-control" id="title" name="title" value="<?= $card['title']; ?>" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="short_description">Short Description</label>
+                                            <textarea class="form-control" id="short_description" name="short_description" required><?= $card['short_description']; ?></textarea>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="description">Description</label>
+                                            <textarea class="form-control" id="description" name="description" required><?= $card['description']; ?></textarea>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="image">Image</label>
+                                            <input type="file" class="form-control" id="image" name="image">
+                                            <img src="<?= base_url('img/' . $card['image']); ?>" alt="Current Image" style="max-width: 100px;">
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
                     <?php endforeach; ?>
                 </tbody>
             </table>
@@ -220,7 +295,7 @@ h2, h3 {
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th>ID</th>
+                        <th>No</th>
                         <th>Title</th>
                         <th>Description</th>
                         <th>Start Date</th>
@@ -237,13 +312,52 @@ h2, h3 {
                         <td><?= $calender['start']; ?></td>
                         <td><?= $calender['end']; ?></td>
                         <td>
-                            <a href="<?= site_url('admin/beranda/calender/deleteKalender/' . $calender['id']); ?>" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this event?');">Delete</a>
+                            <button class="btn btn-primary" data-toggle="modal" data-target="#editCalendarModal<?= $calender['id']; ?>">Edit</button>
+                            <a href="<?= site_url('admin/beranda/deleteKalender/' . $calender['id']); ?>" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this event?');">Delete</a>
                         </td>
                     </tr>
+                    <!-- Edit Calendar Modal -->
+                    <div class="modal fade" id="editCalendarModal<?= $calender['id']; ?>" tabindex="-1" role="dialog" aria-labelledby="editCalendarModalLabel<?= $calender['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="editCalendarModalLabel<?= $calender['id']; ?>">Edit Event</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <form action="<?= site_url('admin/beranda/updateCalendar/' . $calender['id']); ?>" method="post">
+                                    <div class="modal-body">
+                                        <div class="form-group">
+                                            <label for="title">Title</label>
+                                            <input type="text" class="form-control" id="title" name="title" value="<?= $calender['title']; ?>" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="description">Description</label>
+                                            <textarea class="form-control" id="description" name="description" required><?= $calender['description']; ?></textarea>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="start">Start Date</label>
+                                            <input type="date" class="form-control" id="start" name="start" value="<?= $calender['start']; ?>" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="end">End Date</label>
+                                            <input type="date" class="form-control" id="end" name="end" value="<?= $calender['end']; ?>" required>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
                     <?php endforeach; ?>
                 </tbody>
             </table>
         </div>
     </div>
 </div>
+
 <?= $this->endSection(); ?>

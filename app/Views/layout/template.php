@@ -16,8 +16,11 @@
 
     <!-- Custom Scrollbar CSS -->
     <link rel="stylesheet" href="<?= base_url('css/jquery.mCustomScrollbar.min.css'); ?>">
+
+    <!-- Menambahkan FullCalendar CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css">
 </head>
-<body class="main-layout">
+<body>
     <?= $this->include('layout/navbar'); ?>
     <div class="container mt-4">
         <?= $this->renderSection('content'); ?>
@@ -36,5 +39,11 @@
     <!-- Custom JS files -->
     <script src="<?= base_url('js/custom.js'); ?>"></script>
     <script src="<?= base_url('js/popup.js'); ?>"></script>
+
+    <!-- Menambahkan FullCalendar JS -->
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js"></script>
+
+    <!-- Menambahkan SweetAlert -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>

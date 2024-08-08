@@ -1,6 +1,14 @@
-<IfModule authz_core_module>
-	Require all denied
-</IfModule>
-<IfModule !authz_core_module>
-	Deny from all
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Allow access to pdf files in uploads/pdf folder
+    RewriteRule ^uploads/pdf/ - [L]
+
+    # If the requested file or directory exists, let it through
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Otherwise, forward it to index.php
+    RewriteRule ^ index.php [L]
 </IfModule>

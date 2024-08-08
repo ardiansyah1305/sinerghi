@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Controllers\Admin;
 
 use App\Models\ContentModel;
@@ -10,19 +9,6 @@ class ReferensiController extends Controller
 {
     public function index()
     {
-        // Pastikan pengguna sudah login
-        $session = session();
-        if (!$session->get('logged_in')) {
-            return redirect()->to('/login');
-        }
-
-        // Ambil user_id dari session
-        $userId = $session->get('id');
-        if (!$userId) {
-            log_message('error', 'User ID not found in session.');
-            return redirect()->to('/login'); // Arahkan ke halaman login jika user_id tidak ditemukan
-        }
-
         $contentModel = new ContentModel();
         $categoryModel = new CategoryModel();
         $contents = $contentModel->findAll();
@@ -40,12 +26,15 @@ class ReferensiController extends Controller
         return view('admin/referensi/referensi', $data);
     }
 
+    // CRUD Content
+
     public function create()
-    {
+{
         $categoryModel = new CategoryModel();
         $data['categories'] = $categoryModel->findAll();
         return view('admin/referensi/create', $data);
     }
+
 
     public function store()
     {
@@ -107,7 +96,8 @@ class ReferensiController extends Controller
         return redirect()->to('/admin/referensi');
     }
 
-    public function addCategory()
+    // CRUD Category
+    public function storeCategory()
     {
         $categoryModel = new CategoryModel();
         $data = [
@@ -115,5 +105,41 @@ class ReferensiController extends Controller
         ];
         $categoryModel->save($data);
         return redirect()->to('/admin/referensi');
+    }
+
+    public function editCategory($id)
+    {
+        $categoryModel = new CategoryModel();
+        $data['category'] = $categoryModel->find($id);
+        return view('admin/referensi/edit_category', $data);
+    }
+
+    public function updateCategory($id)
+    {
+        $categoryModel = new CategoryModel();
+        $data = [
+            'judul' => $this->request->getPost('judul')
+        ];
+        $categoryModel->update($id, $data);
+        return redirect()->to('/admin/referensi');
+    }
+
+    public function deleteCategory($id)
+    {
+        $categoryModel = new CategoryModel();
+        $categoryModel->delete($id);
+        return redirect()->to('/admin/referensi');
+    }
+
+    public function viewFile($filename)
+    {
+        $filePath = WRITEPATH . 'uploads/pdf/' . $filename;
+        if (file_exists($filePath)) {
+            return $this->response->setHeader('Content-Type', 'application/pdf')
+                                  ->setHeader('Content-Disposition', 'inline; filename="' . $filename . '"')
+                                  ->setBody(file_get_contents($filePath));
+        } else {
+            throw new \CodeIgniter\Exceptions\PageNotFoundException("File $filename not found");
+        }
     }
 }

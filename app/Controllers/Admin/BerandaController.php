@@ -37,12 +37,44 @@ class BerandaController extends Controller
             $file->move(FCPATH . 'img', $newName); // Simpan di folder public/uploads
             $data = [
                 'image' => $newName,
-                'title' => $this->request->getPost('title'),
-                'description' => $this->request->getPost('description'),
+                
             ];
             $sliderModel->save($data);
         }
         return redirect()->to('/admin/beranda');
+    }
+
+    // Edit Slider
+    public function editSlider($id)
+    {
+    $sliderModel = new SliderBerandaModel();
+    $data['slider'] = $sliderModel->find($id);
+
+    if (!$data['slider']) {
+        throw new \CodeIgniter\Exceptions\PageNotFoundException('Slider with ID ' . $id . ' not found.');
+    }
+
+    return view('admin/beranda/edit_slider', $data);
+    }
+
+    // Update Slider
+    public function updateSlider($id)
+    {
+    $sliderModel = new SliderBerandaModel();
+    $slider = $sliderModel->find($id);
+
+    if ($slider) {
+        $file = $this->request->getFile('image');
+        if ($file && $file->isValid() && !$file->hasMoved()) {
+            $newName = $file->getRandomName();
+            $file->move(FCPATH . 'img', $newName);
+            @unlink(FCPATH . 'img/' . $slider['image']);
+            $slider['image'] = $newName;
+        }
+        $sliderModel->update($id, $slider);
+    }
+
+    return redirect()->to('/admin/beranda');
     }
 
     public function deleteSlider($id)
@@ -69,6 +101,40 @@ class BerandaController extends Controller
         }
         return redirect()->to('/admin/beranda');
     }
+
+    // Edit Popup
+    public function editPopup($id)
+    {
+    $popupModel = new PopupBerandaModel();
+    $data['popup'] = $popupModel->find($id);
+
+    if (!$data['popup']) {
+        throw new \CodeIgniter\Exceptions\PageNotFoundException('Popup with ID ' . $id . ' not found.');
+    }
+
+    return view('admin/beranda/edit_popup', $data);
+    }
+
+    // Update Popup
+    public function updatePopup($id)
+    {
+    $popupModel = new PopupBerandaModel();
+    $popup = $popupModel->find($id);
+
+    if ($popup) {
+        $file = $this->request->getFile('image');
+        if ($file && $file->isValid() && !$file->hasMoved()) {
+            $newName = $file->getRandomName();
+            $file->move(FCPATH . 'img', $newName);
+            @unlink(FCPATH . 'img/' . $popup['image']);
+            $popup['image'] = $newName;
+        }
+        $popupModel->update($id, $popup);
+    }
+
+    return redirect()->to('/admin/beranda');
+    }
+
 
     public function deletePopup($id)
     {
@@ -100,6 +166,41 @@ class BerandaController extends Controller
 
         return redirect()->to('/admin/beranda');
     }
+    // Edit Card
+    public function editCard($id)
+    {
+    $cardModel = new CardBerandaModel();
+    $data['card'] = $cardModel->find($id);
+
+    if (!$data['card']) {
+        throw new \CodeIgniter\Exceptions\PageNotFoundException('Card with ID ' . $id . ' not found.');
+    }
+
+    return view('admin/beranda/edit_card', $data);
+    }
+
+    // Update Card
+    public function updateCard($id)
+    {
+    $cardModel = new CardBerandaModel();
+    $card = $cardModel->find($id);
+
+    if ($card) {
+        $file = $this->request->getFile('image');
+        if ($file && $file->isValid() && !$file->hasMoved()) {
+            $newName = $file->getRandomName();
+            $file->move(FCPATH . 'img', $newName);
+            @unlink(FCPATH . 'img/' . $card['image']);
+            $card['image'] = $newName;
+        }
+        $card['title'] = $this->request->getPost('title');
+        $card['short_description'] = $this->request->getPost('short_description');
+        $card['description'] = $this->request->getPost('description');
+        $cardModel->update($id, $card);
+    }
+
+    return redirect()->to('/admin/beranda');
+    }      
 
     public function deleteCard($id)
     {
