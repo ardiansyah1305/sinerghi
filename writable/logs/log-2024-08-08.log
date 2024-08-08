@@ -263,3 +263,72 @@ INFO - 2024-08-08 06:07:12 --> Session: Class initialized using 'CodeIgniter\Ses
 DEBUG - 2024-08-08 06:07:12 --> User ID: 16
 INFO - 2024-08-08 06:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2024-08-08 06:07:52 --> User ID: 16
+INFO - 2024-08-08 06:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:09:09 --> User ID: 16
+INFO - 2024-08-08 06:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:09:41 --> User ID: 16
+INFO - 2024-08-08 06:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:17:13 --> User ID: 16
+INFO - 2024-08-08 06:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:23:35 --> User ID: 16
+INFO - 2024-08-08 06:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-08 06:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:30:34 --> User ID: 16
+INFO - 2024-08-08 06:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:31:18 --> User ID: 16
+CRITICAL - 2024-08-08 06:31:18 --> ErrorException: Undefined variable $categories
+[Method: GET, Route: dashboard]
+in APPPATH\Views\dashboard\dashboard.php on line 20.
+ 1 APPPATH\Views\dashboard\dashboard.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\dashboard\\dashboard.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\dashboard\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard/dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(38): view('dashboard/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-08-08 06:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:31:33 --> User ID: 16
+INFO - 2024-08-08 06:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:31:33 --> User ID: 16
+INFO - 2024-08-08 06:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:31:38 --> User ID: 16
+CRITICAL - 2024-08-08 06:31:38 --> ErrorException: Undefined variable $categories
+[Method: GET, Route: dashboard]
+in APPPATH\Views\dashboard\dashboard.php on line 20.
+ 1 APPPATH\Views\dashboard\dashboard.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\laragon\\www\\SINERGHI\\app\\Views\\dashboard\\dashboard.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\SINERGHI\\app\\Views\\dashboard\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard/dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(38): view('dashboard/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\SINERGHI\\public\\index.php')
+INFO - 2024-08-08 06:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:32:24 --> User ID: 16
+INFO - 2024-08-08 06:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:32:29 --> User ID: 16
+INFO - 2024-08-08 06:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:32:36 --> User ID: 16
+INFO - 2024-08-08 06:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:33:17 --> User ID: 16
+INFO - 2024-08-08 06:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:33:32 --> User ID: 16
+INFO - 2024-08-08 06:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:33:49 --> User ID: 16
+INFO - 2024-08-08 06:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:34:06 --> User ID: 16
+INFO - 2024-08-08 06:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:34:18 --> User ID: 16
+INFO - 2024-08-08 06:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:39:54 --> User ID: 16
+INFO - 2024-08-08 06:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-08-08 06:39:59 --> User ID: 16
