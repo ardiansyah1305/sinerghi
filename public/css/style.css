@@ -1,4 +1,3 @@
-
 @import url(animate.min.css);
 @import url(normalize.css);
 @import url(icomoon.css);
@@ -12,8 +11,8 @@
 @import url(nice-select.css);
 
 
-/* popup pada dashboard */ */
-body {
+/* popup pada dashboard */
+*/ body {
     font-family: Arial, sans-serif;
     overflow-x: hidden;
 }
@@ -27,7 +26,8 @@ body {
     background: rgba(0, 0, 0, 0.5);
     display: none;
     z-index: 999;
-    backdrop-filter: blur(5px); /* Add blur effect */
+    backdrop-filter: blur(5px);
+    /* Add blur effect */
 }
 
 .popup {
@@ -38,7 +38,7 @@ body {
     background: transparent;
     padding: 0;
     border-radius: 10px;
-    
+
     max-width: 90%;
     width: 600px;
     display: none;
@@ -74,8 +74,10 @@ body {
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    position: relative; /* Change from absolute to relative */
-    bottom: -20px; /* Adjust as needed */
+    position: relative;
+    /* Change from absolute to relative */
+    bottom: -20px;
+    /* Adjust as needed */
     left: 50%;
     transform: translateX(-50%);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -100,7 +102,8 @@ body {
 
 /** Css Referensi **/
 /* Styles for the main container */
-body, html {
+body,
+html {
     width: 100%;
     height: 100%;
     margin: 0;
@@ -132,17 +135,21 @@ body, html {
 .list-group-item {
     cursor: pointer;
     transition: color 0.2s;
-    color: #000; /* Default color */
-    border: none; /* Remove border */
+    color: #000;
+    /* Default color */
+    border: none;
+    /* Remove border */
 }
 
 .list-group-item:hover {
-    color: #999999; /* Warna teks abu-abu tipis saat dihover */
+    color: #999999;
+    /* Warna teks abu-abu tipis saat dihover */
 }
 
 .list-group-item.active {
     color: #000000;
-    background-color: transparent !important; /* Menghilangkan background biru */
+    background-color: transparent !important;
+    /* Menghilangkan background biru */
 }
 
 .referensi-content {
@@ -186,8 +193,9 @@ body, html {
     font-size: 1.25rem;
 }
 
-.list-group-item + .list-group-item {
-    border-top: 1px solid #ddd; /* Set border color to a light grey */
+.list-group-item+.list-group-item {
+    border-top: 1px solid #ddd;
+    /* Set border color to a light grey */
 }
 
 /* Ensure full width background on mobile */
@@ -196,6 +204,7 @@ body, html {
         padding-left: 0;
         padding-right: 0;
     }
+
     .referensi-content {
         padding-left: 0;
         padding-right: 0;
@@ -244,11 +253,12 @@ body, html {
 
 
 /* Custom styles for dashboard page */
-body, html {
+body,
+html {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-color: #146C94;
+    background-color: #F2F6FF;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -306,11 +316,15 @@ body, html {
 .announcement_section .card-title {
     font-size: 16px;
     font-weight: bold;
-    color: black; /* Warna teks card title diubah menjadi hitam */
-    text-align: center; /* Menyelaraskan teks di tengah */
-   
-    margin-top: 50px; /* Turunkan judul */
+    color: black;
+    /* Warna teks card title diubah menjadi hitam */
+    text-align: center;
+    /* Menyelaraskan teks di tengah */
+
+    margin-top: 50px;
+    /* Turunkan judul */
 }
+
 .announcement_section .card-body {
     padding: 10px;
     background: rgba(255, 255, 255, 0.9);
@@ -318,12 +332,16 @@ body, html {
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 50%; /* Atur tinggi body card agar konten berada di tengah */
+    height: 50%;
+    /* Atur tinggi body card agar konten berada di tengah */
     display: flex;
-    flex-direction: column; /* Menyusun elemen secara vertikal */
-    justify-content: center; /* Pusatkan konten secara vertikal */
+    flex-direction: column;
+    /* Menyusun elemen secara vertikal */
+    justify-content: center;
+    /* Pusatkan konten secara vertikal */
     align-items: center;
-    text-align: center; /* Menyelaraskan teks di tengah */
+    text-align: center;
+    /* Menyelaraskan teks di tengah */
     transform: translateY(100%);
     transition: transform 0.5s ease-in-out;
 }
@@ -345,22 +363,31 @@ body, html {
 }
 
 .announcement_section .card-body h5 {
-    font-size: 16px; /* Ukuran font */
+    font-size: 16px;
+    /* Ukuran font */
     font-weight: bold;
     margin-bottom: 5px;
-    color: black; /* Warna teks hitam */
-    text-align: center; /* Rata tengah */
+    color: black;
+    /* Warna teks hitam */
+    text-align: center;
+    /* Rata tengah */
 }
+
 .announcement_section .card-body p {
-    font-size: 14px; /* Ukuran font */
+    font-size: 14px;
+    /* Ukuran font */
     margin-bottom: 5px;
-    text-align: center; /* Rata tengah */
+    text-align: center;
+    /* Rata tengah */
 }
+
 .announcement_section .read-more {
     display: inline-block;
-    background-color: #19A7CE; /* Warna tombol read more */
+    background-color: #19A7CE;
+    /* Warna tombol read more */
     color: white;
-    font-size: 14px; /* Ukuran font */
+    font-size: 14px;
+    /* Ukuran font */
     font-weight: bold;
     text-transform: uppercase;
     padding: 5px 10px;
@@ -412,7 +439,7 @@ body, html {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: #146C94;
+    background-color: #F2F6FF;
     border-radius: 8px;
     color: white;
 }
@@ -445,11 +472,11 @@ body, html {
 }
 
 .fc .fc-event {
-    background-color: #146C94;
+    background-color: #F2F6FF;
     color: #fff;
     border: none;
     padding: 5px;
-    
+
     font-size: 12px;
 }
 
@@ -458,7 +485,8 @@ body, html {
     background-color: #f8f9fa;
 }
 
-.fc-theme-standard td, .fc-theme-standard th {
+.fc-theme-standard td,
+.fc-theme-standard th {
     border: 1px solid #ddd;
 }
 
@@ -551,7 +579,8 @@ body, html {
 
 
 .navbar-nav .nav-link {
-    font-size: 18px; /* Membesarkan teks */
+    font-size: 18px;
+    /* Membesarkan teks */
     transition: color 0.2s ease-in-out;
     position: relative;
     margin-left: 15px;
@@ -566,27 +595,32 @@ body, html {
     display: block;
     margin-top: 5px;
     right: 0;
-    background: #EBE645; /* Warna garis bawah link navbar */
+    background: #EBE645;
+    /* Warna garis bawah link navbar */
     transition: width 0.2s ease, background-color 0.2s ease;
 }
 
 .navbar-nav .nav-link:hover::after {
     width: 100%;
     left: 0;
-    background: #EBE645; /* Warna garis bawah link navbar saat hover */
+    background: #EBE645;
+    /* Warna garis bawah link navbar saat hover */
 }
 
 .navbar-nav .nav-link:hover {
-    color: #EBE645; /* Warna teks link navbar saat hover */
+    color: #EBE645;
+    /* Warna teks link navbar saat hover */
     background: none;
 }
 
 .navbar-text {
-    font-size: 18px; /* Membesarkan teks */
+    font-size: 18px;
+    /* Membesarkan teks */
 }
 
 .btn-danger {
-    font-size: 18px; /* Membesarkan teks tombol */
+    font-size: 18px;
+    /* Membesarkan teks tombol */
 }
 
 @media (max-width: 991.98px) {
@@ -594,4 +628,3 @@ body, html {
         display: block !important;
     }
 }
-
