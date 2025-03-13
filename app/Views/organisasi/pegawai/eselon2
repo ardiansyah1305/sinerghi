@@ -1,0 +1,16 @@
+<div class="row">
+    <div class="col">
+        <h3>Daftar Pegawai Eselon 2 di Unit Kerja: <?= esc($unitKerja['nama_unit_kerja']) ?></h3>
+        <?php foreach ($pegawaiEselon2 as $pegawai): ?>
+            <div class="card mb-3" style="width: 18rem;">
+                <img src="<?= base_url('img/' . esc($pegawai['foto'])) ?>" class="card-img-top" alt="Foto Pegawai">
+                <div class="card-body">
+                    <h5 class="card-title"><?= esc($pegawai['nama']) ?></h5>
+                    <p class="card-text"><?= esc($pegawai['nama_jabatan']) ?> - <?= esc($pegawai['nama_unit_kerja']) ?></p>
+                    <p class="card-text"><?= esc($pegawai['gelar_depan']) ?> <?= esc($pegawai['gelar_belakang']) ?></p>
+                    <a href="<?= base_url('organisasi/pegawai/' . urlencode(esc($pegawai['nama']))) ?>" class="btn btn-primary">Lihat Detail</a>
+                </div>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</div>

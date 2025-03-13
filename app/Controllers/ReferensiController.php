@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 use App\Models\ContentModel;
 use App\Models\CategoryModel;
+use App\Models\RoleModel;
 
 class ReferensiController extends BaseController
 {
@@ -11,9 +12,11 @@ class ReferensiController extends BaseController
     {
         $contentModel = new ContentModel();
         $categoryModel = new CategoryModel();
+        $roleModel = new RoleModel();
 
         $contents = $contentModel->findAll();
         $categories = $categoryModel->findAll();
+        $role = $roleModel->findAll();
 
         $groupedContents = [];
         foreach ($contents as $content) {
@@ -25,7 +28,8 @@ class ReferensiController extends BaseController
 
         $data = [
             'categories' => $categories,
-            'groupedContents' => $groupedContents
+            'groupedContents' => $groupedContents,
+            'role' => $role
         ];
 
         return view('referensi/referensi', $data);

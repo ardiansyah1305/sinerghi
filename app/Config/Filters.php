@@ -2,49 +2,88 @@
 
 namespace Config;
 
-use CodeIgniter\Config\Filters as BaseFilters;
-use CodeIgniter\Filters\Cors;
+use CodeIgniter\Config\BaseConfig;
 use CodeIgniter\Filters\CSRF;
 use CodeIgniter\Filters\DebugToolbar;
-use CodeIgniter\Filters\ForceHTTPS;
 use CodeIgniter\Filters\Honeypot;
 use CodeIgniter\Filters\InvalidChars;
-use CodeIgniter\Filters\PageCache;
-use CodeIgniter\Filters\PerformanceMetrics;
 use CodeIgniter\Filters\SecureHeaders;
+use App\Filters\Auth;
+use App\Filters\CsrfDisableFilter;
 
-class Filters extends BaseFilters
+class Filters extends BaseConfig
 {
+    /**
+     * Configures aliases for Filter classes to
+     * make reading things nicer and simpler.
+     */
     public array $aliases = [
         'csrf'          => CSRF::class,
         'toolbar'       => DebugToolbar::class,
         'honeypot'      => Honeypot::class,
         'invalidchars'  => InvalidChars::class,
         'secureheaders' => SecureHeaders::class,
-        'cors'          => Cors::class,
-        'forcehttps'    => ForceHTTPS::class,
-        'pagecache'     => PageCache::class,
-        'performance'   => PerformanceMetrics::class,
-        'auth'          => \App\Filters\AuthFilter::class, // Filter untuk autentikasi
-        'admin'         => \App\Filters\AdminFilter::class, // Filter untuk admin
+        'auth'          => Auth::class,
+        'csrf-disable'  => CsrfDisableFilter::class,
+        'admin'         => \App\Filters\AdminFilter::class,
+        'pegawai'       => \App\Filters\PegawaiFilter::class,
+        'cors'          => \App\Filters\Cors::class,
     ];
 
+    /**
+     * List of filter aliases that are always
+     * applied before and after every request.
+     */
     public array $globals = [
         'before' => [
             // 'honeypot',
             // 'csrf',
-            // 'invalidchars',
+            'invalidchars',
         ],
         'after' => [
+            'toolbar',
             // 'honeypot',
-            // 'secureheaders',
+            'secureheaders',
         ],
     ];
 
+    /**
+     * List of filter aliases that works on a
+     * particular HTTP method (GET, POST, etc.).
+     *
+     * Example:
+     * 'post' => ['foo', 'bar']
+     *
+     * If you use this, you should disable auto-routing because auto-routing
+     * permits any HTTP method to access a controller. Accessing the controller
+     * with a method you don't expect could bypass the filter.
+     */
     public array $methods = [];
 
+    /**
+     * List of filter aliases that should run on any
+     * before or after URI patterns.
+     *
+     * Example:
+     * 'isLoggedIn' => ['before' => ['account/*', 'profiles/*']]
+     */
     public array $filters = [
-        'auth' => ['before' => ['admin/*', 'dashboard', 'referensi', 'organisasi', 'layanan']],
-        'admin' => ['before' => ['admin/*']], // Menambahkan ini untuk memastikan rute admin menggunakan filter admin
+        'auth' => [
+            'before' => [
+                'admin/*',
+                'dashboard',
+                'referensi',
+                'organisasi',
+                'layanan',
+                'profile',
+                'profile/*'
+            ],
+        ],
+        'csrf' => [
+            'except' => [
+                'loginAuth',
+                'sso/*'
+            ]
+        ],
     ];
 }

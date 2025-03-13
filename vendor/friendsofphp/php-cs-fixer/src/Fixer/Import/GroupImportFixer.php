@@ -98,7 +98,7 @@ final class GroupImportFixer extends AbstractFixer implements ConfigurableFixerI
                     foreach ($types as $type) {
                         if (!\in_array($type, $allowedTypes, true)) {
                             throw new InvalidOptionsException(
-                                sprintf(
+                                \sprintf(
                                     'Invalid group type: %s, allowed types: %s.',
                                     $type,
                                     Utils::naturalLanguageJoin($allowedTypes)
@@ -311,10 +311,6 @@ final class GroupImportFixer extends AbstractFixer implements ConfigurableFixerI
     private function createNewGroup(Tokens $tokens, int $insertIndex, NamespaceUseAnalysis $useDeclaration, string $currentNamespace): int
     {
         $insertedTokens = 0;
-
-        if (\count($tokens) === $insertIndex) {
-            $tokens->setSize($insertIndex + 1);
-        }
 
         $newTokens = [
             new Token([T_USE, 'use']),

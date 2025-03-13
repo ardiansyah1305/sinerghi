@@ -20,7 +20,7 @@ use PhpCsFixer\Cache\NullCacheManager;
 use PhpCsFixer\Config;
 use PhpCsFixer\Console\ConfigurationResolver;
 use PhpCsFixer\Error\ErrorsManager;
-use PhpCsFixer\FixerFileProcessedEvent;
+use PhpCsFixer\Runner\Event\FileProcessed;
 use PhpCsFixer\Runner\Parallel\ParallelAction;
 use PhpCsFixer\Runner\Parallel\ParallelConfigFactory;
 use PhpCsFixer\Runner\Parallel\ParallelisationException;
@@ -49,10 +49,8 @@ final class WorkerCommand extends Command
     /** @var string Prefix used before JSON-encoded error printed in the worker's process */
     public const ERROR_PREFIX = 'WORKER_ERROR::';
 
-    /** @var string */
     protected static $defaultName = 'worker';
 
-    /** @var string */
     protected static $defaultDescription = 'Internal command for running fixers in parallel';
 
     private ToolInfoInterface $toolInfo;
@@ -60,7 +58,7 @@ final class WorkerCommand extends Command
     private ErrorsManager $errorsManager;
     private EventDispatcherInterface $eventDispatcher;
 
-    /** @var list<FixerFileProcessedEvent> */
+    /** @var list<FileProcessed> */
     private array $events;
 
     public function __construct(ToolInfoInterface $toolInfo)
@@ -110,7 +108,7 @@ final class WorkerCommand extends Command
         $loop = new StreamSelectLoop();
         $tcpConnector = new TcpConnector($loop);
         $tcpConnector
-            ->connect(sprintf('127.0.0.1:%d', $port))
+            ->connect(\sprintf('127.0.0.1:%d', $port))
             ->then(
                 /** @codeCoverageIgnore */
                 function (ConnectionInterface $connection) use ($loop, $runner, $identifier): void {
@@ -148,7 +146,7 @@ final class WorkerCommand extends Command
 
                         if (ParallelAction::RUNNER_REQUEST_ANALYSIS !== $action) {
                             // At this point we only expect analysis requests, if any other action happen, we need to fix the code.
-                            throw new \LogicException(sprintf('Unexpected action ParallelAction::%s.', $action));
+                            throw new \LogicException(\sprintf('Unexpected action ParallelAction::%s.', $action));
                         }
 
                         /** @var iterable<int, string> $files */
@@ -204,7 +202,7 @@ final class WorkerCommand extends Command
         }
 
         // There's no one single source of truth when it comes to fixing single file, we need to collect statuses from events.
-        $this->eventDispatcher->addListener(FixerFileProcessedEvent::NAME, function (FixerFileProcessedEvent $event): void {
+        $this->eventDispatcher->addListener(FileProcessed::NAME, function (FileProcessed $event): void {
             $this->events[] = $event;
         });
 

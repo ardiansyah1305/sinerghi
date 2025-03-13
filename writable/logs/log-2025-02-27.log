@@ -1,0 +1,2153 @@
+INFO - 2025-02-27 09:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 09:31:17 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-27 09:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 09:33:03 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-02-27 09:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 09:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 10:18:07 --> Validation errors: []
+INFO - 2025-02-27 10:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-27 10:18:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layanan/index.php"
+[Method: GET, Route: layanan]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layanan/index.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layanan/index', [], true)
+ 3 APPPATH\Controllers\LayananController.php(22): view('layanan/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LayananController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LayananController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-27 10:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 10:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 10:26:18 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-27 10:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 11:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 11:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 11:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 11:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 12:53:39 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21061 ms: Timed out
+ERROR - 2025-02-27 12:54:00 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21021 ms: Timed out
+ERROR - 2025-02-27 12:54:22 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21022 ms: Timed out
+ERROR - 2025-02-27 12:54:43 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21022 ms: Timed out
+ERROR - 2025-02-27 12:55:05 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21013 ms: Timed out
+ERROR - 2025-02-27 12:55:59 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21039 ms: Timed out
+ERROR - 2025-02-27 12:56:20 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21022 ms: Timed out
+ERROR - 2025-02-27 12:56:42 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21031 ms: Timed out
+ERROR - 2025-02-27 12:57:03 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21033 ms: Timed out
+ERROR - 2025-02-27 12:57:24 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21028 ms: Timed out
+ERROR - 2025-02-27 12:57:46 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21028 ms: Timed out
+ERROR - 2025-02-27 12:58:07 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21031 ms: Timed out
+ERROR - 2025-02-27 12:58:28 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21027 ms: Timed out
+ERROR - 2025-02-27 12:58:50 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21029 ms: Timed out
+ERROR - 2025-02-27 12:59:11 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21028 ms: Timed out
+ERROR - 2025-02-27 12:59:34 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21028 ms: Timed out
+ERROR - 2025-02-27 12:59:55 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21048 ms: Timed out
+ERROR - 2025-02-27 13:00:16 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21041 ms: Timed out
+ERROR - 2025-02-27 13:00:38 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21018 ms: Timed out
+ERROR - 2025-02-27 13:00:59 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21010 ms: Timed out
+ERROR - 2025-02-27 13:01:20 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21004 ms: Timed out
+ERROR - 2025-02-27 13:01:42 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21003 ms: Timed out
+ERROR - 2025-02-27 13:02:03 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21002 ms: Timed out
+ERROR - 2025-02-27 13:02:24 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21008 ms: Timed out
+ERROR - 2025-02-27 13:02:46 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21008 ms: Timed out
+ERROR - 2025-02-27 13:03:12 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21011 ms: Timed out
+ERROR - 2025-02-27 13:03:33 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21050 ms: Timed out
+ERROR - 2025-02-27 13:03:55 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21030 ms: Timed out
+ERROR - 2025-02-27 13:04:16 --> SSO Request ID Generation Error: 28 : Failed to connect to sso.kemenkopmk.go.id port 443 after 21024 ms: Timed out
+INFO - 2025-02-27 13:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:26 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1012 ms: Connection refused
+INFO - 2025-02-27 13:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:27 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1013 ms: Connection refused
+INFO - 2025-02-27 13:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:28 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1016 ms: Connection refused
+INFO - 2025-02-27 13:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:30 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1046 ms: Connection refused
+INFO - 2025-02-27 13:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:31 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1026 ms: Connection refused
+INFO - 2025-02-27 13:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:32 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1014 ms: Connection refused
+INFO - 2025-02-27 13:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:34 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1021 ms: Connection refused
+INFO - 2025-02-27 13:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:35 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1010 ms: Connection refused
+INFO - 2025-02-27 13:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:36 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1026 ms: Connection refused
+INFO - 2025-02-27 13:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:38 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1022 ms: Connection refused
+INFO - 2025-02-27 13:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:39 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1022 ms: Connection refused
+INFO - 2025-02-27 13:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:40 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1028 ms: Connection refused
+INFO - 2025-02-27 13:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:42 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1028 ms: Connection refused
+INFO - 2025-02-27 13:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:43 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1015 ms: Connection refused
+INFO - 2025-02-27 13:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:44 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1008 ms: Connection refused
+INFO - 2025-02-27 13:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:46 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1008 ms: Connection refused
+INFO - 2025-02-27 13:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:47 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1025 ms: Connection refused
+INFO - 2025-02-27 13:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:48 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+INFO - 2025-02-27 13:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:49 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1023 ms: Connection refused
+INFO - 2025-02-27 13:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:51 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1011 ms: Connection refused
+INFO - 2025-02-27 13:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:53 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1034 ms: Connection refused
+INFO - 2025-02-27 13:05:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:54 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1018 ms: Connection refused
+INFO - 2025-02-27 13:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:56 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1016 ms: Connection refused
+INFO - 2025-02-27 13:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:57 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1006 ms: Connection refused
+INFO - 2025-02-27 13:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:05:58 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1016 ms: Connection refused
+INFO - 2025-02-27 13:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:00 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1003 ms: Connection refused
+INFO - 2025-02-27 13:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:01 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1016 ms: Connection refused
+INFO - 2025-02-27 13:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:02 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1005 ms: Connection refused
+INFO - 2025-02-27 13:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:03 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+INFO - 2025-02-27 13:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:05 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+INFO - 2025-02-27 13:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:06 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1020 ms: Connection refused
+INFO - 2025-02-27 13:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:07 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1003 ms: Connection refused
+INFO - 2025-02-27 13:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:09 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+INFO - 2025-02-27 13:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:10 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1008 ms: Connection refused
+INFO - 2025-02-27 13:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:11 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1009 ms: Connection refused
+INFO - 2025-02-27 13:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:12 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1017 ms: Connection refused
+INFO - 2025-02-27 13:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:14 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1009 ms: Connection refused
+INFO - 2025-02-27 13:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:15 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1014 ms: Connection refused
+INFO - 2025-02-27 13:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:16 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+INFO - 2025-02-27 13:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:18 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+INFO - 2025-02-27 13:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:24 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1011 ms: Connection refused
+INFO - 2025-02-27 13:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:25 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+INFO - 2025-02-27 13:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:27 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1010 ms: Connection refused
+INFO - 2025-02-27 13:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:28 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+INFO - 2025-02-27 13:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:29 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1006 ms: Connection refused
+INFO - 2025-02-27 13:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:30 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1013 ms: Connection refused
+INFO - 2025-02-27 13:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:32 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+INFO - 2025-02-27 13:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:33 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1016 ms: Connection refused
+INFO - 2025-02-27 13:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:34 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1012 ms: Connection refused
+INFO - 2025-02-27 13:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:36 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+INFO - 2025-02-27 13:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:37 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1006 ms: Connection refused
+INFO - 2025-02-27 13:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:38 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1006 ms: Connection refused
+INFO - 2025-02-27 13:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:40 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1015 ms: Connection refused
+INFO - 2025-02-27 13:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:41 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1005 ms: Connection refused
+INFO - 2025-02-27 13:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:42 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1003 ms: Connection refused
+INFO - 2025-02-27 13:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:43 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+INFO - 2025-02-27 13:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:45 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+INFO - 2025-02-27 13:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:46 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+INFO - 2025-02-27 13:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:47 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+INFO - 2025-02-27 13:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 13:06:49 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+INFO - 2025-02-27 13:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-27 13:07:19 --> Error: Call to undefined method CodeIgniter\HTTP\CURLRequest::setOptions()
+[Method: GET, Route: /]
+in APPPATH\Helpers\auth_sso_helper.php on line 40.
+ 1 APPPATH\Controllers\AuthController.php(30): generateRequestId('ZGVmNDU2cHBvLWNsaWVudC1pZC05ODd1YW46MTc0MDYzNjQzOTo2YTJkMjRiMWE4NDdhYmZlOTZjOWZkM2ExODQ0NjJmYzBjZGM3MzQzYjY0MWE5NjlkYTU5Y2Q2NmUxNmQ1NGRh')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-27 13:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-27 13:09:12 --> Error: Call to undefined method CodeIgniter\HTTP\CURLRequest::setOptions()
+[Method: GET, Route: /]
+in APPPATH\Helpers\auth_sso_helper.php on line 40.
+ 1 APPPATH\Controllers\AuthController.php(31): generateRequestId('ZGVmNDU2cHBvLWNsaWVudC1pZC05ODd1YW46MTc0MDYzNjU1MjplZGRmOTVlZTYzMjM0OWYzZGE5YTFlNTllM2Q4NWRjZTI3MGJiMGMwYjhhODQ5NTcyOWY0OWE3NzkwZDk2ODhi')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-02-27 13:11:37 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1021 ms: Connection refused
+ERROR - 2025-02-27 13:11:37 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:38 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1023 ms: Connection refused
+ERROR - 2025-02-27 13:11:38 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:40 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1019 ms: Connection refused
+ERROR - 2025-02-27 13:11:40 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:41 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1016 ms: Connection refused
+ERROR - 2025-02-27 13:11:41 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:42 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1008 ms: Connection refused
+ERROR - 2025-02-27 13:11:42 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:43 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1014 ms: Connection refused
+ERROR - 2025-02-27 13:11:43 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:44 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1015 ms: Connection refused
+ERROR - 2025-02-27 13:11:44 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:46 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1003 ms: Connection refused
+ERROR - 2025-02-27 13:11:46 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:47 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:11:47 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:48 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:11:48 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:49 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1007 ms: Connection refused
+ERROR - 2025-02-27 13:11:49 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:50 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1020 ms: Connection refused
+ERROR - 2025-02-27 13:11:50 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:52 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+ERROR - 2025-02-27 13:11:52 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:53 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+ERROR - 2025-02-27 13:11:53 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:54 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1022 ms: Connection refused
+ERROR - 2025-02-27 13:11:54 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:55 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1013 ms: Connection refused
+ERROR - 2025-02-27 13:11:55 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:56 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1007 ms: Connection refused
+ERROR - 2025-02-27 13:11:56 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:58 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1010 ms: Connection refused
+ERROR - 2025-02-27 13:11:58 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:11:59 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1015 ms: Connection refused
+ERROR - 2025-02-27 13:11:59 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:00 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1022 ms: Connection refused
+ERROR - 2025-02-27 13:12:00 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:02 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:02 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:03 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:03 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:05 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:05 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:06 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:12:06 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:07 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+ERROR - 2025-02-27 13:12:07 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:08 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:12:08 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:09 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:09 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:11 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:12:11 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:12 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:12:12 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:13 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:13 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:14 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1000 ms: Connection refused
+ERROR - 2025-02-27 13:12:14 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:15 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:15 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:17 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:17 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:18 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1028 ms: Connection refused
+ERROR - 2025-02-27 13:12:18 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:19 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1003 ms: Connection refused
+ERROR - 2025-02-27 13:12:19 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:20 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1001 ms: Connection refused
+ERROR - 2025-02-27 13:12:20 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:21 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1014 ms: Connection refused
+ERROR - 2025-02-27 13:12:21 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:22 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1004 ms: Connection refused
+ERROR - 2025-02-27 13:12:23 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:24 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1002 ms: Connection refused
+ERROR - 2025-02-27 13:12:24 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:25 --> SSO Request ID Generation Error: 7 : Failed to connect to 192.168.10.211 port 80 after 1012 ms: Connection refused
+ERROR - 2025-02-27 13:12:25 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:35 --> SSO Request ID Generation Error: 28 : Connection timed out after 5005 milliseconds
+ERROR - 2025-02-27 13:12:35 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:40 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:12:40 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:12:55 --> SSO Request ID Generation Error: 28 : Connection timed out after 5011 milliseconds
+ERROR - 2025-02-27 13:12:55 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:00 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:13:00 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:05 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:13:05 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:10 --> SSO Request ID Generation Error: 28 : Connection timed out after 5001 milliseconds
+ERROR - 2025-02-27 13:13:10 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:15 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:13:15 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:21 --> SSO Request ID Generation Error: 28 : Connection timed out after 5003 milliseconds
+ERROR - 2025-02-27 13:13:21 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:26 --> SSO Request ID Generation Error: 28 : Connection timed out after 5009 milliseconds
+ERROR - 2025-02-27 13:13:26 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:31 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:13:31 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:36 --> SSO Request ID Generation Error: 28 : Connection timed out after 5001 milliseconds
+ERROR - 2025-02-27 13:13:36 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:41 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:13:41 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:47 --> SSO Request ID Generation Error: 28 : Connection timed out after 5000 milliseconds
+ERROR - 2025-02-27 13:13:47 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:52 --> SSO Request ID Generation Error: 28 : Connection timed out after 5001 milliseconds
+ERROR - 2025-02-27 13:13:52 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:13:57 --> SSO Request ID Generation Error: 28 : Connection timed out after 5003 milliseconds
+ERROR - 2025-02-27 13:13:57 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:19:20 --> SSO Request ID Generation Error: 28 : Connection timed out after 5016 milliseconds
+ERROR - 2025-02-27 13:19:20 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:19:53 --> SSO Request ID Generation Error: 28 : Connection timed out after 5005 milliseconds
+ERROR - 2025-02-27 13:19:53 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:25:05 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10014 milliseconds
+ERROR - 2025-02-27 13:25:05 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:25:12 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10003 milliseconds
+ERROR - 2025-02-27 13:25:12 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:25:23 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10007 milliseconds
+ERROR - 2025-02-27 13:25:23 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:35:55 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10000 milliseconds
+ERROR - 2025-02-27 13:35:55 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:36:05 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10000 milliseconds
+ERROR - 2025-02-27 13:36:05 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:44:11 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10000 milliseconds
+ERROR - 2025-02-27 13:44:11 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:56:26 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10014 milliseconds
+ERROR - 2025-02-27 13:56:26 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 13:59:33 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10004 milliseconds
+ERROR - 2025-02-27 13:59:33 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 14:49:50 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10013 milliseconds
+ERROR - 2025-02-27 14:49:50 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 14:49:52 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10007 milliseconds
+ERROR - 2025-02-27 14:49:52 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 14:51:03 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10016 milliseconds
+ERROR - 2025-02-27 14:51:03 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 15:38:03 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10013 milliseconds
+ERROR - 2025-02-27 15:38:03 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:09:17 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10001 milliseconds
+ERROR - 2025-02-27 16:09:17 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:09:33 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10001 milliseconds
+ERROR - 2025-02-27 16:09:33 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:09:44 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10010 milliseconds
+ERROR - 2025-02-27 16:09:44 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:09:55 --> SSO Request ID Generation Error: 0 : 28 : Connection timed out after 10010 milliseconds
+ERROR - 2025-02-27 16:09:55 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:09:55 --> SSO configuration missing. Check your .env file.
+ERROR - 2025-02-27 16:09:55 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:31:34 --> Invalid response from SSO server: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>500 - Internal Server Error</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f5f5f5;
+        }
+        .error-container {
+            text-align: center;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 90%;
+        }
+        h1 {
+            font-size: 6rem;
+            margin: 0;
+            color: #e74c3c;
+        }
+        h2 {
+            margin: 1rem 0;
+            color: #2c3e50;
+        }
+        p {
+            color: #7f8c8d;
+            margin-bottom: 1rem;
+        }
+        .details {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            text-align: left;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+        .details p {
+            margin: 0.5rem 0;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>500</h1>
+        <h2>Internal Server Error</h2>
+        <p>Invalid token format</p>
+        <div class="details">
+            <p>Path: /api/generate</p>
+            <p>Time: 2025-02-27 09:31:35</p>
+        </div>
+    </div>
+</body>
+</html>
+ERROR - 2025-02-27 16:31:34 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:31:47 --> Invalid response from SSO server: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>500 - Internal Server Error</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f5f5f5;
+        }
+        .error-container {
+            text-align: center;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 90%;
+        }
+        h1 {
+            font-size: 6rem;
+            margin: 0;
+            color: #e74c3c;
+        }
+        h2 {
+            margin: 1rem 0;
+            color: #2c3e50;
+        }
+        p {
+            color: #7f8c8d;
+            margin-bottom: 1rem;
+        }
+        .details {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            text-align: left;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+        .details p {
+            margin: 0.5rem 0;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>500</h1>
+        <h2>Internal Server Error</h2>
+        <p>Invalid token format</p>
+        <div class="details">
+            <p>Path: /api/generate</p>
+            <p>Time: 2025-02-27 09:31:48</p>
+        </div>
+    </div>
+</body>
+</html>
+ERROR - 2025-02-27 16:31:47 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:40:24 --> Invalid response from SSO server: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>500 - Internal Server Error</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f5f5f5;
+        }
+        .error-container {
+            text-align: center;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 90%;
+        }
+        h1 {
+            font-size: 6rem;
+            margin: 0;
+            color: #e74c3c;
+        }
+        h2 {
+            margin: 1rem 0;
+            color: #2c3e50;
+        }
+        p {
+            color: #7f8c8d;
+            margin-bottom: 1rem;
+        }
+        .details {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            text-align: left;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+        .details p {
+            margin: 0.5rem 0;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>500</h1>
+        <h2>Internal Server Error</h2>
+        <p>Invalid token format</p>
+        <div class="details">
+            <p>Path: /api/generate</p>
+            <p>Time: 2025-02-27 09:40:25</p>
+        </div>
+    </div>
+</body>
+</html>
+ERROR - 2025-02-27 16:40:24 --> Failed to generate SSO request ID
+ERROR - 2025-02-27 16:47:38 --> Invalid response from SSO server: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>500 - Internal Server Error</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f5f5f5;
+        }
+        .error-container {
+            text-align: center;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 90%;
+        }
+        h1 {
+            font-size: 6rem;
+            margin: 0;
+            color: #e74c3c;
+        }
+        h2 {
+            margin: 1rem 0;
+            color: #2c3e50;
+        }
+        p {
+            color: #7f8c8d;
+            margin-bottom: 1rem;
+        }
+        .details {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            text-align: left;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+        .details p {
+            margin: 0.5rem 0;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>500</h1>
+        <h2>Internal Server Error</h2>
+        <p>Invalid token format</p>
+        <div class="details">
+            <p>Path: /api/generate</p>
+            <p>Time: 2025-02-27 09:47:39</p>
+        </div>
+    </div>
+</body>
+</html>
+ERROR - 2025-02-27 16:47:38 --> Failed to generate SSO request ID
+CRITICAL - 2025-02-27 16:59:48 --> TypeError: Unsupported operand types: string + string
+[Method: GET, Route: login]
+in APPPATH\Helpers\auth_sso_helper.php on line 64.
+ 1 APPPATH\Controllers\AuthController.php(32): generateRequestId('ZGVmNDU2cHBvLWNsaWVudC1pZC05ODd1YW46MTc0MDY1MDM4ODpiM2FhNjM0ZWIzNDliNWI4YjBiYzhiNWQ4ZmVlYTE2NGI2ZGJjZmRjMjg3NGE2Y2JmNmZhYWFkNzY2ZDVjMGFj')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-27 17:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-02-27 17:00:10 --> TypeError: Unsupported operand types: string + string
+[Method: GET, Route: login]
+in APPPATH\Helpers\auth_sso_helper.php on line 64.
+ 1 APPPATH\Controllers\AuthController.php(32): generateRequestId('ZGVmNDU2cHBvLWNsaWVudC1pZC05ODd1YW46MTc0MDY1MDQxMDo0MmRlOWJjMGFlYzgwYWNjMWQzYTgwYTM5ZGM2OTBlNzlkOGY3NDU1MmU4MWI1ZTIyZGEyY2VmNTE4NjY2NjU5')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-27 17:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:01:40 --> Invalid response from SSO server: {"error":"invalid token"}
+
+ERROR - 2025-02-27 17:01:40 --> Failed to generate SSO request ID
+INFO - 2025-02-27 17:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:01:45 --> Invalid response from SSO server: {"error":"invalid token"}
+
+ERROR - 2025-02-27 17:01:45 --> Failed to generate SSO request ID
+INFO - 2025-02-27 17:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:01:46 --> Invalid response from SSO server: {"error":"invalid token"}
+
+ERROR - 2025-02-27 17:01:46 --> Failed to generate SSO request ID
+INFO - 2025-02-27 17:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:14 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:14 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:15 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:15 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:16 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:16 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:17 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:19 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:19 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:20 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:20 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:23:21 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:16 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:16 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:17 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:17 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:18 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:18 --> SSO URL not configured. Check your .env file.
+ERROR - 2025-02-27 17:24:18 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:18 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:19 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:20 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:20 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:21 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:21 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:22 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:23 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:24 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:25 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:25 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:26 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:26 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:27 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:32 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:32 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:33 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:33 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:34 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:34 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:35 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:39 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:40 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:40 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:41 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:41 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:42 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:43 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:44 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:45 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:45 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:46 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:46 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 17:24:47 --> Invalid or missing user data from SSO
+INFO - 2025-02-27 17:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:20 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:20 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:20 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:20 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:20 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:20 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:20 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:20 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:21 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:21 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:21 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:21 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:22 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:22 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:22 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:22 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:22 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:22 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:22 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:22 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:23 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:23 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:23 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:23 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:23 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:23 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:23 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:23 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:25 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:25 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:25 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:25 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:25 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:25 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:25 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:25 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:26 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:26 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:26 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:26 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:26 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:26 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:26 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:26 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:27 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:27 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:27 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:27 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:28 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:28 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:28 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:28 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:28 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:28 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:28 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:28 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:31 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:31 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:31 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:31 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:31 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:31 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:31 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:31 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:32 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:32 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:32 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:32 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:32 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:32 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:32 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:32 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:33 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:33 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:33 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:33 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:33 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:33 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:33 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:33 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:35 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:35 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:35 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:35 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:36 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:36 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:36 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:36 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:36 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:36 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:36 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:36 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:37 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:37 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:37 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:37 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:37 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:37 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:37 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:37 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:38 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:38 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:38 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:38 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:39 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:39 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:39 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:39 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:44 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:44 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:44 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:44 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:44 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:44 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:44 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:44 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:45 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:45 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:45 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:45 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:46 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:46 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:46 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:46 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:46 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:46 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:46 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:46 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:47 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:47 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:47 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:47 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:47 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:47 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:47 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:47 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:55 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:55 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:55 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:55 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:56 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:56 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:56 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:56 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:56 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:56 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:56 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:56 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:57 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:57 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:57 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:57 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:57 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:57 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:57 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:57 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:29:58 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:29:58 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:29:58 --> SSO User data received: null
+ERROR - 2025-02-27 17:29:58 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:00 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:00 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:00 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:00 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:00 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:00 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:00 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:00 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:01 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:01 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:01 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:01 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:01 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:01 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:01 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:01 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:02 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:02 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:02 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:02 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:02 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:02 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:03 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:03 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:03 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:03 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:03 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:03 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:08 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:08 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:08 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:08 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:09 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:09 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:09 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:09 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:10 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:10 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:10 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:10 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:10 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:10 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:10 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:10 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:11 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:11 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:11 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:11 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:11 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:11 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:11 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:11 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:12 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:12 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:12 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:12 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:43 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:43 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:43 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:43 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:43 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:43 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:43 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:43 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:44 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:44 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:44 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:44 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:45 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:45 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:45 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:45 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:45 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:45 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:45 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:45 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:30:46 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:30:46 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:30:46 --> SSO User data received: null
+ERROR - 2025-02-27 17:30:46 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:46 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:46 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:46 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:46 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:47 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:47 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:47 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:47 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:47 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:47 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:47 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:47 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:48 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:48 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:48 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:48 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:48 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:48 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:48 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:48 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:49 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:49 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:49 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:49 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:31:49 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:31:49 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:31:49 --> SSO User data received: null
+ERROR - 2025-02-27 17:31:49 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:32:34 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:32:34 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:32:34 --> SSO User data received: null
+ERROR - 2025-02-27 17:32:34 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:18 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:18 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:18 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:18 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:19 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:19 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:19 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:19 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:19 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:19 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:19 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:19 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:20 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:20 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:20 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:20 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:20 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:20 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:20 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:20 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:21 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:21 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:21 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:21 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:33:21 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:33:21 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:33:21 --> SSO User data received: null
+ERROR - 2025-02-27 17:33:21 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:38:22 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:38:22 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:38:22 --> SSO User data received: null
+ERROR - 2025-02-27 17:38:22 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:38:23 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:38:23 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:38:23 --> SSO User data received: null
+ERROR - 2025-02-27 17:38:23 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:38:23 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:38:23 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:38:23 --> SSO User data received: null
+ERROR - 2025-02-27 17:38:23 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:38:24 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:38:24 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:38:24 --> SSO User data received: null
+ERROR - 2025-02-27 17:38:24 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:38:24 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:38:24 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:38:24 --> SSO User data received: null
+ERROR - 2025-02-27 17:38:24 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:38:25 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:38:25 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:38:25 --> SSO User data received: null
+ERROR - 2025-02-27 17:38:25 --> SSO Callback: Invalid or missing user data from SSO
+INFO - 2025-02-27 17:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 17:39:32 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 17:39:32 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 17:39:32 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 17:39:32 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 17:39:32 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 17:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 17:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:14:17 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-27 18:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 18:14:28 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-02-27 18:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:19:21 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-27 18:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 18:19:28 --> SSO URL not configured. Check your .env file.
+INFO - 2025-02-27 18:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:19:49 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 18:19:49 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:19:49 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 18:19:49 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 18:19:49 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 18:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:20:08 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-27 18:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 18:20:12 --> SSO URL not configured. Check your .env file.
+INFO - 2025-02-27 18:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:20:17 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 18:20:17 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:20:17 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 18:20:17 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 18:20:17 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 18:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:23:35 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:23:35 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:23:35 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-02-27 18:23:35 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-02-27 18:23:35 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-02-27 18:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:26:37 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:26:37 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:26:38 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 18:26:38 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 18:26:38 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 18:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:27:15 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:27:15 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:27:15 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 18:27:15 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 18:27:15 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 18:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:27:32 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-27 18:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-02-27 18:37:53 --> [DEPRECATED] password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in APPPATH\Controllers\Admin\UserController.php on line 110.
+ 1 APPPATH\Controllers\Admin\UserController.php(110): password_hash(Object(SensitiveParameterValue), '2y')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\UserController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-02-27 18:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:41:06 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:41:06 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:41:06 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 18:41:06 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 18:41:06 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 18:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:43:23 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:43:23 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:43:23 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 18:43:23 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 18:43:23 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 18:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:44:25 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:44:25 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:44:25 --> SSO User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+DEBUG - 2025-02-27 18:44:25 --> SSO Callback: User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+INFO - 2025-02-27 18:44:25 --> SSO Callback: User successfully logged in: agung.gt
+INFO - 2025-02-27 18:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 18:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 18:57:40 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 18:57:40 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 18:57:40 --> SSO User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+DEBUG - 2025-02-27 18:57:40 --> SSO Callback: User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+INFO - 2025-02-27 18:57:40 --> SSO Callback: User successfully logged in: agung.gt
+INFO - 2025-02-27 18:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 20:12:22 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 20:12:22 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 20:12:22 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 20:12:22 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 20:12:22 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 20:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 20:17:35 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 20:17:35 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 20:17:35 --> SSO User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+DEBUG - 2025-02-27 20:17:35 --> SSO Callback: User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+INFO - 2025-02-27 20:17:35 --> SSO Callback: User successfully logged in: agung.gt
+INFO - 2025-02-27 20:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 20:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 21:14:25 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 21:14:25 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 21:14:25 --> SSO User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+DEBUG - 2025-02-27 21:14:25 --> SSO Callback: User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+INFO - 2025-02-27 21:14:25 --> SSO Callback: User successfully logged in: agung.gt
+INFO - 2025-02-27 21:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 21:27:31 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 21:27:31 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 21:27:31 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 21:27:31 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 21:27:31 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 21:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 21:34:30 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 21:34:30 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 21:34:30 --> SSO User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+DEBUG - 2025-02-27 21:34:30 --> SSO Callback: User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+INFO - 2025-02-27 21:34:30 --> SSO Callback: User successfully logged in: agung.gt
+INFO - 2025-02-27 21:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 21:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:12:56 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:12:56 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:12:56 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:12:56 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:12:57 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:14:00 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 22:14:00 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:14:00 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-02-27 22:14:00 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-02-27 22:14:00 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-02-27 22:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:15:34 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:15:34 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:15:34 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-02-27 22:15:34 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-02-27 22:15:34 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-02-27 22:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:17:22 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 22:17:22 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:17:22 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:17:22 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:17:22 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-27 22:17:40 --> SSO URL not configured. Check your .env file.
+INFO - 2025-02-27 22:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:17:41 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:17:41 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:17:41 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-02-27 22:17:41 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-02-27 22:17:41 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-02-27 22:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:18:06 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:18:06 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:18:07 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:18:07 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:18:07 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:22:10 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:22:10 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:22:10 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:22:10 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:22:10 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:22:50 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:22:50 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:22:50 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:22:50 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:22:50 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:25:07 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:25:07 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:25:07 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:25:07 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:25:08 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:26:42 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 22:26:42 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:26:42 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:26:42 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:26:42 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:26:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:29:06 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:29:06 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:29:06 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:29:06 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:29:06 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:29:12 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:29:12 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:29:12 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:29:12 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:29:12 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:29:17 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:29:17 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:29:17 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:29:17 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:29:17 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:29:24 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:29:24 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:29:24 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:29:24 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:29:24 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:30:16 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:30:16 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:30:16 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:30:16 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:30:16 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:35:59 --> SSO Callback received. Method: POST, Token: present
+DEBUG - 2025-02-27 22:35:59 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:35:59 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:35:59 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:35:59 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:36:29 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:36:29 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:36:29 --> SSO User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+DEBUG - 2025-02-27 22:36:29 --> SSO Callback: User data received: {"valid":true,"username":"ardi.sipd","userid":0,"pegawai_id":184}
+INFO - 2025-02-27 22:36:29 --> SSO Callback: User successfully logged in: ardi.sipd
+INFO - 2025-02-27 22:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-27 22:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-27 22:45:36 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-02-27 22:45:36 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-02-27 22:45:36 --> SSO User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+DEBUG - 2025-02-27 22:45:36 --> SSO Callback: User data received: {"valid":true,"username":"agung.gt","userid":0,"pegawai_id":15}
+INFO - 2025-02-27 22:45:36 --> SSO Callback: User successfully logged in: agung.gt
+INFO - 2025-02-27 22:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

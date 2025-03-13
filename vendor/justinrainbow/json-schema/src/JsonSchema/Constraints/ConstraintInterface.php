@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /*
  * This file is part of the JsonSchema package.
  *
@@ -9,6 +11,7 @@
 
 namespace JsonSchema\Constraints;
 
+use JsonSchema\ConstraintError;
 use JsonSchema\Entity\JsonPointer;
 
 /**
@@ -35,12 +38,11 @@ interface ConstraintInterface
     /**
      * adds an error
      *
+     * @param ConstraintError  $constraint the constraint/rule that is broken, e.g.: ConstraintErrors::LENGTH_MIN()
      * @param JsonPointer|null $path
-     * @param string           $message
-     * @param string           $constraint the constraint/rule that is broken, e.g.: 'minLength'
      * @param array            $more       more array elements to add to the error
      */
-    public function addError(?JsonPointer $path, $message, $constraint='', ?array $more = null);
+    public function addError(ConstraintError $constraint, ?JsonPointer $path = null, array $more = []);
 
     /**
      * checks if the validator has not raised errors

@@ -1,3 +1,12 @@
+document.querySelectorAll('.nav-item.dropdown').forEach(function (dropdown) {
+    dropdown.addEventListener('mouseenter', function () {
+        this.querySelector('.dropdown-menu').classList.add('show');
+    });
+    dropdown.addEventListener('mouseleave', function () {
+        this.querySelector('.dropdown-menu').classList.remove('show');
+    });
+});
+
 $(document).ready(function() {
     $('#temaList .list-group-item').click(function() {
         var target = $(this).data('target');

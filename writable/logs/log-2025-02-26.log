@@ -1,0 +1,318 @@
+INFO - 2025-02-26 08:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:52:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 08:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 09:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-26 11:18:28 --> Error in daftar_unit: Undefined variable $unit_list
+INFO - 2025-02-26 11:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-26 11:18:31 --> Error in daftar_unit: Undefined variable $unit_list
+INFO - 2025-02-26 11:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-26 11:19:31 --> Error in daftar_unit: Undefined variable $unit_list
+INFO - 2025-02-26 11:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 11:56:41 --> Validation errors: []
+INFO - 2025-02-26 11:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 11:57:14 --> Validation errors: ["Baris 32: NIP 198605012014031001 sudah memiliki jadwal WFO pada tanggal 2025-03-04"]
+INFO - 2025-02-26 11:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 11:58:00 --> Validation errors: ["Baris 4: NIP 199510232020122019 sudah memiliki jadwal WFA pada tanggal 2025-03-04"]
+INFO - 2025-02-26 11:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 11:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 11:59:41 --> Validation errors: ["Baris 4: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 5: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 6: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 7: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 8: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 11: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 12: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 13: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 14: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 15: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 18: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 19: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 20: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 21: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 22: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 25: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 26: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 27: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 28: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 29: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 32: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 35: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 36: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 37: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 38: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 39: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 42: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 43: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 44: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 45: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 46: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 49: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 50: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 51: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 52: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 53: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 56: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 57: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 58: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 59: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 60: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 63: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 66: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 67: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 68: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 69: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 70: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 73: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 74: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 75: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 76: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 77: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 80: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 81: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 82: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 83: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 84: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 87: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 88: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 89: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 90: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 91: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 94: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 97: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 98: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 99: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 100: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 101: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 104: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 105: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 106: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 107: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 108: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 111: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 112: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 113: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 114: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 115: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 118: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 119: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 120: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 121: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 122: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 125: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 128: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 129: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 130: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 131: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 132: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 135: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 136: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 137: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 138: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 139: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 142: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 143: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 144: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 145: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 146: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 149: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 150: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 151: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 152: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 153: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 156: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 159: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 160: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 161: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 162: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 163: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 166: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 167: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 168: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 169: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 170: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 173: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 174: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 175: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 176: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 177: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 180: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 181: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 182: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 183: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 184: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 187: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 190: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 191: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 192: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 193: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 194: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 197: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 198: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 199: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 200: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 201: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 204: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 205: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 206: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 207: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 208: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 211: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 212: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 213: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 214: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 215: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 218: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 221: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 222: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 223: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 224: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 225: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 228: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 229: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 230: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 231: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 232: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 235: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 236: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 237: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 238: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 239: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 242: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 243: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 244: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 245: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 246: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 249: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Pegawai berikut belum terdapat dalam Excel:<br>- Dr. Ahmad Saufi, S.Si., M.Sc. (NIP: 197101021996031002)<br>- Dr. Ivan Syamsurizal, S.T., M.T. (NIP: 197405282002121001)<br>- Dian Novico, S.Kom (NIP: 197911272006041001)<br>- Windy Pratama, SH, M.H. (NIP: 198605012014031001)<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)<br>- Vini Kartika Rachmawati, S.M., M.M (NIP: 199604212020122019)"]
+INFO - 2025-02-26 12:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 12:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 12:09:56 --> Validation errors: ["Baris 4: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 5: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 6: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 7: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 8: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 11: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 12: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 13: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 14: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 15: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 18: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 19: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 20: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 21: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 22: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 25: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 26: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 27: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 28: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 29: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 32: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama","Baris 35: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 36: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 37: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 38: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 39: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 42: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 43: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 44: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 45: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 46: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 49: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 50: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 51: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 52: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 53: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 56: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 57: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 58: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 59: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 60: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 63: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama","Baris 66: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 67: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 68: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 69: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 70: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 73: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 74: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 75: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 76: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 77: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 80: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 81: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 82: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 83: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 84: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 87: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 88: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 89: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 90: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 91: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 94: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama","Baris 97: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 98: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 99: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 100: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 101: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 104: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 105: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 106: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 107: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 108: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 111: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 112: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 113: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 114: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 115: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 118: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 119: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 120: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 121: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 122: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 125: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama","Baris 128: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 129: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 130: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 131: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 132: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 135: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 136: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 137: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 138: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 139: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 142: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 143: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 144: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 145: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 146: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 149: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 150: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 151: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 152: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 153: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 156: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama","Baris 159: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 160: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 161: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 162: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 163: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 166: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 167: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 168: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 169: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 170: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 173: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 174: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 175: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 176: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 177: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 180: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 181: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 182: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 183: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 184: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 187: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama","Baris 190: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 191: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 192: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 193: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 194: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 197: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 198: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 199: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 200: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 201: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 204: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 205: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 206: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 207: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 208: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 211: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 212: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 213: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 214: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 215: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 218: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama","Baris 221: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 222: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 223: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 224: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 225: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 228: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 229: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 230: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 231: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 232: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 235: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 236: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 237: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 238: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 239: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 242: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 243: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 244: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 245: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 246: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Baris 249: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama","Pegawai berikut belum terdapat dalam Excel:<br>- Dr. Ahmad Saufi, S.Si., M.Sc. (NIP: 197101021996031002)<br>- Dr. Ivan Syamsurizal, S.T., M.T. (NIP: 197405282002121001)<br>- Dian Novico, S.Kom (NIP: 197911272006041001)<br>- Windy Pratama, SH, M.H. (NIP: 198605012014031001)<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)<br>- Vini Kartika Rachmawati, S.M., M.M (NIP: 199604212020122019)"]
+INFO - 2025-02-26 14:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:10:48 --> Validation errors: ["Baris 4: NIP 199510232020122019 sudah memiliki jadwal WFA pada tanggal 2025-03-04"]
+INFO - 2025-02-26 14:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:11:19 --> Validation errors: ["Baris 153: NIP 197101021996031002 sudah memiliki jadwal WFO pada tanggal 2025-03-14"]
+INFO - 2025-02-26 14:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:11:51 --> Validation errors: []
+INFO - 2025-02-26 14:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:16:45 --> Validation errors: ["Baris 142: NIP tidak terdaftar"]
+INFO - 2025-02-26 14:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:17:00 --> Validation errors: []
+INFO - 2025-02-26 14:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:17:19 --> Validation errors: ["Baris 142: NIP tidak terdaftar"]
+INFO - 2025-02-26 14:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:18:02 --> Validation errors: ["Baris 142: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama"]
+INFO - 2025-02-26 14:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 14:19:29 --> Validation errors: []
+INFO - 2025-02-26 14:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 14:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 15:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 16:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 23:05:17 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-26 23:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-02-26 23:05:29 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-02-26 23:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-02-26 23:07:10 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-02-26 23:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-02-26 23:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

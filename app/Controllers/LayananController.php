@@ -18,18 +18,7 @@ class LayananController extends BaseController
 
     public function index()
     {
-        // Ambil data layanan dari database dengan join ke kategori
-        $layanan = $this->layananModel
-            ->select('layanan.*, layanan_kategori.name as kategori_name')
-            ->join('layanan_kategori', 'layanan.kategori_id = layanan_kategori.id')
-            ->findAll();
-
-        // Pass data layanan dan user ke view
-        $data = [
-            'nip' => $this->userData['nip'],
-            'layanan' => $layanan
-        ];
-
-        echo view('layanan/layanan', $data);
+        // Show the coming soon page instead of the original functionality
+        return view('layanan/index');
     }
 }

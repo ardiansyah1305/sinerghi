@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /*
  * This file is part of the JsonSchema package.
  *
@@ -9,6 +11,7 @@
 
 namespace JsonSchema\Constraints;
 
+use JsonSchema\ConstraintError;
 use JsonSchema\Entity\JsonPointer;
 use JsonSchema\Exception\InvalidArgumentException;
 use JsonSchema\Exception\ValidationException;
@@ -23,7 +26,7 @@ class BaseConstraint
     /**
      * @var array Errors
      */
-    protected $errors = array();
+    protected $errors = [];
 
     /**
      * @var int All error types which have occurred
@@ -43,22 +46,29 @@ class BaseConstraint
         $this->factory = $factory ?: new Factory();
     }
 
-    public function addError(?JsonPointer $path, $message, $constraint = '', ?array $more = null)
+    public function addError(ConstraintError $constraint, ?JsonPointer $path = null, array $more = [])
     {
-        $error = array(
+        $message = $constraint ? $constraint->getMessage() : '';
+        $name = $constraint ? $constraint->getValue() : '';
+        $error = [
             'property' => $this->convertJsonPointerIntoPropertyPath($path ?: new JsonPointer('')),
             'pointer' => ltrim(strval($path ?: new JsonPointer('')), '#'),
-            'message' => $message,
-            'constraint' => $constraint,
+            'message' => ucfirst(vsprintf($message, array_map(function ($val) {
+                if (is_scalar($val)) {
+                    return is_bool($val) ? var_export($val, true) : $val;
+                }
+
+                return json_encode($val);
+            }, array_values($more)))),
+            'constraint' => [
+                'name' => $name,
+                'params' => $more
+            ],
             'context' => $this->factory->getErrorContext(),
-        );
+        ];
 
         if ($this->factory->getConfig(Constraint::CHECK_MODE_EXCEPTIONS)) {
             throw new ValidationException(sprintf('Error validating %s: %s', $error['pointer'], $error['message']));
-        }
-
-        if (is_array($more) && count($more) > 0) {
-            $error += $more;
         }
 
         $this->errors[] = $error;
@@ -111,7 +121,7 @@ class BaseConstraint
      */
     public function reset()
     {
-        $this->errors = array();
+        $this->errors = [];
         $this->errorMask = Validator::ERROR_NONE;
     }
 
@@ -144,5 +154,34 @@ class BaseConstraint
         }
 
         return (object) json_decode($json);
+    }
+
+    /**
+     * Transform a JSON pattern into a PCRE regex
+     *
+     * @param string $pattern
+     *
+     * @return string
+     */
+    public static function jsonPatternToPhpRegex($pattern)
+    {
+        return '~' . str_replace('~', '\\~', $pattern) . '~u';
+    }
+
+    /**
+     * @param JsonPointer $pointer
+     *
+     * @return string property path
+     */
+    protected function convertJsonPointerIntoPropertyPath(JsonPointer $pointer)
+    {
+        $result = array_map(
+            function ($path) {
+                return sprintf(is_numeric($path) ? '[%d]' : '.%s', $path);
+            },
+            $pointer->getPropertyPaths()
+        );
+
+        return trim(implode('', $result), '.');
     }
 }

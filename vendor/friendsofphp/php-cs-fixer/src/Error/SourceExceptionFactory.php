@@ -15,6 +15,8 @@ declare(strict_types=1);
 namespace PhpCsFixer\Error;
 
 /**
+ * @readonly
+ *
  * @internal
  */
 final class SourceExceptionFactory
@@ -37,7 +39,7 @@ final class SourceExceptionFactory
             }
         } catch (\Throwable $e) {
             $exception = new \RuntimeException(
-                sprintf('[%s] %s', $exceptionClass, $error['message']),
+                \sprintf('[%s] %s', $exceptionClass, $error['message']),
                 $error['code']
             );
         }

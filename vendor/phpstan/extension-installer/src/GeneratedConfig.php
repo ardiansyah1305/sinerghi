@@ -12,7 +12,7 @@ final class GeneratedConfig
 	public const EXTENSIONS = array (
   'codeigniter/phpstan-codeigniter' => 
   array (
-    'install_path' => 'C:\\laragon\\www\\SINERGHI\\SINERGHI\\vendor/codeigniter/phpstan-codeigniter',
+    'install_path' => 'C:\\xampp\\htdocs\\sinerghi\\vendor/codeigniter/phpstan-codeigniter',
     'relative_install_path' => '../../../codeigniter/phpstan-codeigniter',
     'extra' => 
     array (
@@ -24,9 +24,23 @@ final class GeneratedConfig
     'version' => 'v1.4.2.70400',
     'phpstanVersionConstraint' => '>=1.10.0.0-dev, <2.0.0.0-dev',
   ),
+  'composer/pcre' => 
+  array (
+    'install_path' => 'C:\\xampp\\htdocs\\sinerghi\\vendor/composer/pcre',
+    'relative_install_path' => '../../../composer/pcre',
+    'extra' => 
+    array (
+      'includes' => 
+      array (
+        0 => 'extension.neon',
+      ),
+    ),
+    'version' => '3.3.2',
+    'phpstanVersionConstraint' => NULL,
+  ),
   'phpstan/phpstan-strict-rules' => 
   array (
-    'install_path' => 'C:\\laragon\\www\\SINERGHI\\SINERGHI\\vendor/phpstan/phpstan-strict-rules',
+    'install_path' => 'C:\\xampp\\htdocs\\sinerghi\\vendor/phpstan/phpstan-strict-rules',
     'relative_install_path' => '../../phpstan-strict-rules',
     'extra' => 
     array (
@@ -35,8 +49,8 @@ final class GeneratedConfig
         0 => 'rules.neon',
       ),
     ),
-    'version' => '1.6.0',
-    'phpstanVersionConstraint' => '>=1.11.0.0-dev, <2.0.0.0-dev',
+    'version' => '1.6.2',
+    'phpstanVersionConstraint' => '>=1.12.4.0-dev, <2.0.0.0-dev',
   ),
 );
 
@@ -44,7 +58,7 @@ final class GeneratedConfig
 );
 
 	/** @var string|null */
-	public const PHPSTAN_VERSION_CONSTRAINT = '>=1.11.0.0-dev, <2.0.0.0-dev';
+	public const PHPSTAN_VERSION_CONSTRAINT = '>=1.12.4.0-dev, <2.0.0.0-dev';
 
 	private function __construct()
 	{

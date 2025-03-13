@@ -15,5 +15,8 @@
         <label for="end">Tanggal Selesai</label>
         <input type="date" class="form-control" id="end" name="end">
     </div>
-    <button type="submit" class="btn btn-primary">Tambah Event</button>
+    <button type="submit" class="btn btn-success">
+        Tambah
+        <i class="bi bi-plus-circle"></i>
+    </button>
 </form>

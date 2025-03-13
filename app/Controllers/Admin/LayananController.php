@@ -15,7 +15,7 @@ class LayananController extends BaseController
     {
         $this->layananModel = new LayananModel();
         $this->kategoriModel = new LayananKategoriModel();
-    }
+    } 
 
     public function index()
     {
@@ -36,28 +36,60 @@ class LayananController extends BaseController
     }
 
     public function store()
-    {
-        $links = [];
-        $names = $this->request->getPost('link_names');
-        $urls = $this->request->getPost('link_urls');
+{
+    $links = [];
+    $names = $this->request->getPost('link_names');
+    $urls = $this->request->getPost('link_urls');
 
-        if ($names && $urls) {
-            foreach ($names as $key => $name) {
+    // Validasi manual
+    $errors = [];
+    if (empty($this->request->getPost('title'))) {
+        $errors[] = 'Judul harus diisi.';
+    }
+
+    if ($names && $urls) {
+        foreach ($urls as $key => $url) {
+            if (!filter_var($url, FILTER_VALIDATE_URL)) {
+                $errors[] = "Link URL tidak valid.";
+            }
+        }
+    }
+
+    // Jika ada kesalahan validasi
+    if (!empty($errors)) {
+        session()->setFlashdata('error_layanan', implode('<br>', $errors));
+        return redirect()->back()->withInput();
+    }
+
+    // Proses pengolahan links
+    if ($names && $urls) {
+        foreach ($names as $key => $name) {
+            if (!empty($name) && !empty($urls[$key])) {
                 $links[] = ['name' => $name, 'url' => $urls[$key]];
             }
         }
-
-        $this->layananModel->save([
-            'kategori_id' => $this->request->getPost('kategori_id'),
-            'title' => $this->request->getPost('title'),
-            'links' => json_encode($links),
-            'color' => $this->request->getPost('color'),
-            'icon' => $this->request->getPost('icon')
-        ]);
-
-        return redirect()->to('/admin/layanan');
     }
 
+    $data = [
+        'kategori_id' => $this->request->getPost('kategori_id'),
+        'title' => $this->request->getPost('title'),
+        'links' => json_encode($links),
+        'color' => $this->request->getPost('color'),
+        'icon' => $this->request->getPost('icon')
+    ];
+
+    try {
+        if ($this->layananModel->save($data)) {
+            session()->setFlashdata('success_layanan', 'Data berhasil ditambahkan.');
+        } else {
+            session()->setFlashdata('error_layanan', 'Terjadi kesalahan saat menambahkan data.');
+        }
+    } catch (\Exception $e) {
+        session()->setFlashdata('error_layanan', 'Terjadi kesalahan: ' . $e->getMessage());
+    }
+
+    return redirect()->to('/admin/layanan');
+}
     public function edit($id)
     {
         $data = [
@@ -69,28 +101,60 @@ class LayananController extends BaseController
     }
 
     public function update($id)
-    {
-        $links = [];
-        $names = $this->request->getPost('link_names');
-        $urls = $this->request->getPost('link_urls');
+{
+    $links = [];
+    $names = $this->request->getPost('link_names');
+    $urls = $this->request->getPost('link_urls');
 
-        if ($names && $urls) {
-            foreach ($names as $key => $name) {
+    // Validasi manual
+    $errors = [];
+    if (empty($this->request->getPost('title'))) {
+        $errors[] = 'Judul harus diisi.';
+    }
+
+    if ($names && $urls) {
+        foreach ($urls as $key => $url) {
+            if (!filter_var($url, FILTER_VALIDATE_URL)) {
+                $errors[] = "Link URL pada baris " . ($key + 1) . " tidak valid.";
+            }
+        }
+    }
+
+    // Jika ada kesalahan validasi
+    if (!empty($errors)) {
+        session()->setFlashdata('error_layanan', implode('<br>', $errors));
+        return redirect()->back()->withInput();
+    }
+
+    // Proses pengolahan links
+    if ($names && $urls) {
+        foreach ($names as $key => $name) {
+            if (!empty($name) && !empty($urls[$key])) {
                 $links[] = ['name' => $name, 'url' => $urls[$key]];
             }
         }
-
-        $this->layananModel->update($id, [
-            'kategori_id' => $this->request->getPost('kategori_id'),
-            'title' => $this->request->getPost('title'),
-            'links' => json_encode($links),
-            'color' => $this->request->getPost('color'),
-            'icon' => $this->request->getPost('icon')
-        ]);
-
-        return redirect()->to('/admin/layanan');
     }
 
+    $data = [
+        'kategori_id' => $this->request->getPost('kategori_id'),
+        'title' => $this->request->getPost('title'),
+        'links' => json_encode($links),
+        'color' => $this->request->getPost('color'),
+        'icon' => $this->request->getPost('icon')
+    ];
+
+    try {
+        if ($this->layananModel->update($id, $data)) {
+            session()->setFlashdata('success_layanan', 'Data berhasil diperbarui.');
+        } else {
+            session()->setFlashdata('error_layanan', 'Terjadi kesalahan saat memperbarui data.');
+        }
+    } catch (\Exception $e) {
+        session()->setFlashdata('error_layanan', 'Terjadi kesalahan: ' . $e->getMessage());
+    }
+
+    return redirect()->to('/admin/layanan');
+}
     public function delete($id)
     {
         $this->layananModel->delete($id);

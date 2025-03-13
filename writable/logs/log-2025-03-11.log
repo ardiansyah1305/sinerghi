@@ -1,0 +1,1162 @@
+INFO - 2025-03-11 05:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:09:23 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 203: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Pegawai berikut belum terdapat dalam Excel:<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)"]
+INFO - 2025-03-11 05:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:10:57 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 203: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Pegawai berikut belum terdapat dalam Excel:<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)"]
+INFO - 2025-03-11 05:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:17:55 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 203: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Pegawai berikut belum terdapat dalam Excel:<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)"]
+INFO - 2025-03-11 05:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:18:52 --> Validation errors: ["Baris 2: Tanggal kerja harus sesuai bulan pengajuan","Baris 3: Tanggal kerja harus sesuai bulan pengajuan","Baris 6: Tanggal kerja harus sesuai bulan pengajuan","Baris 7: Tanggal kerja harus sesuai bulan pengajuan","Baris 8: Tanggal kerja harus sesuai bulan pengajuan","Baris 9: Tanggal kerja harus sesuai bulan pengajuan","Baris 13: Tanggal kerja harus sesuai bulan pengajuan","Baris 14: Tanggal kerja harus sesuai bulan pengajuan","Baris 15: Tanggal kerja harus sesuai bulan pengajuan","Baris 16: Tanggal kerja harus sesuai bulan pengajuan","Baris 17: Tanggal kerja harus sesuai bulan pengajuan","Baris 20: Tanggal kerja harus sesuai bulan pengajuan","Baris 21: Tanggal kerja harus sesuai bulan pengajuan","Baris 24: Tanggal kerja harus sesuai bulan pengajuan","Baris 25: Tanggal kerja harus sesuai bulan pengajuan","Baris 26: Tanggal kerja harus sesuai bulan pengajuan","Baris 27: Tanggal kerja harus sesuai bulan pengajuan","Baris 31: Tanggal kerja harus sesuai bulan pengajuan","Baris 32: Tanggal kerja harus sesuai bulan pengajuan","Baris 33: Tanggal kerja harus sesuai bulan pengajuan","Baris 34: Tanggal kerja harus sesuai bulan pengajuan","Baris 35: Tanggal kerja harus sesuai bulan pengajuan","Baris 38: Tanggal kerja harus sesuai bulan pengajuan","Baris 39: Tanggal kerja harus sesuai bulan pengajuan","Baris 42: Tanggal kerja harus sesuai bulan pengajuan","Baris 43: Tanggal kerja harus sesuai bulan pengajuan","Baris 44: Tanggal kerja harus sesuai bulan pengajuan","Baris 45: Tanggal kerja harus sesuai bulan pengajuan","Baris 49: Tanggal kerja harus sesuai bulan pengajuan","Baris 50: Tanggal kerja harus sesuai bulan pengajuan","Baris 51: Tanggal kerja harus sesuai bulan pengajuan","Baris 52: Tanggal kerja harus sesuai bulan pengajuan","Baris 53: Tanggal kerja harus sesuai bulan pengajuan","Baris 56: Tanggal kerja harus sesuai bulan pengajuan","Baris 57: Tanggal kerja harus sesuai bulan pengajuan","Baris 60: Tanggal kerja harus sesuai bulan pengajuan","Baris 61: Tanggal kerja harus sesuai bulan pengajuan","Baris 62: Tanggal kerja harus sesuai bulan pengajuan","Baris 63: Tanggal kerja harus sesuai bulan pengajuan","Baris 67: Tanggal kerja harus sesuai bulan pengajuan","Baris 68: Tanggal kerja harus sesuai bulan pengajuan","Baris 69: Tanggal kerja harus sesuai bulan pengajuan","Baris 70: Tanggal kerja harus sesuai bulan pengajuan","Baris 71: Tanggal kerja harus sesuai bulan pengajuan","Baris 74: Tanggal kerja harus sesuai bulan pengajuan","Baris 75: Tanggal kerja harus sesuai bulan pengajuan","Baris 78: Tanggal kerja harus sesuai bulan pengajuan","Baris 79: Tanggal kerja harus sesuai bulan pengajuan","Baris 80: Tanggal kerja harus sesuai bulan pengajuan","Baris 81: Tanggal kerja harus sesuai bulan pengajuan","Baris 85: Tanggal kerja harus sesuai bulan pengajuan","Baris 86: Tanggal kerja harus sesuai bulan pengajuan","Baris 87: Tanggal kerja harus sesuai bulan pengajuan","Baris 88: Tanggal kerja harus sesuai bulan pengajuan","Baris 89: Tanggal kerja harus sesuai bulan pengajuan","Baris 92: Tanggal kerja harus sesuai bulan pengajuan","Baris 93: Tanggal kerja harus sesuai bulan pengajuan","Baris 96: Tanggal kerja harus sesuai bulan pengajuan","Baris 97: Tanggal kerja harus sesuai bulan pengajuan","Baris 98: Tanggal kerja harus sesuai bulan pengajuan","Baris 99: Tanggal kerja harus sesuai bulan pengajuan","Baris 103: Tanggal kerja harus sesuai bulan pengajuan","Baris 104: Tanggal kerja harus sesuai bulan pengajuan","Baris 105: Tanggal kerja harus sesuai bulan pengajuan","Baris 106: Tanggal kerja harus sesuai bulan pengajuan","Baris 107: Tanggal kerja harus sesuai bulan pengajuan","Baris 110: Tanggal kerja harus sesuai bulan pengajuan","Baris 111: Tanggal kerja harus sesuai bulan pengajuan","Baris 114: Tanggal kerja harus sesuai bulan pengajuan","Baris 115: Tanggal kerja harus sesuai bulan pengajuan","Baris 116: Tanggal kerja harus sesuai bulan pengajuan","Baris 117: Tanggal kerja harus sesuai bulan pengajuan","Baris 121: Tanggal kerja harus sesuai bulan pengajuan","Baris 122: Tanggal kerja harus sesuai bulan pengajuan","Baris 123: Tanggal kerja harus sesuai bulan pengajuan","Baris 124: Tanggal kerja harus sesuai bulan pengajuan","Baris 125: Tanggal kerja harus sesuai bulan pengajuan","Baris 128: Tanggal kerja harus sesuai bulan pengajuan","Baris 129: Tanggal kerja harus sesuai bulan pengajuan","Baris 132: Tanggal kerja harus sesuai bulan pengajuan","Baris 133: Tanggal kerja harus sesuai bulan pengajuan","Baris 134: Tanggal kerja harus sesuai bulan pengajuan","Baris 135: Tanggal kerja harus sesuai bulan pengajuan","Baris 139: Tanggal kerja harus sesuai bulan pengajuan","Baris 140: Tanggal kerja harus sesuai bulan pengajuan","Baris 141: Tanggal kerja harus sesuai bulan pengajuan","Baris 142: Tanggal kerja harus sesuai bulan pengajuan","Baris 143: Tanggal kerja harus sesuai bulan pengajuan","Baris 146: Tanggal kerja harus sesuai bulan pengajuan","Baris 147: Tanggal kerja harus sesuai bulan pengajuan","Baris 150: Tanggal kerja harus sesuai bulan pengajuan","Baris 151: Tanggal kerja harus sesuai bulan pengajuan","Baris 152: Tanggal kerja harus sesuai bulan pengajuan","Baris 153: Tanggal kerja harus sesuai bulan pengajuan","Baris 157: Tanggal kerja harus sesuai bulan pengajuan","Baris 158: Tanggal kerja harus sesuai bulan pengajuan","Baris 159: Tanggal kerja harus sesuai bulan pengajuan","Baris 160: Tanggal kerja harus sesuai bulan pengajuan","Baris 161: Tanggal kerja harus sesuai bulan pengajuan","Baris 164: Tanggal kerja harus sesuai bulan pengajuan","Baris 165: Tanggal kerja harus sesuai bulan pengajuan","Baris 168: Tanggal kerja harus sesuai bulan pengajuan","Baris 169: Tanggal kerja harus sesuai bulan pengajuan","Baris 170: Tanggal kerja harus sesuai bulan pengajuan","Baris 171: Tanggal kerja harus sesuai bulan pengajuan","Baris 175: Tanggal kerja harus sesuai bulan pengajuan","Baris 176: Tanggal kerja harus sesuai bulan pengajuan","Baris 177: Tanggal kerja harus sesuai bulan pengajuan","Baris 178: Tanggal kerja harus sesuai bulan pengajuan","Baris 179: Tanggal kerja harus sesuai bulan pengajuan","Baris 182: Tanggal kerja harus sesuai bulan pengajuan","Baris 183: Tanggal kerja harus sesuai bulan pengajuan","Baris 186: Tanggal kerja harus sesuai bulan pengajuan","Baris 187: Tanggal kerja harus sesuai bulan pengajuan","Baris 188: Tanggal kerja harus sesuai bulan pengajuan","Baris 189: Tanggal kerja harus sesuai bulan pengajuan","Baris 193: Tanggal kerja harus sesuai bulan pengajuan","Baris 194: Tanggal kerja harus sesuai bulan pengajuan","Baris 195: Tanggal kerja harus sesuai bulan pengajuan","Baris 196: Tanggal kerja harus sesuai bulan pengajuan","Baris 197: Tanggal kerja harus sesuai bulan pengajuan","Baris 200: Tanggal kerja harus sesuai bulan pengajuan","Baris 201: Tanggal kerja harus sesuai bulan pengajuan","Baris 202: Tanggal kerja harus sesuai bulan pengajuan","Baris 203: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Baris 204: Tanggal kerja harus sesuai bulan pengajuan","Baris 205: Tanggal kerja harus sesuai bulan pengajuan","Baris 208: Tanggal kerja harus sesuai bulan pengajuan","Baris 209: Tanggal kerja harus sesuai bulan pengajuan","Baris 210: Tanggal kerja harus sesuai bulan pengajuan","Baris 211: Tanggal kerja harus sesuai bulan pengajuan","Baris 215: Tanggal kerja harus sesuai bulan pengajuan","Baris 216: Tanggal kerja harus sesuai bulan pengajuan","Baris 217: Tanggal kerja harus sesuai bulan pengajuan","Baris 218: Tanggal kerja harus sesuai bulan pengajuan","Baris 219: Tanggal kerja harus sesuai bulan pengajuan","Baris 222: Tanggal kerja harus sesuai bulan pengajuan","Baris 223: Tanggal kerja harus sesuai bulan pengajuan","Baris 224: Tanggal kerja harus sesuai bulan pengajuan","Baris 225: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Pegawai berikut belum terdapat dalam Excel:<br>- Agung Gumilar Triyanto, S.ST, M.Si (NIP: 197711071999121001)<br>- Rony Bintoro M.Gurning, S.Kom, M.T.I (NIP: 197506232008011006)<br>- Andre Lesmana, ST (NIP: 198101182014031001)<br>- Amalia Fitriana Rahmawati, S.Stat (NIP: 199802022023212008)<br>- Tri Ardiansyah, S.T. (NIP: 199205132023211019)<br>- Richa Marchelina Purba, S.Tr.Kom (NIP: 199503142020122022)<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)<br>- Ardian Maulana, S.Kom (NIP: 199308312019021001)<br>- Mohammad Azis Khoirul Fata, S.ST., M.T (NIP: 199110052019021002)<br>- Luqyana Andin Nur Aini, S.Kom (NIP: 199511242020122013)<br>- Fahmi Hardiansyah, S.Kom (NIP: 199203232020121011)<br>- Nurul Aini Hasibuan, A.Md (NIP: 199711232020122013)"]
+INFO - 2025-03-11 05:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:19:06 --> Validation errors: ["Baris 2: Tanggal kerja harus sesuai bulan pengajuan","Baris 3: Tanggal kerja harus sesuai bulan pengajuan","Baris 6: Tanggal kerja harus sesuai bulan pengajuan","Baris 7: Tanggal kerja harus sesuai bulan pengajuan","Baris 8: Tanggal kerja harus sesuai bulan pengajuan","Baris 9: Tanggal kerja harus sesuai bulan pengajuan","Baris 13: Tanggal kerja harus sesuai bulan pengajuan","Baris 14: Tanggal kerja harus sesuai bulan pengajuan","Baris 15: Tanggal kerja harus sesuai bulan pengajuan","Baris 16: Tanggal kerja harus sesuai bulan pengajuan","Baris 17: Tanggal kerja harus sesuai bulan pengajuan","Baris 20: Tanggal kerja harus sesuai bulan pengajuan","Baris 21: Tanggal kerja harus sesuai bulan pengajuan","Baris 24: Tanggal kerja harus sesuai bulan pengajuan","Baris 25: Tanggal kerja harus sesuai bulan pengajuan","Baris 26: Tanggal kerja harus sesuai bulan pengajuan","Baris 27: Tanggal kerja harus sesuai bulan pengajuan","Baris 31: Tanggal kerja harus sesuai bulan pengajuan","Baris 32: Tanggal kerja harus sesuai bulan pengajuan","Baris 33: Tanggal kerja harus sesuai bulan pengajuan","Baris 34: Tanggal kerja harus sesuai bulan pengajuan","Baris 35: Tanggal kerja harus sesuai bulan pengajuan","Baris 38: Tanggal kerja harus sesuai bulan pengajuan","Baris 39: Tanggal kerja harus sesuai bulan pengajuan","Baris 42: Tanggal kerja harus sesuai bulan pengajuan","Baris 43: Tanggal kerja harus sesuai bulan pengajuan","Baris 44: Tanggal kerja harus sesuai bulan pengajuan","Baris 45: Tanggal kerja harus sesuai bulan pengajuan","Baris 49: Tanggal kerja harus sesuai bulan pengajuan","Baris 50: Tanggal kerja harus sesuai bulan pengajuan","Baris 51: Tanggal kerja harus sesuai bulan pengajuan","Baris 52: Tanggal kerja harus sesuai bulan pengajuan","Baris 53: Tanggal kerja harus sesuai bulan pengajuan","Baris 56: Tanggal kerja harus sesuai bulan pengajuan","Baris 57: Tanggal kerja harus sesuai bulan pengajuan","Baris 60: Tanggal kerja harus sesuai bulan pengajuan","Baris 61: Tanggal kerja harus sesuai bulan pengajuan","Baris 62: Tanggal kerja harus sesuai bulan pengajuan","Baris 63: Tanggal kerja harus sesuai bulan pengajuan","Baris 67: Tanggal kerja harus sesuai bulan pengajuan","Baris 68: Tanggal kerja harus sesuai bulan pengajuan","Baris 69: Tanggal kerja harus sesuai bulan pengajuan","Baris 70: Tanggal kerja harus sesuai bulan pengajuan","Baris 71: Tanggal kerja harus sesuai bulan pengajuan","Baris 74: Tanggal kerja harus sesuai bulan pengajuan","Baris 75: Tanggal kerja harus sesuai bulan pengajuan","Baris 78: Tanggal kerja harus sesuai bulan pengajuan","Baris 79: Tanggal kerja harus sesuai bulan pengajuan","Baris 80: Tanggal kerja harus sesuai bulan pengajuan","Baris 81: Tanggal kerja harus sesuai bulan pengajuan","Baris 85: Tanggal kerja harus sesuai bulan pengajuan","Baris 86: Tanggal kerja harus sesuai bulan pengajuan","Baris 87: Tanggal kerja harus sesuai bulan pengajuan","Baris 88: Tanggal kerja harus sesuai bulan pengajuan","Baris 89: Tanggal kerja harus sesuai bulan pengajuan","Baris 92: Tanggal kerja harus sesuai bulan pengajuan","Baris 93: Tanggal kerja harus sesuai bulan pengajuan","Baris 96: Tanggal kerja harus sesuai bulan pengajuan","Baris 97: Tanggal kerja harus sesuai bulan pengajuan","Baris 98: Tanggal kerja harus sesuai bulan pengajuan","Baris 99: Tanggal kerja harus sesuai bulan pengajuan","Baris 103: Tanggal kerja harus sesuai bulan pengajuan","Baris 104: Tanggal kerja harus sesuai bulan pengajuan","Baris 105: Tanggal kerja harus sesuai bulan pengajuan","Baris 106: Tanggal kerja harus sesuai bulan pengajuan","Baris 107: Tanggal kerja harus sesuai bulan pengajuan","Baris 110: Tanggal kerja harus sesuai bulan pengajuan","Baris 111: Tanggal kerja harus sesuai bulan pengajuan","Baris 114: Tanggal kerja harus sesuai bulan pengajuan","Baris 115: Tanggal kerja harus sesuai bulan pengajuan","Baris 116: Tanggal kerja harus sesuai bulan pengajuan","Baris 117: Tanggal kerja harus sesuai bulan pengajuan","Baris 121: Tanggal kerja harus sesuai bulan pengajuan","Baris 122: Tanggal kerja harus sesuai bulan pengajuan","Baris 123: Tanggal kerja harus sesuai bulan pengajuan","Baris 124: Tanggal kerja harus sesuai bulan pengajuan","Baris 125: Tanggal kerja harus sesuai bulan pengajuan","Baris 128: Tanggal kerja harus sesuai bulan pengajuan","Baris 129: Tanggal kerja harus sesuai bulan pengajuan","Baris 132: Tanggal kerja harus sesuai bulan pengajuan","Baris 133: Tanggal kerja harus sesuai bulan pengajuan","Baris 134: Tanggal kerja harus sesuai bulan pengajuan","Baris 135: Tanggal kerja harus sesuai bulan pengajuan","Baris 139: Tanggal kerja harus sesuai bulan pengajuan","Baris 140: Tanggal kerja harus sesuai bulan pengajuan","Baris 141: Tanggal kerja harus sesuai bulan pengajuan","Baris 142: Tanggal kerja harus sesuai bulan pengajuan","Baris 143: Tanggal kerja harus sesuai bulan pengajuan","Baris 146: Tanggal kerja harus sesuai bulan pengajuan","Baris 147: Tanggal kerja harus sesuai bulan pengajuan","Baris 150: Tanggal kerja harus sesuai bulan pengajuan","Baris 151: Tanggal kerja harus sesuai bulan pengajuan","Baris 152: Tanggal kerja harus sesuai bulan pengajuan","Baris 153: Tanggal kerja harus sesuai bulan pengajuan","Baris 157: Tanggal kerja harus sesuai bulan pengajuan","Baris 158: Tanggal kerja harus sesuai bulan pengajuan","Baris 159: Tanggal kerja harus sesuai bulan pengajuan","Baris 160: Tanggal kerja harus sesuai bulan pengajuan","Baris 161: Tanggal kerja harus sesuai bulan pengajuan","Baris 164: Tanggal kerja harus sesuai bulan pengajuan","Baris 165: Tanggal kerja harus sesuai bulan pengajuan","Baris 168: Tanggal kerja harus sesuai bulan pengajuan","Baris 169: Tanggal kerja harus sesuai bulan pengajuan","Baris 170: Tanggal kerja harus sesuai bulan pengajuan","Baris 171: Tanggal kerja harus sesuai bulan pengajuan","Baris 175: Tanggal kerja harus sesuai bulan pengajuan","Baris 176: Tanggal kerja harus sesuai bulan pengajuan","Baris 177: Tanggal kerja harus sesuai bulan pengajuan","Baris 178: Tanggal kerja harus sesuai bulan pengajuan","Baris 179: Tanggal kerja harus sesuai bulan pengajuan","Baris 182: Tanggal kerja harus sesuai bulan pengajuan","Baris 183: Tanggal kerja harus sesuai bulan pengajuan","Baris 186: Tanggal kerja harus sesuai bulan pengajuan","Baris 187: Tanggal kerja harus sesuai bulan pengajuan","Baris 188: Tanggal kerja harus sesuai bulan pengajuan","Baris 189: Tanggal kerja harus sesuai bulan pengajuan","Baris 193: Tanggal kerja harus sesuai bulan pengajuan","Baris 194: Tanggal kerja harus sesuai bulan pengajuan","Baris 195: Tanggal kerja harus sesuai bulan pengajuan","Baris 196: Tanggal kerja harus sesuai bulan pengajuan","Baris 197: Tanggal kerja harus sesuai bulan pengajuan","Baris 200: Tanggal kerja harus sesuai bulan pengajuan","Baris 201: Tanggal kerja harus sesuai bulan pengajuan","Baris 202: Tanggal kerja harus sesuai bulan pengajuan","Baris 203: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Baris 204: Tanggal kerja harus sesuai bulan pengajuan","Baris 205: Tanggal kerja harus sesuai bulan pengajuan","Baris 208: Tanggal kerja harus sesuai bulan pengajuan","Baris 209: Tanggal kerja harus sesuai bulan pengajuan","Baris 210: Tanggal kerja harus sesuai bulan pengajuan","Baris 211: Tanggal kerja harus sesuai bulan pengajuan","Baris 215: Tanggal kerja harus sesuai bulan pengajuan","Baris 216: Tanggal kerja harus sesuai bulan pengajuan","Baris 217: Tanggal kerja harus sesuai bulan pengajuan","Baris 218: Tanggal kerja harus sesuai bulan pengajuan","Baris 219: Tanggal kerja harus sesuai bulan pengajuan","Baris 222: Tanggal kerja harus sesuai bulan pengajuan","Baris 223: Tanggal kerja harus sesuai bulan pengajuan","Baris 224: Tanggal kerja harus sesuai bulan pengajuan","Baris 225: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Pegawai berikut belum terdapat dalam Excel:<br>- Agung Gumilar Triyanto, S.ST, M.Si (NIP: 197711071999121001)<br>- Rony Bintoro M.Gurning, S.Kom, M.T.I (NIP: 197506232008011006)<br>- Andre Lesmana, ST (NIP: 198101182014031001)<br>- Amalia Fitriana Rahmawati, S.Stat (NIP: 199802022023212008)<br>- Tri Ardiansyah, S.T. (NIP: 199205132023211019)<br>- Richa Marchelina Purba, S.Tr.Kom (NIP: 199503142020122022)<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)<br>- Ardian Maulana, S.Kom (NIP: 199308312019021001)<br>- Mohammad Azis Khoirul Fata, S.ST., M.T (NIP: 199110052019021002)<br>- Luqyana Andin Nur Aini, S.Kom (NIP: 199511242020122013)<br>- Fahmi Hardiansyah, S.Kom (NIP: 199203232020121011)<br>- Nurul Aini Hasibuan, A.Md (NIP: 199711232020122013)"]
+INFO - 2025-03-11 05:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:19:19 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 203: Format tanggal tidak valid (gunakan format YYYY-MM-DD)","Baris 225: Format tanggal tidak valid (gunakan format YYYY-MM-DD)"]
+INFO - 2025-03-11 05:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:21:04 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)"]
+INFO - 2025-03-11 05:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:21:37 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)"]
+INFO - 2025-03-11 05:22:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:22:14 --> Validation errors: ["Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)"]
+INFO - 2025-03-11 05:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:22:53 --> Validation errors: ["Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)"]
+INFO - 2025-03-11 05:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:23:47 --> Validation errors: ["Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 6: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 7: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 8: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 9: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 13: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 14: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 15: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 16: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 17: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)"]
+INFO - 2025-03-11 05:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:38:23 --> Validation errors: ["Baris 2: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 3: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 6: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 7: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 8: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 9: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 13: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 14: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 15: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 16: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Baris 17: Jenis alokasi tidak valid (harus LKK, LKL, atau CT)","Pegawai berikut belum terdapat dalam Excel:<br>- Agung Gumilar Triyanto, S.ST, M.Si (NIP: 197711071999121001)"]
+INFO - 2025-03-11 05:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:38:58 --> Validation errors: []
+INFO - 2025-03-11 05:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 05:39:03 --> mysqli_sql_exception: Duplicate entry '202-2025-04-10' for key 'idx_jadwal_unique' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ja...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ja...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ja...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1836): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ja...', NULL, false)
+#4 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+#5 C:\xampp\htdocs\sinerghi\system\Model.php(428): CodeIgniter\Database\BaseBuilder->insertBatch(Array, NULL, 100)
+#6 C:\xampp\htdocs\sinerghi\system\BaseModel.php(960): CodeIgniter\Model->doInsertBatch(Array, NULL, 100, false)
+#7 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PenugasanController.php(858): CodeIgniter\BaseModel->insertBatch(Array)
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->storeUsulan()
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+#10 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+INFO - 2025-03-11 05:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:44:33 --> Validation errors: ["Baris 203: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 204: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 207: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 208: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 209: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 210: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 214: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 215: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 216: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 217: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 218: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 221: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 222: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 223: NIP 199510232020122019 (Theophanie Oktrianti A.L. Solin, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya"]
+INFO - 2025-03-11 05:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 05:45:11 --> Validation errors: []
+INFO - 2025-03-11 05:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:45:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 05:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 06:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 08:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 11:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 12:41:07 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-11 12:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 12:42:43 --> Validation errors: []
+INFO - 2025-03-11 12:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 12:42:47 --> mysqli_sql_exception: Duplicate entry '200-2025-03-25' for key 'idx_jadwal_unique' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ja...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ja...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ja...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1836): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ja...', NULL, false)
+#4 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+#5 C:\xampp\htdocs\sinerghi\system\Model.php(428): CodeIgniter\Database\BaseBuilder->insertBatch(Array, NULL, 100)
+#6 C:\xampp\htdocs\sinerghi\system\BaseModel.php(960): CodeIgniter\Model->doInsertBatch(Array, NULL, 100, false)
+#7 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PenugasanController.php(858): CodeIgniter\BaseModel->insertBatch(Array)
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->storeUsulan()
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+#10 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\sinerghi\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+ERROR - 2025-03-11 12:42:47 --> mysqli_sql_exception: Duplicate entry '202-2025-03-24' for key 'idx_jadwal_unique' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ja...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ja...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ja...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1836): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ja...', NULL, false)
+#4 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+#5 C:\xampp\htdocs\sinerghi\system\Model.php(428): CodeIgniter\Database\BaseBuilder->insertBatch(Array, NULL, 100)
+#6 C:\xampp\htdocs\sinerghi\system\BaseModel.php(960): CodeIgniter\Model->doInsertBatch(Array, NULL, 100, false)
+#7 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PenugasanController.php(858): CodeIgniter\BaseModel->insertBatch(Array)
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->storeUsulan()
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+#10 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\sinerghi\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+INFO - 2025-03-11 12:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 12:43:27 --> Validation errors: ["Pegawai berikut belum terdapat dalam Excel:<br>- Agung Gumilar Triyanto, S.ST, M.Si (NIP: 197711071999121001)<br>- Rony Bintoro M.Gurning, S.Kom, M.T.I (NIP: 197506232008011006)<br>- Andre Lesmana, ST (NIP: 198101182014031001)<br>- Amalia Fitriana Rahmawati, S.Stat (NIP: 199802022023212008)<br>- Tri Ardiansyah, S.T. (NIP: 199205132023211019)<br>- Richa Marchelina Purba, S.Tr.Kom (NIP: 199503142020122022)<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)<br>- Ardian Maulana, S.Kom (NIP: 199308312019021001)<br>- Mohammad Azis Khoirul Fata, S.ST., M.T (NIP: 199110052019021002)<br>- Luqyana Andin Nur Aini, S.Kom (NIP: 199511242020122013)<br>- Fahmi Hardiansyah, S.Kom (NIP: 199203232020121011)<br>- Nurul Aini Hasibuan, A.Md (NIP: 199711232020122013)"]
+INFO - 2025-03-11 12:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 12:43:36 --> Validation errors: []
+INFO - 2025-03-11 12:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 12:44:56 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-11 12:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 12:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 16:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 19:13:12 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-11 19:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 19:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 20:19:59 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-11 20:19:59 --> Catatan saved with ID: 1 for usulan ID: 6
+INFO - 2025-03-11 20:19:59 --> Updated usulan ID: 6 with status: 3 and catatan_id: 1
+INFO - 2025-03-11 20:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 20:28:15 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-11 20:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 20:35:20 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-11 20:35:20 --> Updated usulan ID: 6 with status: 2 (no catatan)
+INFO - 2025-03-11 20:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-11 20:35:25 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-11 20:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 20:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 21:19:26 --> mysqli_sql_exception: Unknown column 'status_pernikahan.nama_status' in 'field list' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pegawai...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai...', Array, false)
+#4 C:\xampp\htdocs\sinerghi\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\sinerghi\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\sinerghi\app\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PegawaiController.php(90): App\Models\PegawaiModel->getDetailedPegawai('2')
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+#10 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\sinerghi\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-03-11 21:19:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status_pernikahan.nama_status' in 'field list'
+[Method: GET, Route: admin/pegawai/viewDetail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = :pegawai.id:
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Admin\PegawaiController.php(90): App\Models\PegawaiModel->getDetailedPegawai('2')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+CRITICAL - 2025-03-11 21:19:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status_pernikahan.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = :pegawai.id:
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+ 7 APPPATH\Controllers\Admin\PegawaiController.php(90): App\Models\PegawaiModel->getDetailedPegawai('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+CRITICAL - 2025-03-11 21:19:26 --> [Caused by] mysqli_sql_exception: Unknown column 'status_pernikahan.nama_status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama_status` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai_id` = `status_pegawai`.`id`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan_id` = `status_pernikahan`.`id`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`jenjang_pangkat_id` = `jenjang_pangkat`.`id`
+LEFT JOIN `agama` ON `pegawai`.`agama_id` = `agama`.`id`
+WHERE `pegawai`.`id` = :pegawai.id:
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Admin\PegawaiController.php(90): App\Models\PegawaiModel->getDetailedPegawai('2')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+INFO - 2025-03-11 21:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-11 21:23:27 --> mysqli_sql_exception: Unknown column 'status_pernikahan.nama' in 'field list' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pegawai...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai...', Array, false)
+#4 C:\xampp\htdocs\sinerghi\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\sinerghi\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\sinerghi\app\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PegawaiController.php(87): App\Models\PegawaiModel->getDetailedPegawai('2')
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+#10 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\sinerghi\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-03-11 21:23:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status_pernikahan.nama' in 'field list'
+[Method: GET, Route: admin/pegawai/viewDetail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = :pegawai.id:
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Admin\PegawaiController.php(87): App\Models\PegawaiModel->getDetailedPegawai('2')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+CRITICAL - 2025-03-11 21:23:27 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'status_pernikahan.nama' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = :pegawai.id:
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+ 7 APPPATH\Controllers\Admin\PegawaiController.php(87): App\Models\PegawaiModel->getDetailedPegawai('2')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+CRITICAL - 2025-03-11 21:23:27 --> [Caused by] mysqli_sql_exception: Unknown column 'status_pernikahan.nama' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = \'2\'
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `jabatan`.`nama_jabatan`, `unit_kerja`.`nama_unit_kerja`, `parent_unit`.`nama_unit_kerja` AS `parent_unit_name`, `status_pegawai`.`nama_status` AS `status_pegawai_nama`, `status_pernikahan`.`nama` AS `status_pernikahan_nama`, `jenjang_pangkat`.`nama_pangkat`, `agama`.`nama_agama`
+FROM `pegawai`
+LEFT JOIN `jabatan` ON `pegawai`.`jabatan_id` = `jabatan`.`id`
+LEFT JOIN `unit_kerja` ON `pegawai`.`unit_kerja_id` = `unit_kerja`.`id`
+LEFT JOIN `unit_kerja` AS `parent_unit` ON `unit_kerja`.`parent_id` = `parent_unit`.`id`
+LEFT JOIN `status_pegawai` ON `pegawai`.`status_pegawai` = `status_pegawai`.`kode`
+LEFT JOIN `status_pernikahan` ON `pegawai`.`status_pernikahan` = `status_pernikahan`.`kode`
+LEFT JOIN `jenjang_pangkat` ON `pegawai`.`pangkat` = `jenjang_pangkat`.`kode`
+LEFT JOIN `agama` ON `pegawai`.`agama` = `agama`.`kode`
+WHERE `pegawai`.`id` = :pegawai.id:
+AND `pegawai`.`deleted_at` IS NULL
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\PegawaiModel.php(160): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Admin\PegawaiController.php(87): App\Models\PegawaiModel->getDetailedPegawai('2')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+INFO - 2025-03-11 21:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-11 21:28:42 --> ErrorException: Undefined array key "agama_nama"
+[Method: GET, Route: admin/pegawai/viewDetail/2]
+in APPPATH\Views\admin\pegawai\detail_modal.php on line 37.
+ 1 APPPATH\Views\admin\pegawai\detail_modal.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "agama_nama"', 'C:\\xampp\\htdocs\\sinerghi\\app\\Views\\admin\\pegawai\\detail_modal.php', 37)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sinerghi\\app\\Views\\admin\\pegawai\\detail_modal.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('admin/pegawai/detail_modal', [], true)
+ 5 APPPATH\Controllers\Admin\PegawaiController.php(111): view('admin/pegawai/detail_modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PegawaiController->viewDetail('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PegawaiController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+INFO - 2025-03-11 21:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 21:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:38:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 22:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-11 23:56:37 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+[Method: POST, Route: loginAuth]
+in SYSTEMPATH\Security\Security.php on line 262.
+ 1 SYSTEMPATH\Security\Security.php(262): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(203): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('loginAuth', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')
+INFO - 2025-03-11 23:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-11 23:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-11 23:58:43 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+[Method: POST, Route: loginAuth]
+in SYSTEMPATH\Security\Security.php on line 262.
+ 1 SYSTEMPATH\Security\Security.php(262): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(203): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('loginAuth', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sinerghi\\public\\index.php')

@@ -1,0 +1,173 @@
+INFO - 2025-03-05 08:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 09:12:53 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 09:12:53 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 09:12:53 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-05 09:12:53 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-05 09:12:53 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-05 09:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-05 09:13:20 --> SSO URL not configured. Check your .env file.
+INFO - 2025-03-05 09:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 09:13:29 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 09:13:29 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 09:13:29 --> SSO User data received: {"valid":true,"username":"amalia.fitriana","userid":0,"pegawai_id":179}
+DEBUG - 2025-03-05 09:13:29 --> SSO Callback: User data received: {"valid":true,"username":"amalia.fitriana","userid":0,"pegawai_id":179}
+INFO - 2025-03-05 09:13:29 --> SSO Callback: User successfully logged in: amalia.fitriana
+INFO - 2025-03-05 09:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 09:16:27 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 09:16:27 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 09:16:27 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-05 09:16:27 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-05 09:16:27 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-05 09:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 09:18:23 --> Validation errors: []
+INFO - 2025-03-05 09:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-05 09:18:35 --> SSO URL not configured. Check your .env file.
+INFO - 2025-03-05 09:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 09:23:11 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 09:23:11 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 09:23:11 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-05 09:23:11 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-05 09:23:11 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-05 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 11:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 11:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 11:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 11:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 11:24:21 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 11:24:21 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 11:24:21 --> SSO User data received: {"valid":true,"username":"tri.ardiansyah","userid":0,"pegawai_id":184}
+DEBUG - 2025-03-05 11:24:21 --> SSO Callback: User data received: {"valid":true,"username":"tri.ardiansyah","userid":0,"pegawai_id":184}
+INFO - 2025-03-05 11:24:21 --> SSO Callback: User successfully logged in: tri.ardiansyah
+INFO - 2025-03-05 11:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 12:09:39 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-05 12:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 12:40:31 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 12:40:31 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 12:40:31 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-03-05 12:40:31 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-03-05 12:40:31 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-03-05 12:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 12:40:33 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 12:40:33 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 12:40:33 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-03-05 12:40:33 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-03-05 12:40:33 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-03-05 12:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 12:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 13:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 13:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 13:09:58 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 13:09:58 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 13:09:58 --> SSO User data received: {"valid":true,"username":"hivk3k97_07bjfijxmginaoovl-5b8eoqwk9ccnzugg","userid":0,"pegawai_id":146}
+DEBUG - 2025-03-05 13:09:58 --> SSO Callback: User data received: {"valid":true,"username":"hivk3k97_07bjfijxmginaoovl-5b8eoqwk9ccnzugg","userid":0,"pegawai_id":146}
+ERROR - 2025-03-05 13:09:59 --> SSO Callback: User not found in local database: hivk3k97_07bjfijxmginaoovl-5b8eoqwk9ccnzugg
+INFO - 2025-03-05 13:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 13:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-05 13:10:08 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-05 13:10:08 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-05 13:10:08 --> SSO User data received: {"valid":true,"username":"hivk3k97_07bjfijxmginaoovl-5b8eoqwk9ccnzugg","userid":0,"pegawai_id":146}
+DEBUG - 2025-03-05 13:10:08 --> SSO Callback: User data received: {"valid":true,"username":"hivk3k97_07bjfijxmginaoovl-5b8eoqwk9ccnzugg","userid":0,"pegawai_id":146}
+ERROR - 2025-03-05 13:10:08 --> SSO Callback: User not found in local database: hivk3k97_07bjfijxmginaoovl-5b8eoqwk9ccnzugg
+INFO - 2025-03-05 20:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 20:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-05 20:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

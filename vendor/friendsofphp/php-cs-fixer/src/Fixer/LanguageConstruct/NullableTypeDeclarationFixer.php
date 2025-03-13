@@ -94,7 +94,7 @@ class ValueObject
      * {@inheritdoc}
      *
      * Must run before OrderedTypesFixer, TypesSpacesFixer.
-     * Must run after NullableTypeDeclarationForDefaultNullValueFixer, SingleSpaceAroundConstructFixer.
+     * Must run after NullableTypeDeclarationForDefaultNullValueFixer.
      */
     public function getPriority(): int
     {
@@ -183,11 +183,11 @@ class ValueObject
 
     private function isTypeNormalizable(TypeAnalysis $typeAnalysis): bool
     {
-        if (!$typeAnalysis->isNullable()) {
+        $type = $typeAnalysis->getName();
+
+        if ('null' === strtolower($type) || !$typeAnalysis->isNullable()) {
             return false;
         }
-
-        $type = $typeAnalysis->getName();
 
         if (str_contains($type, '&')) {
             return false; // skip DNF types
@@ -273,6 +273,11 @@ class ValueObject
             $typeAnalysis->getEndIndex(),
             $this->createTypeDeclarationTokens($normalizedType, $isQuestionMarkSyntax)
         );
+
+        $prevStartIndex = $typeAnalysis->getStartIndex() - 1;
+        if (!$tokens[$prevStartIndex]->isWhitespace() && !$tokens[$prevStartIndex]->equals('(')) {
+            $tokens->ensureWhitespaceAtIndex($prevStartIndex, 1, ' ');
+        }
     }
 
     /**
@@ -307,18 +312,18 @@ class ValueObject
     private function createTypeDeclarationTokens(array $types, bool $isQuestionMarkSyntax): array
     {
         static $specialTypes = [
-            '?' => [CT::T_NULLABLE_TYPE, '?'],
-            'array' => [CT::T_ARRAY_TYPEHINT, 'array'],
-            'callable' => [T_CALLABLE, 'callable'],
-            'static' => [T_STATIC, 'static'],
+            '?' => CT::T_NULLABLE_TYPE,
+            'array' => CT::T_ARRAY_TYPEHINT,
+            'callable' => T_CALLABLE,
+            'static' => T_STATIC,
         ];
 
         $count = \count($types);
         $newTokens = [];
 
         foreach ($types as $index => $type) {
-            if (isset($specialTypes[$type])) {
-                $newTokens[] = new Token($specialTypes[$type]);
+            if (isset($specialTypes[strtolower($type)])) {
+                $newTokens[] = new Token([$specialTypes[strtolower($type)], $type]);
             } else {
                 foreach (explode('\\', $type) as $nsIndex => $value) {
                     if (0 === $nsIndex && '' === $value) {

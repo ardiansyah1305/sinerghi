@@ -1,0 +1,22 @@
+nip;gelar_depan;nama;gelar_belakang;tempat_lahir;tanggal_lahir;pangkat;golongan_ruang;jabatan_id;unit_kerja_id;unit_kerjaa_id;kelas_jabatan;jenis_kelamin;is_active;total_angka_kredit;status_pernikahan;jumlah_anak;agama;
+1111;Doc.;Anomali;S.Kom;Jakarta;12/03/2000;Pngkat bawah;VI;5;1;;5;L;0;0;Nikah;2;Islam;
+;;;;;;;;;;;;;;;;;;jabatan_id Options
+;;;;;;;;;;;;;;;;;;5 - Menko PMK
+;;;;;;;;;;;;;;;;;;7 - Sekretaris Kementerian
+;;;;;;;;;;;;;;;;;;9 - Deputi
+;;;;;;;;;;;;;;;;;;13 - Staff Ahli
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;unit_kerja_id Options
+;;;;;;;;;;;;;;;;;;1 - Menko PMK
+;;;;;;;;;;;;;;;;;;2 - Sekretaris Kemenko PMK
+;;;;;;;;;;;;;;;;;;3 - Staff Ahli
+;;;;;;;;;;;;;;;;;;5 - Deputi Bidang Koordinasi Peningkatan Kesejahteraan Sosial
+;;;;;;;;;;;;;;;;;;7 - Deputi Bidang Koordinasi Peningkatan Kualitas Anak, Perempuan, dan Pemuda
+;;;;;;;;;;;;;;;;;;9 - Deputi Bidang Koordinasi Revolusi Mental, Pemajuan Kebudayaan, dan Prestasi Olahraga
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;unit_kerjaa_id Options
+;;;;;;;;;;;;;;;;;;5 - Biro Perencanaan dan Kerjasama
+;;;;;;;;;;;;;;;;;;6 - Biro Hukum, Persidangan, Organisasi, dan Komunikasi
+;;;;;;;;;;;;;;;;;;7 - Biro Sistem Informasi dan Pengelolaan Data
+;;;;;;;;;;;;;;;;;;8 - Biro Umum dan Sumber Daya Manusia
+;;;;;;;;;;;;;;;;;;9 - Staf Ahli Bidang Penguatan Stabilitas Politik dan Pemerintahan

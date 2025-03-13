@@ -107,6 +107,7 @@ final class CodeIgniter4 extends AbstractRuleset
                     'codeCoverageIgnore',
                     'codeCoverageIgnoreStart',
                     'codeCoverageIgnoreEnd',
+                    'phpstan-ignore',
                     'phpstan-ignore-line',
                     'phpstan-ignore-next-line',
                 ],
@@ -193,6 +194,7 @@ final class CodeIgniter4 extends AbstractRuleset
                     'pi',
                 ],
             ],
+            'general_attribute_remove'         => ['attributes' => []],
             'general_phpdoc_annotation_remove' => [
                 'annotations' => [
                     'author',
@@ -207,7 +209,7 @@ final class CodeIgniter4 extends AbstractRuleset
                 'fix_inline'     => true,
                 'replacements'   => ['inheritDocs' => 'inheritDoc'],
             ],
-            'get_class_to_class_keyword' => false,
+            'get_class_to_class_keyword' => true,
             'global_namespace_import'    => [
                 'import_constants' => false,
                 'import_functions' => false,
@@ -354,6 +356,7 @@ final class CodeIgniter4 extends AbstractRuleset
             'ordered_class_elements'                           => [
                 'order' => [
                     'use_trait',
+                    'case',
                     'constant',
                     'property',
                     'method',
@@ -373,8 +376,11 @@ final class CodeIgniter4 extends AbstractRuleset
                 'sort_algorithm'  => 'alpha',
                 'case_sensitive'  => false,
             ],
-            'php_unit_attributes' => true,
-            'php_unit_construct'  => [
+            'php_unit_assert_new_names' => true,
+            'php_unit_attributes'       => [
+                'keep_annotations' => false,
+            ],
+            'php_unit_construct' => [
                 'assertions' => [
                     'assertSame',
                     'assertEquals',
@@ -671,7 +677,13 @@ final class CodeIgniter4 extends AbstractRuleset
             'ternary_to_null_coalescing'     => true,
             'trailing_comma_in_multiline'    => [
                 'after_heredoc' => true,
-                'elements'      => ['arrays'],
+                'elements'      => [
+                    'arguments',
+                    'array_destructuring',
+                    'arrays',
+                    'match',
+                    'parameters',
+                ],
             ],
             'trim_array_spaces'       => true,
             'type_declaration_spaces' => ['elements' => ['function', 'property']],

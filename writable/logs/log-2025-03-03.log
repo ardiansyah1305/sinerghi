@@ -1,0 +1,231 @@
+INFO - 2025-03-03 08:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 08:15:50 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 08:15:50 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 08:15:50 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-03 08:15:50 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-03 08:15:50 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-03 08:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 08:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 08:56:51 --> Validation errors: ["Baris 2: Tanggal kerja harus sesuai bulan pengajuan","Baris 3: Tanggal kerja harus sesuai bulan pengajuan","Baris 4: Tanggal kerja harus sesuai bulan pengajuan","Baris 5: Tanggal kerja harus sesuai bulan pengajuan","Baris 6: Tanggal kerja harus sesuai bulan pengajuan","Baris 8: Tanggal kerja harus sesuai bulan pengajuan","Baris 9: Tanggal kerja harus sesuai bulan pengajuan","Baris 10: Tanggal kerja harus sesuai bulan pengajuan","Baris 11: Tanggal kerja harus sesuai bulan pengajuan","Baris 12: Tanggal kerja harus sesuai bulan pengajuan","Baris 15: Tanggal kerja harus sesuai bulan pengajuan","Baris 16: Tanggal kerja harus sesuai bulan pengajuan","Baris 17: Tanggal kerja harus sesuai bulan pengajuan","Baris 18: Tanggal kerja harus sesuai bulan pengajuan","Baris 19: Tanggal kerja harus sesuai bulan pengajuan","Baris 22: Tanggal kerja harus sesuai bulan pengajuan","Baris 23: Tanggal kerja harus sesuai bulan pengajuan","Baris 24: Tanggal kerja harus sesuai bulan pengajuan","Baris 25: Tanggal kerja harus sesuai bulan pengajuan","Baris 26: Tanggal kerja harus sesuai bulan pengajuan","Baris 29: Tanggal kerja harus sesuai bulan pengajuan","Baris 30: Tanggal kerja harus sesuai bulan pengajuan","Baris 31: Tanggal kerja harus sesuai bulan pengajuan","Baris 32: Tanggal kerja harus sesuai bulan pengajuan","Baris 33: Tanggal kerja harus sesuai bulan pengajuan","Baris 34: Tanggal kerja harus sesuai bulan pengajuan","Baris 36: Tanggal kerja harus sesuai bulan pengajuan","Baris 37: Tanggal kerja harus sesuai bulan pengajuan","Baris 38: Tanggal kerja harus sesuai bulan pengajuan","Baris 39: Tanggal kerja harus sesuai bulan pengajuan","Baris 40: Tanggal kerja harus sesuai bulan pengajuan","Baris 43: Tanggal kerja harus sesuai bulan pengajuan","Baris 44: Tanggal kerja harus sesuai bulan pengajuan","Baris 45: Tanggal kerja harus sesuai bulan pengajuan","Baris 46: Tanggal kerja harus sesuai bulan pengajuan","Baris 47: Tanggal kerja harus sesuai bulan pengajuan","Baris 50: Tanggal kerja harus sesuai bulan pengajuan","Baris 51: Tanggal kerja harus sesuai bulan pengajuan","Baris 52: Tanggal kerja harus sesuai bulan pengajuan","Baris 53: Tanggal kerja harus sesuai bulan pengajuan","Baris 54: Tanggal kerja harus sesuai bulan pengajuan","Baris 57: Tanggal kerja harus sesuai bulan pengajuan","Baris 58: Tanggal kerja harus sesuai bulan pengajuan","Baris 59: Tanggal kerja harus sesuai bulan pengajuan","Baris 60: Tanggal kerja harus sesuai bulan pengajuan","Baris 61: Tanggal kerja harus sesuai bulan pengajuan","Baris 62: Tanggal kerja harus sesuai bulan pengajuan","Baris 64: Tanggal kerja harus sesuai bulan pengajuan","Baris 65: Tanggal kerja harus sesuai bulan pengajuan","Baris 66: Tanggal kerja harus sesuai bulan pengajuan","Baris 67: Tanggal kerja harus sesuai bulan pengajuan","Baris 68: Tanggal kerja harus sesuai bulan pengajuan","Baris 71: Tanggal kerja harus sesuai bulan pengajuan","Baris 72: Tanggal kerja harus sesuai bulan pengajuan","Baris 73: Tanggal kerja harus sesuai bulan pengajuan","Baris 74: Tanggal kerja harus sesuai bulan pengajuan","Baris 75: Tanggal kerja harus sesuai bulan pengajuan","Baris 78: Tanggal kerja harus sesuai bulan pengajuan","Baris 79: Tanggal kerja harus sesuai bulan pengajuan","Baris 80: Tanggal kerja harus sesuai bulan pengajuan","Baris 81: Tanggal kerja harus sesuai bulan pengajuan","Baris 82: Tanggal kerja harus sesuai bulan pengajuan","Baris 85: Tanggal kerja harus sesuai bulan pengajuan","Baris 86: Tanggal kerja harus sesuai bulan pengajuan","Baris 87: Tanggal kerja harus sesuai bulan pengajuan","Baris 88: Tanggal kerja harus sesuai bulan pengajuan","Baris 89: Tanggal kerja harus sesuai bulan pengajuan","Baris 90: Tanggal kerja harus sesuai bulan pengajuan","Baris 92: Tanggal kerja harus sesuai bulan pengajuan","Baris 93: Tanggal kerja harus sesuai bulan pengajuan","Baris 94: Tanggal kerja harus sesuai bulan pengajuan","Baris 95: Tanggal kerja harus sesuai bulan pengajuan","Baris 96: Tanggal kerja harus sesuai bulan pengajuan","Baris 99: Tanggal kerja harus sesuai bulan pengajuan","Baris 100: Tanggal kerja harus sesuai bulan pengajuan","Baris 101: Tanggal kerja harus sesuai bulan pengajuan","Baris 102: Tanggal kerja harus sesuai bulan pengajuan","Baris 103: Tanggal kerja harus sesuai bulan pengajuan","Baris 106: Tanggal kerja harus sesuai bulan pengajuan","Baris 107: Tanggal kerja harus sesuai bulan pengajuan","Baris 108: Tanggal kerja harus sesuai bulan pengajuan","Baris 109: Tanggal kerja harus sesuai bulan pengajuan","Baris 110: Tanggal kerja harus sesuai bulan pengajuan","Baris 113: Tanggal kerja harus sesuai bulan pengajuan","Baris 114: Tanggal kerja harus sesuai bulan pengajuan","Baris 115: Tanggal kerja harus sesuai bulan pengajuan","Baris 116: Tanggal kerja harus sesuai bulan pengajuan","Baris 117: Tanggal kerja harus sesuai bulan pengajuan","Baris 118: Tanggal kerja harus sesuai bulan pengajuan","Baris 120: Tanggal kerja harus sesuai bulan pengajuan","Baris 121: Tanggal kerja harus sesuai bulan pengajuan","Baris 122: Tanggal kerja harus sesuai bulan pengajuan","Baris 123: Tanggal kerja harus sesuai bulan pengajuan","Baris 124: Tanggal kerja harus sesuai bulan pengajuan","Baris 127: Tanggal kerja harus sesuai bulan pengajuan","Baris 128: Tanggal kerja harus sesuai bulan pengajuan","Baris 129: Tanggal kerja harus sesuai bulan pengajuan","Baris 130: Tanggal kerja harus sesuai bulan pengajuan","Baris 131: Tanggal kerja harus sesuai bulan pengajuan","Baris 134: Tanggal kerja harus sesuai bulan pengajuan","Baris 135: Tanggal kerja harus sesuai bulan pengajuan","Baris 136: Tanggal kerja harus sesuai bulan pengajuan","Baris 137: Tanggal kerja harus sesuai bulan pengajuan","Baris 138: Tanggal kerja harus sesuai bulan pengajuan","Baris 141: Tanggal kerja harus sesuai bulan pengajuan","Baris 142: Tanggal kerja harus sesuai bulan pengajuan","Baris 143: Tanggal kerja harus sesuai bulan pengajuan","Baris 144: Tanggal kerja harus sesuai bulan pengajuan","Baris 145: Tanggal kerja harus sesuai bulan pengajuan","Baris 146: Tanggal kerja harus sesuai bulan pengajuan","Baris 148: Tanggal kerja harus sesuai bulan pengajuan","Baris 149: Tanggal kerja harus sesuai bulan pengajuan","Baris 150: Tanggal kerja harus sesuai bulan pengajuan","Baris 151: Tanggal kerja harus sesuai bulan pengajuan","Baris 152: Tanggal kerja harus sesuai bulan pengajuan","Baris 155: Tanggal kerja harus sesuai bulan pengajuan","Baris 156: Tanggal kerja harus sesuai bulan pengajuan","Baris 157: Tanggal kerja harus sesuai bulan pengajuan","Baris 158: Tanggal kerja harus sesuai bulan pengajuan","Baris 159: Tanggal kerja harus sesuai bulan pengajuan","Baris 162: Tanggal kerja harus sesuai bulan pengajuan","Baris 163: Tanggal kerja harus sesuai bulan pengajuan","Baris 164: Tanggal kerja harus sesuai bulan pengajuan","Baris 165: Tanggal kerja harus sesuai bulan pengajuan","Baris 166: Tanggal kerja harus sesuai bulan pengajuan","Baris 169: Tanggal kerja harus sesuai bulan pengajuan","Pegawai berikut belum terdapat dalam Excel:<br>- Dr. Ahmad Saufi, S.Si., M.Sc. (NIP: 197101021996031002)<br>- Dr. Ivan Syamsurizal, S.T., M.T. (NIP: 197405282002121001)<br>- Dian Novico, S.Kom (NIP: 197911272006041001)<br>- Windy Pratama, SH, M.H. (NIP: 198605012014031001)<br>- Theophanie Oktrianti A.L. Solin, S.Tr.Kom (NIP: 199510232020122019)<br>- Vini Kartika Rachmawati, S.M., M.M (NIP: 199604212020122019)"]
+INFO - 2025-03-03 11:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 11:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 11:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 11:59:57 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 11:59:57 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 11:59:57 --> SSO User data received: {"valid":true,"username":"rony.bintoro","userid":0,"pegawai_id":82}
+DEBUG - 2025-03-03 11:59:57 --> SSO Callback: User data received: {"valid":true,"username":"rony.bintoro","userid":0,"pegawai_id":82}
+INFO - 2025-03-03 11:59:57 --> SSO Callback: User successfully logged in: rony.bintoro
+INFO - 2025-03-03 11:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 12:00:35 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 12:00:35 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 12:00:35 --> SSO User data received: {"valid":true,"username":"azis.fata","userid":0,"pegawai_id":233}
+DEBUG - 2025-03-03 12:00:35 --> SSO Callback: User data received: {"valid":true,"username":"azis.fata","userid":0,"pegawai_id":233}
+INFO - 2025-03-03 12:00:35 --> SSO Callback: User successfully logged in: azis.fata
+INFO - 2025-03-03 12:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 12:44:13 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 12:44:13 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 12:44:13 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-03-03 12:44:13 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-03-03 12:44:13 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-03-03 12:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 12:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 12:54:27 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 12:54:27 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 12:54:27 --> SSO User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+DEBUG - 2025-03-03 12:54:27 --> SSO Callback: User data received: {"valid":true,"username":"andre.lesmana","userid":0,"pegawai_id":146}
+INFO - 2025-03-03 12:54:27 --> SSO Callback: User successfully logged in: andre.lesmana
+INFO - 2025-03-03 12:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 13:12:58 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 13:12:58 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 13:12:58 --> SSO User data received: {"valid":true,"username":"azis.fata","userid":0,"pegawai_id":233}
+DEBUG - 2025-03-03 13:12:58 --> SSO Callback: User data received: {"valid":true,"username":"azis.fata","userid":0,"pegawai_id":233}
+INFO - 2025-03-03 13:12:58 --> SSO Callback: User successfully logged in: azis.fata
+INFO - 2025-03-03 13:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 13:43:42 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 13:43:42 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 13:43:42 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-03 13:43:42 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-03 13:43:42 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-03 13:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 13:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 13:45:11 --> Validation errors: ["Baris 2: Jenis alokasi harus WFO atau WFA"]
+INFO - 2025-03-03 14:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:01:54 --> Validation errors: []
+INFO - 2025-03-03 14:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:02:24 --> Validation errors: []
+INFO - 2025-03-03 14:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-03 14:02:29 --> SSO URL not configured. Check your .env file.
+INFO - 2025-03-03 14:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:02:50 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 14:02:50 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 14:02:50 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-03 14:02:50 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-03 14:02:50 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-03 14:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-03 14:03:58 --> SSO URL not configured. Check your .env file.
+INFO - 2025-03-03 14:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:04:19 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 14:04:19 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 14:04:19 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-03 14:04:19 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-03 14:04:19 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-03 14:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-03 14:04:40 --> SSO URL not configured. Check your .env file.
+INFO - 2025-03-03 14:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:06:56 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 14:06:56 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 14:06:56 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-03 14:06:56 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-03 14:06:56 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-03 14:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:07:03 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 14:07:03 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 14:07:03 --> SSO User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+DEBUG - 2025-03-03 14:07:03 --> SSO Callback: User data received: {"valid":true,"username":"theophanie.solin","userid":0,"pegawai_id":202}
+INFO - 2025-03-03 14:07:03 --> SSO Callback: User successfully logged in: theophanie.solin
+INFO - 2025-03-03 14:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:38:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:38:45 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-03 14:38:45 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-03 14:38:45 --> SSO User data received: {"valid":true,"username":"tri.ardiansyah","userid":0,"pegawai_id":184}
+DEBUG - 2025-03-03 14:38:45 --> SSO Callback: User data received: {"valid":true,"username":"tri.ardiansyah","userid":0,"pegawai_id":184}
+INFO - 2025-03-03 14:38:45 --> SSO Callback: User successfully logged in: tri.ardiansyah
+INFO - 2025-03-03 14:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-03 14:39:09 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-03 14:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 14:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-03 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

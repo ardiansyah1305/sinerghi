@@ -85,7 +85,7 @@ final class Nexus81 extends AbstractRuleset
             'class_definition' => [
                 'multi_line_extends_each_single_line' => true,
                 'single_item_single_line' => true,
-                'single_line' => true,
+                'single_line' => false,
                 'space_before_parenthesis' => true,
                 'inline_constructor_arguments' => true,
             ],
@@ -101,6 +101,7 @@ final class Nexus81 extends AbstractRuleset
                     'codeCoverageIgnore',
                     'codeCoverageIgnoreStart',
                     'codeCoverageIgnoreEnd',
+                    'phpstan-ignore',
                     'phpstan-ignore-line',
                     'phpstan-ignore-next-line',
                 ],
@@ -181,6 +182,7 @@ final class Nexus81 extends AbstractRuleset
                     'pi',
                 ],
             ],
+            'general_attribute_remove' => ['attributes' => []],
             'general_phpdoc_annotation_remove' => [
                 'annotations' => [
                     'package',
@@ -230,7 +232,7 @@ final class Nexus81 extends AbstractRuleset
                 'attribute_placement' => 'standalone',
             ],
             'method_chaining_indentation' => true,
-            'modernize_strpos' => true,
+            'modernize_strpos' => ['modernize_stripos' => true],
             'modernize_types_casting' => true,
             'multiline_comment_opening_closing' => true,
             'multiline_string_to_heredoc' => true,
@@ -386,7 +388,10 @@ final class Nexus81 extends AbstractRuleset
                 'null_adjustment' => 'always_first',
                 'case_sensitive' => false,
             ],
-            'php_unit_attributes' => true,
+            'php_unit_assert_new_names' => true,
+            'php_unit_attributes' => [
+                'keep_annotations' => false,
+            ],
             'php_unit_construct' => [
                 'assertions' => [
                     'assertEquals',
@@ -530,16 +535,10 @@ final class Nexus81 extends AbstractRuleset
                     ['author', 'copyright', 'license'],
                     ['category', 'package', 'subpackage'],
                     ['deprecated', 'link', 'see', 'since'],
-                    ['immutable', 'phpstan-immutable'],
-                    ['param', 'phpstan-param'],
+                    ['phpstan-assert', 'phpstan-assert-if-true', 'phpstan-assert-if-false'],
                     ['property', 'property-read', 'property-write'],
-                    ['pure', 'phpstan-pure'],
-                    ['readonly', 'phpstan-readonly'],
-                    ['return', 'phpstan-return'],
                     ['runTestsInSeparateProcess', 'runInSeparateProcess', 'preserveGlobalState'],
-                    ['template', 'phpstan-template'],
-                    ['template-covariant', 'phpstan-template-covariant'],
-                    ['var', 'phpstan-var', 'psalm-var'],
+                    ['template', 'template-covariant'],
                 ],
                 'skip_unlisted_annotations' => false,
             ],
@@ -553,14 +552,17 @@ final class Nexus81 extends AbstractRuleset
             ],
             'phpdoc_to_param_type' => [
                 'scalar_types' => true,
+                'types_map' => [],
                 'union_types' => true,
             ],
             'phpdoc_to_property_type' => [
                 'scalar_types' => true,
+                'types_map' => [],
                 'union_types' => true,
             ],
             'phpdoc_to_return_type' => [
                 'scalar_types' => true,
+                'types_map' => [],
                 'union_types' => true,
             ],
             'phpdoc_trim' => true,

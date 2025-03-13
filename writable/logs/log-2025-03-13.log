@@ -1,0 +1,51 @@
+ERROR - 2025-03-13 17:10:34 --> mysqli_sql_exception: Duplicate entry '330-2025-04-08' for key 'idx_jadwal_unique' in /var/www/html/sinerghi/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /var/www/html/sinerghi/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /var/www/html/sinerghi/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/sinerghi/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/sinerghi/system/Database/BaseBuilder.php(1836): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/sinerghi/system/Database/BaseBuilder.php(2225): CodeIgniter\Database\BaseBuilder->batchExecute()
+#5 /var/www/html/sinerghi/system/Model.php(428): CodeIgniter\Database\BaseBuilder->insertBatch()
+#6 /var/www/html/sinerghi/system/BaseModel.php(960): CodeIgniter\Model->doInsertBatch()
+#7 /var/www/html/sinerghi/app/Controllers/Admin/PenugasanController.php(861): CodeIgniter\BaseModel->insertBatch()
+#8 /var/www/html/sinerghi/system/CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->storeUsulan()
+#9 /var/www/html/sinerghi/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/html/sinerghi/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/html/sinerghi/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/sinerghi/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/html/sinerghi/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+ERROR - 2025-03-13 17:10:34 --> mysqli_sql_exception: Duplicate entry '356-2025-04-24' for key 'idx_jadwal_unique' in /var/www/html/sinerghi/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /var/www/html/sinerghi/system/Database/MySQLi/Connection.php(312): mysqli->query()
+#1 /var/www/html/sinerghi/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/sinerghi/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/sinerghi/system/Database/BaseBuilder.php(1836): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/sinerghi/system/Database/BaseBuilder.php(2225): CodeIgniter\Database\BaseBuilder->batchExecute()
+#5 /var/www/html/sinerghi/system/Model.php(428): CodeIgniter\Database\BaseBuilder->insertBatch()
+#6 /var/www/html/sinerghi/system/BaseModel.php(960): CodeIgniter\Model->doInsertBatch()
+#7 /var/www/html/sinerghi/app/Controllers/Admin/PenugasanController.php(861): CodeIgniter\BaseModel->insertBatch()
+#8 /var/www/html/sinerghi/system/CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->storeUsulan()
+#9 /var/www/html/sinerghi/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/html/sinerghi/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/html/sinerghi/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/sinerghi/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/html/sinerghi/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+ERROR - 2025-03-13 17:13:04 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-13 17:23:41 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-13 18:15:56 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-13 21:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 21:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 21:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-13 22:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

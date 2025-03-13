@@ -36,7 +36,7 @@ abstract class BaseController extends Controller
      *
      * @var list<string>
      */
-    protected $helpers = ['url', 'form'];
+    protected $helpers = ['url', 'form', 'cookie', 'encrypt'];
 
     /**
      * Data user yang diambil dari database.
@@ -55,38 +55,38 @@ abstract class BaseController extends Controller
      * @return void
      */
     public function initController(RequestInterface $request, ResponseInterface $response, LoggerInterface $logger)
-    {
-        // Do Not Edit This Line
-        parent::initController($request, $response, $logger);
+{
+    parent::initController($request, $response, $logger);
 
-        // Preload any models, libraries, etc, here.
-        $this->session = \Config\Services::session();
+    $this->session = \Config\Services::session();
 
-        // Pastikan pengguna sudah login
-        if (!$this->session->get('logged_in')) {
-            return redirect()->to('/login');
-        }
+    // Pastikan pengguna sudah login
+    if (!$this->session->get('logged_in')) {
+        redirect()->to('/login')->send();
+        exit;
+    }
 
-        // Ambil user_id dari session
-        $userId = $this->session->get('id');
-        if (!$userId) {
-            log_message('error', 'User ID not found in session.');
-            return redirect()->to('/login'); // Arahkan ke halaman login jika user_id tidak ditemukan
-        }
+    // Ambil user_id dari session
+    $userId = $this->session->get('id');
+    if (!$userId) {
+        log_message('error', 'User ID not found in session.');
+        redirect()->to('/login')->send();
+        exit;
+    }
 
-        // Debugging: Periksa userId
-        log_message('debug', 'User ID: ' . $userId);
+    // Ambil data user dari database
+    $userModel = new UserModel();
+    $this->userData = $userModel->getAllUserWithNamaId($userId);
 
-        // Ambil data user dari database
-        $userModel = new UserModel();
-        $this->userData = $userModel->find($userId);
-        if (!$this->userData) {
-            log_message('error', 'User not found in database for user ID: ' . $userId);
-            return redirect()->to('/login')->with('error', 'User not found'); // Arahkan ke halaman login jika user tidak ditemukan
-        }
+    if (!$this->userData) {
+        log_message('error', 'User not found in database for user ID: ' . $userId);
+        redirect()->to('/login')->send();
+        exit;
+    }
 
-        // Set the user data for use in views
+    // Set the user data for use in views
+    if (isset($this->userData['nama'])) {
         $this->session->set('nama', $this->userData['nama']);
     }
 }
-
+}

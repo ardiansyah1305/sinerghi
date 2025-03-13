@@ -38,12 +38,9 @@ trait ConfigurableFixerTrait
     /**
      * @var null|TFixerComputedConfig
      */
-    protected $configuration;
+    protected ?array $configuration = null;
 
-    /**
-     * @var null|FixerConfigurationResolverInterface
-     */
-    private $configurationDefinition;
+    private ?FixerConfigurationResolverInterface $configurationDefinition = null;
 
     /**
      * @param TFixerInputConfig $configuration
@@ -59,7 +56,7 @@ trait ConfigurableFixerTrait
 
             $name = $option->getName();
             if (\array_key_exists($name, $configuration)) {
-                Utils::triggerDeprecation(new \InvalidArgumentException(sprintf(
+                Utils::triggerDeprecation(new \InvalidArgumentException(\sprintf(
                     'Option "%s" for rule "%s" is deprecated and will be removed in version %d.0. %s',
                     $name,
                     $this->getName(),
@@ -74,19 +71,19 @@ trait ConfigurableFixerTrait
         } catch (MissingOptionsException $exception) {
             throw new RequiredFixerConfigurationException(
                 $this->getName(),
-                sprintf('Missing required configuration: %s', $exception->getMessage()),
+                \sprintf('Missing required configuration: %s', $exception->getMessage()),
                 $exception
             );
         } catch (InvalidOptionsForEnvException $exception) {
             throw new InvalidForEnvFixerConfigurationException(
                 $this->getName(),
-                sprintf('Invalid configuration for env: %s', $exception->getMessage()),
+                \sprintf('Invalid configuration for env: %s', $exception->getMessage()),
                 $exception
             );
         } catch (ExceptionInterface $exception) {
             throw new InvalidFixerConfigurationException(
                 $this->getName(),
-                sprintf('Invalid configuration: %s', $exception->getMessage()),
+                \sprintf('Invalid configuration: %s', $exception->getMessage()),
                 $exception
             );
         }

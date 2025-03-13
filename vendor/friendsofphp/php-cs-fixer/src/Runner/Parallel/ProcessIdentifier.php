@@ -19,6 +19,8 @@ namespace PhpCsFixer\Runner\Parallel;
  *
  * @author Greg Korba <greg@codito.dev>
  *
+ * @readonly
+ *
  * @internal
  */
 final class ProcessIdentifier
@@ -45,7 +47,7 @@ final class ProcessIdentifier
     public static function fromRaw(string $identifier): self
     {
         if (!str_starts_with($identifier, self::IDENTIFIER_PREFIX)) {
-            throw new ParallelisationException(sprintf('Invalid process identifier "%s".', $identifier));
+            throw new ParallelisationException(\sprintf('Invalid process identifier "%s".', $identifier));
         }
 
         return new self($identifier);

@@ -2,38 +2,45 @@
 
 <?= $this->section('content'); ?>
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css">
+<!-- Container baru di atas Layanan ASN -->
+<div class="announcement-banner">
+    <img src="<?= base_url('images/beritaback.jpg'); ?>" alt="Banner Image" class="banner-image">
+    <div class="banner-content">
+        <span class="banner-text">Portal Layanan Kemenko PMK</span>
+    </div>
+</div>
 
 <?php
 $sections = [
-    'Layanan ASN' => 'background-dark-section1',
-    'Administrasi Layanan ASN' => 'background-dark-section2',
-    'Layanan IT' => 'background-dark-section3',
+    'Layanan ASN' => ['class' => 'background-dark-section1', 'icon' => 'fa-users'],
+    'Administrasi Layanan ASN' => ['class' => 'background-dark-section2', 'icon' => 'fa-file-alt'],
+    'Layanan IT' => ['class' => 'background-dark-section3', 'icon' => 'fa-cogs'],
 ];
-foreach ($sections as $sectionName => $sectionClass): 
-    $filteredLayanan = array_filter($layanan, function($item) use ($sectionName) {
+foreach ($sections as $sectionName => $sectionData):
+    $filteredLayanan = array_filter($layanan, function ($item) use ($sectionName) {
         return $item['kategori_name'] === $sectionName;
     });
 ?>
-    <div class="full-width-section <?= $sectionClass ?>">
+
+    <div class="full-width-section <?= $sectionData['class'] ?>">
         <div class="container py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <div class="text-center mx-auto mb-5">
                 <h6 class="custom-text"><?= $sectionName ?></h6>
             </div>
             <div class="row g-4 justify-content-center">
                 <?php foreach ($filteredLayanan as $index => $card): ?>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp mb-4" data-wow-delay="0.1s">
+                    <div class="col-md-6 col-lg-3 mb-4">
                         <div class="service-item rounded overflow-hidden shadow-sm" data-bs-toggle="modal" data-bs-target="#serviceModal-<?= $card['id'] ?>" style="height: 210px;">
-                            <div style="background-color: <?= $card['color'] ?>; height: 100px; display: flex; align-items: center; justify-content: center;">
-                                <i class="fa <?= $card['icon'] ?> fa-3x text-white"></i>
+                            <div class="service-item-header" style="background-color: <?= $card['color'] ?>;">
+                                <i class="fa <?= $sectionData['icon'] ?> fa-3x text-white"></i>
                             </div>
-                            <div class="position-relative p-4 pt-2 text-center">
+                            <div class="position-relative p-4 pt-2 text-center service-item-body">
                                 <h4 class="mb-0 font-weight-bold"><?= $card['title'] ?></h4>
                             </div>
                         </div>
                     </div>
                     <div class="modal fade" id="serviceModal-<?= $card['id'] ?>" tabindex="-1" aria-labelledby="serviceModalLabel-<?= $card['id'] ?>" aria-hidden="true">
-                        <div class="modal-dialog">
+                        <div class="modal-dialog modal-dialog-centered">
                             <div class="modal-content">
                                 <div class="modal-header">
                                     <h5 class="modal-title" id="serviceModalLabel-<?= $card['id'] ?>"><?= $card['title'] ?></h5>
@@ -59,6 +66,10 @@ foreach ($sections as $sectionName => $sectionClass):
     </div>
 <?php endforeach; ?>
 
+<!-- Tambahkan link animate.css -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+<!-- Script untuk tooltip bootstrap -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.min.js"></script>

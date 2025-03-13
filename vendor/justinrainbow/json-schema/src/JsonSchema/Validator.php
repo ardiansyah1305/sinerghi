@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /*
  * This file is part of the JsonSchema package.
  *
@@ -22,12 +24,12 @@ use JsonSchema\Constraints\Constraint;
  */
 class Validator extends BaseConstraint
 {
-    const SCHEMA_MEDIA_TYPE = 'application/schema+json';
+    public const SCHEMA_MEDIA_TYPE = 'application/schema+json';
 
-    const ERROR_NONE                    = 0x00000000;
-    const ERROR_ALL                     = 0xFFFFFFFF;
-    const ERROR_DOCUMENT_VALIDATION     = 0x00000001;
-    const ERROR_SCHEMA_VALIDATION       = 0x00000002;
+    public const ERROR_NONE                    = 0x00000000;
+    public const ERROR_ALL                     = 0xFFFFFFFF;
+    public const ERROR_DOCUMENT_VALIDATION     = 0x00000001;
+    public const ERROR_SCHEMA_VALIDATION       = 0x00000002;
 
     /**
      * Validates the given data against the schema and returns an object containing the results
@@ -35,13 +37,19 @@ class Validator extends BaseConstraint
      * The validation works as defined by the schema proposal in http://json-schema.org.
      *
      * Note that the first argument is passed by reference, so you must pass in a variable.
+     *
+     * @param mixed $value
+     * @param mixed $schema
+     * @param int   $checkMode
+     *
+     * @return int
+     *
+     * @phpstan-param Constraint::CHECK_MODE_* $checkMode
      */
     public function validate(&$value, $schema = null, $checkMode = null)
     {
-        // make sure $schema is an object
-        if (is_array($schema)) {
-            $schema = self::arrayToObjectRecursive($schema);
-        }
+        // reset errors prior to validation
+        $this->reset();
 
         // set checkMode
         $initialCheckMode = $this->factory->getConfig();
@@ -72,6 +80,8 @@ class Validator extends BaseConstraint
 
     /**
      * Alias to validate(), to maintain backwards-compatibility with the previous API
+     *
+     * @deprecated
      */
     public function check($value, $schema)
     {
@@ -80,6 +90,8 @@ class Validator extends BaseConstraint
 
     /**
      * Alias to validate(), to maintain backwards-compatibility with the previous API
+     *
+     * @deprecated
      */
     public function coerce(&$value, $schema)
     {

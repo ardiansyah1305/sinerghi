@@ -34,6 +34,8 @@ use PhpCsFixer\Tokenizer\Tokens;
 use PhpCsFixer\Utils;
 
 /**
+ * @readonly
+ *
  * @internal
  */
 final class FixerDocumentGenerator
@@ -83,7 +85,7 @@ final class FixerDocumentGenerator
             $alternatives = $fixer->getSuccessorsNames();
 
             if (0 !== \count($alternatives)) {
-                $deprecationDescription .= RstUtils::toRst(sprintf(
+                $deprecationDescription .= RstUtils::toRst(\sprintf(
                     "\n\nYou should use %s instead.",
                     Utils::naturalLanguageJoinWithBackticks($alternatives)
                 ), 0);
@@ -202,7 +204,7 @@ final class FixerDocumentGenerator
                 RST;
 
             foreach ($samples as $index => $sample) {
-                $title = sprintf('Example #%d', $index + 1);
+                $title = \sprintf('Example #%d', $index + 1);
                 $titleLine = str_repeat('~', \strlen($title));
                 $doc .= "\n\n{$title}\n{$titleLine}";
 
@@ -210,7 +212,7 @@ final class FixerDocumentGenerator
                     if (null === $sample->getConfiguration()) {
                         $doc .= "\n\n*Default* configuration.";
                     } else {
-                        $doc .= sprintf(
+                        $doc .= \sprintf(
                             "\n\nWith configuration: ``%s``.",
                             Utils::toString($sample->getConfiguration())
                         );
@@ -380,7 +382,7 @@ final class FixerDocumentGenerator
                    the sample is not suitable for current version of PHP (%s).
                 RST;
 
-            return sprintf($error, PHP_VERSION);
+            return \sprintf($error, PHP_VERSION);
         }
 
         $old = $sample->getCode();

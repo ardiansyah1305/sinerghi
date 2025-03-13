@@ -5,6 +5,48 @@ All notable changes to this library will be documented in this file:
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v3.25.1](https://github.com/NexusPHP/cs-config/compare/v3.25.0...v3.25.1) - 2025-01-17
+
+- Enable `modernize_stripos` option to `modernize_strpos` fixer
+
+## [v3.25.0](https://github.com/NexusPHP/cs-config/compare/v3.24.3...v3.25.0) - 2025-01-10
+
+- Bump to php-cs-fixer v3.67
+- Add `types_map` option to `phpdoc_to_*` fixers
+- Add `general_attribute_remove` fixer
+- Bump to phpstan v2.1
+- Remove `phpExecutable` as `setPhpExecutable()` is now deprecated in upstream
+- Add PHP 8.4 to build
+- Add `@phpstan-ignore` to ignored tags in `comment_to_phpdoc`
+- Remove Nexus80 ruleset as PHP 8.0 is no longer supported
+- Add `Nexus83` and `Nexus84` rulesets
+- Make `Nexus82` depend on `Nexus81`'s rules
+- Use explicit `ubuntu-24.04` in actions
+- Add composer scripts
+- Fix errors in phpstan-baseline
+
+## [v3.24.3](https://github.com/NexusPHP/cs-config/compare/v3.24.2...v3.24.3) - 2024-09-07
+
+- Add new PHPStan errors to baseline
+- Update `phpdoc_separation` groups
+
+## [v3.24.2](https://github.com/NexusPHP/cs-config/compare/v3.24.1...v3.24.2) - 2024-09-03
+
+- Allow multiline in class definition
+
+## [v3.24.1](https://github.com/NexusPHP/cs-config/compare/v3.24.0...v3.24.1) - 2024-08-25
+
+- Add `php_unit_assert_new_names` fixer
+- Group `template` and `template-covariant` PHPDocs
+
+## [v3.24.0](https://github.com/NexusPHP/cs-config/compare/v3.23.1...v3.24.0) - 2024-07-28
+
+- Fix phpstan error
+- Remove defunct branch alias
+- Add more files to .gitattributes
+- Apply changes from php-cs-fixer v3.60
+- Implement `FixerGenerator::mergeWith()`
+
 ## [v3.23.1](https://github.com/NexusPHP/cs-config/compare/v3.23.0...v3.23.1) - 2024-06-16
 
 - Refactor AbstractCustomFixerTestCase

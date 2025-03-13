@@ -306,7 +306,7 @@ final class PhpdocAlignFixer extends AbstractFixer implements ConfigurableFixerI
                     continue;
                 }
 
-                $hasStatic |= '' !== $item['static'];
+                $hasStatic = $hasStatic || '' !== $item['static'];
                 $tagMax = max($tagMax, \strlen($item['tag']));
                 $hintMax = max($hintMax, \strlen($item['hint']));
                 $varMax = max($varMax, \strlen($item['var']));
@@ -438,9 +438,7 @@ final class PhpdocAlignFixer extends AbstractFixer implements ConfigurableFixerI
                 $matches['hint'] = trim($matches['hint']);
             }
 
-            if (!isset($matches['static'])) {
-                $matches['static'] = '';
-            }
+            $matches['static'] ??= '';
 
             return $matches;
         }

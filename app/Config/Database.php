@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'localhost',
-        'username'     => 'root',
-        'password'     => '',
-        'database'     => 'studyDB',
+        'hostname'     => '192.168.10.157',
+        'username'     => 'sipd',
+        'password'     => 's1n3rgh1@',
+        'database'     => 'kemenkopmk_db',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,

@@ -8,7 +8,7 @@ class LayananModel extends Model
 {
     protected $table = 'layanan';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['kategori_id', 'title', 'links', 'color', 'icon'];
+    protected $allowedFields = ['kategori_id', 'title', 'links', 'color'];
     protected $useTimestamps = true;
 
     public function getAllLayanan()

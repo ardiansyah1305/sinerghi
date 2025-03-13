@@ -14,9 +14,14 @@ class CardBerandaModel extends Model
     protected $returnType     = 'array';
     protected $useSoftDeletes = false;
 
-    protected $allowedFields = ['title', 'short_description', 'description', 'image'];
+    protected $allowedFields = ['title', 'short_description', 'description', 'image', 'start', 'end'];
 
     protected $useTimestamps = true;
     protected $createdField  = 'created_at';
     protected $updatedField  = 'updated_at';
-}
+
+public function getLatestAnnouncements($limit = 15)
+     {
+         return $this->orderBy('created_at', 'DESC')->findAll($limit);
+     }
+ }

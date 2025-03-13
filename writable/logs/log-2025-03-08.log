@@ -1,0 +1,894 @@
+INFO - 2025-03-08 00:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 00:59:13 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-08 00:59:13 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-08 00:59:13 --> SSO User data received: {"valid":true,"username":"ardian.maulana","userid":0,"pegawai_id":232}
+DEBUG - 2025-03-08 00:59:13 --> SSO Callback: User data received: {"valid":true,"username":"ardian.maulana","userid":0,"pegawai_id":232}
+INFO - 2025-03-08 00:59:13 --> SSO Callback: User successfully logged in: ardian.maulana
+INFO - 2025-03-08 00:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 00:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 00:59:49 --> Validation errors: ["Baris 6: NIP 197711071999121001 sudah memiliki jadwal WFO pada tanggal 2025-03-27","Baris 11: Tanggal 2025-03-28 adalah hari libur (cuti bersama Hari Suci Nyepi (Tahun Baru Saka 1947))"]
+INFO - 2025-03-08 01:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 01:00:41 --> Validation errors: []
+INFO - 2025-03-08 01:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 01:11:52 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 01:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 01:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 01:42:28 --> mysqli_sql_exception: Unknown column 'penugasan_id' in 'where clause' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\sinerghi\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\sinerghi\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-03-08 01:42:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'penugasan_id' in 'where clause'
+[Method: POST, Route: admin/penugasan/validate-excel-update]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = :penugasan_id:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-08 01:42:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'penugasan_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = :penugasan_id:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-08 01:42:28 --> [Caused by] mysqli_sql_exception: Unknown column 'penugasan_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = :penugasan_id:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-08 01:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 01:42:39 --> mysqli_sql_exception: Unknown column 'penugasan_id' in 'where clause' in C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\sinerghi\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\sinerghi\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\sinerghi\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\sinerghi\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\sinerghi\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\sinerghi\app\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+#8 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+#9 C:\xampp\htdocs\sinerghi\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\sinerghi\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\sinerghi\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\sinerghi\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-03-08 01:42:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'penugasan_id' in 'where clause'
+[Method: POST, Route: admin/penugasan/validate-excel-update]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = :penugasan_id:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-08 01:42:39 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'penugasan_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = :penugasan_id:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-08 01:42:39 --> [Caused by] mysqli_sql_exception: Unknown column 'penugasan_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = \'20\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `jadwal`
+WHERE `penugasan_id` = :penugasan_id:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\PenugasanController.php(1837): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->validateExcelUpdate()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-08 01:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:31:54 --> Usulan ID 20 berhasil diperbarui oleh pegawai ID 232
+INFO - 2025-03-08 02:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 02:32:51 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 02:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:36:43 --> Usulan ID 20 berhasil diperbarui oleh pegawai ID 232
+INFO - 2025-03-08 02:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 02:42:48 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 02:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 02:43:39 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-08 02:43:39 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-08 02:43:39 --> SSO User data received: {"valid":true,"username":"fariz.fauzan","userid":0,"pegawai_id":195}
+DEBUG - 2025-03-08 02:43:39 --> SSO Callback: User data received: {"valid":true,"username":"fariz.fauzan","userid":0,"pegawai_id":195}
+INFO - 2025-03-08 02:43:39 --> SSO Callback: User successfully logged in: fariz.fauzan
+INFO - 2025-03-08 02:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 02:43:58 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-08 02:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 02:44:21 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-08 02:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 02:44:42 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 02:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 02:44:49 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-08 02:44:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 02:45:07 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-08 02:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 02:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 11:30:19 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-08 12:15:36 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-08 12:24:22 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-08 13:13:30 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-08 13:19:59 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-08 13:56:59 --> Decryption error: Decrypting: authentication failed.
+ERROR - 2025-03-08 13:59:10 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 14:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 14:07:06 --> Unit Eselon 2 query: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [nama_unit_kerja] => Biro Umum dan Keuangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:44:31
+            [updated_at] => 2025-02-14 09:01:36
+            [deleted_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [nama_unit_kerja] => Biro Manajemen Kinerja Kerja Sama dan Sumber Daya Manusia
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:22
+            [updated_at] => 2025-02-11 09:11:10
+            [deleted_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 5
+            [nama_unit_kerja] => Biro Komunikasi dan Persidangan
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:45
+            [updated_at] => 2025-02-11 09:11:17
+            [deleted_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 6
+            [nama_unit_kerja] => Biro Digitalisasi dan Pengelolaan Informasi
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:45:59
+            [updated_at] => 2025-02-18 08:17:43
+            [deleted_at] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 7
+            [nama_unit_kerja] => Biro Hukum Organisasi dan Tata Laksana
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:46:15
+            [updated_at] => 2025-02-11 09:11:32
+            [deleted_at] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 17
+            [nama_unit_kerja] => Inspektorat
+            [parent_id] => 2
+            [created_at] => 2025-02-11 01:50:44
+            [updated_at] => 2025-02-11 01:50:44
+            [deleted_at] => 
+        )
+
+)
+
+INFO - 2025-03-08 14:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 14:23:30 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 14:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 14:24:11 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-08 14:24:11 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-08 14:24:11 --> SSO User data received: {"valid":true,"username":"tri.ardiansyah","userid":0,"pegawai_id":184}
+DEBUG - 2025-03-08 14:24:11 --> SSO Callback: User data received: {"valid":true,"username":"tri.ardiansyah","userid":0,"pegawai_id":184}
+INFO - 2025-03-08 14:24:11 --> SSO Callback: User successfully logged in: tri.ardiansyah
+INFO - 2025-03-08 14:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 14:42:56 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-08 14:42:56 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-08 14:42:56 --> SSO User data received: {"valid":true,"username":"putri.purnama","userid":0,"pegawai_id":158}
+DEBUG - 2025-03-08 14:42:56 --> SSO Callback: User data received: {"valid":true,"username":"putri.purnama","userid":0,"pegawai_id":158}
+INFO - 2025-03-08 14:42:56 --> SSO Callback: User successfully logged in: putri.purnama
+INFO - 2025-03-08 14:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 14:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 15:01:27 --> Validation errors: ["Baris 164: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 165: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 166: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 167: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 168: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 171: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 172: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 173: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 174: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 175: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 178: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 179: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 180: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 181: NIP 197509221998031001 (Jefri Indrawanto) bukan dari unit kerja yang sama","Baris 182: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 183: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 184: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 185: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 186: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 189: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 190: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 191: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 192: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 193: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 196: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 197: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 198: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 199: NIP 199408212019022002 (Irdha Maulia Rachmafiani, S.S.T.) bukan dari unit kerja yang sama","Baris 200: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 201: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 202: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 203: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 204: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 207: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 208: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 209: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 210: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 211: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 214: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 215: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 216: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 217: NIP 199503252020121013 (Fauzi Nur Adi, S.E) bukan dari unit kerja yang sama","Baris 218: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 219: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 220: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 221: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 222: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 225: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 226: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 227: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 228: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 229: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 232: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 233: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 234: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 235: NIP 199004152019021002 (Avandra Ardy Nugraha, S.E) bukan dari unit kerja yang sama","Baris 236: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 237: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 238: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 239: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 240: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 243: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 244: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 245: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 246: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 247: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 250: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 251: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 252: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 253: NIP 199202162019021001 (Dwiandi Susantyo, S.Kom) bukan dari unit kerja yang sama","Baris 254: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 255: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 256: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 257: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 258: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 261: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 262: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 263: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 264: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 265: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 268: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 269: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 270: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama","Baris 271: NIP 198508292010122001 (Zulfa Ruhama, S.I.P., MAIR) bukan dari unit kerja yang sama"]
+INFO - 2025-03-08 15:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-08 15:02:18 --> ErrorException: Undefined variable $role_id
+[Method: GET, Route: admin/penugasan]
+in APPPATH\Views\admin\penugasan\index.php on line 10.
+ 1 APPPATH\Views\admin\penugasan\index.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $role_id', 'C:\\xampp\\htdocs\\sinerghi\\app\\Views\\admin\\penugasan\\index.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sinerghi\\app\\Views\\admin\\penugasan\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('admin/penugasan/index', [], true)
+ 5 APPPATH\Controllers\Admin\PenugasanController.php(107): view('admin/penugasan/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\PenugasanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\PenugasanController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-03-08 15:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 15:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 17:28:43 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-08 17:28:43 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-08 17:28:43 --> SSO User data received: {"valid":true,"username":"putri.purnama","userid":0,"pegawai_id":158}
+DEBUG - 2025-03-08 17:28:43 --> SSO Callback: User data received: {"valid":true,"username":"putri.purnama","userid":0,"pegawai_id":158}
+INFO - 2025-03-08 17:28:43 --> SSO Callback: User successfully logged in: putri.purnama
+INFO - 2025-03-08 17:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 17:46:35 --> Validation errors: ["Baris 2: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 3: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 4: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 5: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 6: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 9: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 10: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 11: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 12: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 13: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 16: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 17: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 18: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 19: NIP 197711071999121001 (Agung Gumilar Triyanto, S.ST, M.Si) bukan dari unit kerja yang sama atau sub-unitnya","Baris 20: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 21: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 22: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 23: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 24: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 27: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 28: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 29: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 30: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 31: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 34: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 35: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 36: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 37: NIP 198101182014031001 (Andre Lesmana, ST) bukan dari unit kerja yang sama atau sub-unitnya","Baris 38: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 39: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 40: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 41: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 42: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 45: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 46: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 47: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 48: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 49: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 52: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 53: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 54: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 55: NIP 199205132023211019 (Tri Ardiansyah, S.T.) bukan dari unit kerja yang sama atau sub-unitnya","Baris 56: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 57: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 58: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 59: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 60: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 63: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 64: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 65: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 66: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 67: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 70: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 71: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 72: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 73: NIP 197506232008011006 (Rony Bintoro M.Gurning, S.Kom, M.T.I) bukan dari unit kerja yang sama atau sub-unitnya","Baris 74: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 75: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 76: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 77: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 78: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 81: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 82: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 83: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 84: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 85: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 88: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 89: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 90: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 91: NIP 199802022023212008 (Amalia Fitriana Rahmawati, S.Stat) bukan dari unit kerja yang sama atau sub-unitnya","Baris 92: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 93: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 94: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 95: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 96: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 99: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 100: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 101: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 102: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 103: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 106: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 107: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 108: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 109: NIP 199503142020122022 (Richa Marchelina Purba, S.Tr.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 110: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 111: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 112: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 113: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 114: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 117: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 118: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 119: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 120: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 121: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 124: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 125: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 126: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 127: NIP 199110052019021002 (Mohammad Azis Khoirul Fata, S.ST., M.T) bukan dari unit kerja yang sama atau sub-unitnya","Baris 128: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 129: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 130: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 131: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 132: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 135: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 136: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 137: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 138: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 139: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 142: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 143: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 144: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 145: NIP 199308312019021001 (Ardian Maulana, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 146: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 147: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 148: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 149: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 150: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 153: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 154: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 155: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 156: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 157: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 160: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 161: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 162: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 163: NIP 199711232020122013 (Nurul Aini Hasibuan, A.Md) bukan dari unit kerja yang sama atau sub-unitnya","Baris 164: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 165: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 166: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 167: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 168: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 171: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 172: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 173: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 174: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 175: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 178: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 179: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 180: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 181: NIP 199511242020122013 (Luqyana Andin Nur Aini, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 182: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 183: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 184: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 185: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 186: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 189: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 190: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 191: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 192: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 193: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 196: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 197: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 198: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Baris 199: NIP 199203232020121011 (Fahmi Hardiansyah, S.Kom) bukan dari unit kerja yang sama atau sub-unitnya","Pegawai berikut belum terdapat dalam Excel:<br>- Drs. Budi Prasetyo, MT (NIP: 196810291992031003)<br>- Ihti Oktarina, S.Sn, M.I.Kom (NIP: 198410272010122001)<br>- Olivia Christine Pangaribuan, S.I.Kom, M.Si (NIP: 199003192014032001)<br>- Putri Nova Purnama, S.Hum (NIP: 199611242020122023)<br>- Anggun Wahyu Pratama, S.IP (NIP: 199007162020121008)<br>- Mega Hartati, S.I.Kom (NIP: 199201282023212029)<br>- Tratama Helmi Supanji, S.A.B (NIP: 199805042020121005)<br>- Putri Noor Jehan, S.I.Kom (NIP: 199702012020122016)<br>- Dwi Prasetya Anindito, A.Md (NIP: 198908262015011001)"]
+INFO - 2025-03-08 17:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 17:47:04 --> Validation errors: []
+INFO - 2025-03-08 17:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 17:47:27 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 17:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-03-08 17:50:07 --> SSO Callback received. Method: GET, Token: present
+DEBUG - 2025-03-08 17:50:07 --> SSO Callback: Attempting to get user data with token
+DEBUG - 2025-03-08 17:50:07 --> SSO User data received: {"valid":true,"username":"fariz.fauzan","userid":0,"pegawai_id":195}
+DEBUG - 2025-03-08 17:50:07 --> SSO Callback: User data received: {"valid":true,"username":"fariz.fauzan","userid":0,"pegawai_id":195}
+INFO - 2025-03-08 17:50:07 --> SSO Callback: User successfully logged in: fariz.fauzan
+INFO - 2025-03-08 17:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 17:50:33 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 17:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 17:50:44 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 17:50:44 --> Updated usulan ID: 20 with status: 2 (no catatan)
+INFO - 2025-03-08 17:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 17:50:48 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 17:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-08 17:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-03-08 17:50:56 --> Decryption error: Decrypting: authentication failed.
+INFO - 2025-03-08 17:50:56 --> Updated usulan ID: 22 with status: 2 (no catatan)
+INFO - 2025-03-08 17:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
